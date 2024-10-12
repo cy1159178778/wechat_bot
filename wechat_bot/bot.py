@@ -8,7 +8,7 @@ import schedule
 import threading
 from fastapi import Body
 
-from common import app, Msg, run_async_task
+from common import app, Msg
 from manager import handle
 
 
