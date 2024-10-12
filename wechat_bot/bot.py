@@ -10,9 +10,6 @@ from fastapi import Body
 
 from common import app, Msg, run_async_task
 from manager import handle
-from browser import get_browser
-
-run_async_task(get_browser)
 
 
 @app.post("/callback")
