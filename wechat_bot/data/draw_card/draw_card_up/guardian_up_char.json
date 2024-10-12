@@ -1,0 +1,90 @@
+{
+    "char": {
+        "title": "本次up从03月30日开始，至04月13日结束。",
+        "pool_img": "",
+        "start_time": "2023-03-30T00:00:00",
+        "end_time": "2023-04-13T00:00:00",
+        "up_char": [
+            {
+                "name": "安德拉斯",
+                "star": 3,
+                "limited": false,
+                "zoom": 0.0
+            },
+            {
+                "name": "佳岚",
+                "star": 3,
+                "limited": false,
+                "zoom": 0.0
+            },
+            {
+                "name": "AA72",
+                "star": 3,
+                "limited": false,
+                "zoom": 0.0
+            },
+            {
+                "name": "奥尔卡",
+                "star": 3,
+                "limited": false,
+                "zoom": 0.0
+            },
+            {
+                "name": "哈娜",
+                "star": 3,
+                "limited": false,
+                "zoom": 0.0
+            },
+            {
+                "name": "比安卡",
+                "star": 3,
+                "limited": false,
+                "zoom": 0.0
+            }
+        ]
+    },
+    "arms": {
+        "title": "本次up从03月30日开始，至04月13日结束。",
+        "pool_img": "",
+        "start_time": "2023-03-30T00:00:00",
+        "end_time": "2023-04-13T00:00:00",
+        "up_char": [
+            {
+                "name": "猎头者",
+                "star": 5,
+                "limited": false,
+                "zoom": 0.0
+            },
+            {
+                "name": "千雷弓",
+                "star": 5,
+                "limited": false,
+                "zoom": 0.0
+            },
+            {
+                "name": "湛蓝鱼矛",
+                "star": 5,
+                "limited": false,
+                "zoom": 0.0
+            },
+            {
+                "name": "涅墨西斯",
+                "star": 5,
+                "limited": false,
+                "zoom": 0.0
+            },
+            {
+                "name": "冲破禁锢",
+                "star": 5,
+                "limited": false,
+                "zoom": 0.0
+            },
+            {
+                "name": "阿施塔特",
+                "star": 5,
+                "limited": false,
+                "zoom": 0.0
+            }
+        ]
+    }
+}

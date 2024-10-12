@@ -1,0 +1,116 @@
+{
+    "char": {
+        "title": "「敕诫枢谋」",
+        "pool_img": "https:\/\/patchwiki.biligame.com\/images\/ys\/d\/d6\/qa49iq8bg8893gch7wcsoc80faroj49.png",
+        "start_time": "2024-06-04T17:59:00",
+        "end_time": "2024-06-24T17:59:00",
+        "up_char": [
+            {
+                "name": "艾尔海森",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "赛索斯",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "班尼特",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "托马",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            }
+        ]
+    },
+    "arms": {
+        "title": "「神铸赋形」",
+        "pool_img": "https:\/\/patchwiki.biligame.com\/images\/ys\/4\/43\/tqk2f1ziy72f0br5yajwhpdt5rf13zz.png",
+        "start_time": "2024-06-04T17:59:00",
+        "end_time": "2024-06-24T17:59:00",
+        "up_char": [
+            {
+                "name": "赦罪",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "裁叶萃光",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "祭礼剑",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "祭礼大剑",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "祭礼残章",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "绝弦",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "千岩长枪",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            }
+        ]
+    },
+    "char1": {
+        "title": "「流霆贯夜」",
+        "pool_img": "https:\/\/patchwiki.biligame.com\/images\/ys\/0\/00\/inee2jgfnnstu0mddym9xxl761q4uzx.png",
+        "start_time": "2024-06-04T17:59:00",
+        "end_time": "2024-06-24T17:59:00",
+        "up_char": [
+            {
+                "name": "克洛琳德",
+                "star": 5,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "赛索斯",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "班尼特",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            },
+            {
+                "name": "托马",
+                "star": 4,
+                "limited": false,
+                "zoom": 50.0
+            }
+        ]
+    }
+}

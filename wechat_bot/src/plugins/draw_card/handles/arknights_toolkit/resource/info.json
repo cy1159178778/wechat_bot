@@ -1,0 +1,2894 @@
+{
+  "detail": "org_related 写的是目标->猜测的关系，目标为key",
+  "org_related": {
+    "汐斯塔": [
+      "哥伦比亚",
+      "黑钢国际",
+      "莱茵生命"
+    ],
+    "叙拉古": [
+      "贾维团伙"
+    ],
+    "乌萨斯学生自治团": [
+      "乌萨斯",
+      "罗德岛"
+    ],
+    "格拉斯哥帮": [
+      "维多利亚",
+      "罗德岛"
+    ],
+    "罗德岛": [
+      "行动预备组A4",
+      "行动预备组A1",
+      "S.W.E.E.P.",
+      "行动预备组A6",
+      "行动组A4",
+      "巴别塔",
+      "罗德岛-精英干员"
+    ],
+    "雷姆必拓": [],
+    "伊比利亚": [],
+    "萨尔贡": [],
+    "贾维团伙": [
+      "叙拉古"
+    ],
+    "莱茵生命": [
+      "哥伦比亚",
+      "黑钢国际",
+      "汐斯塔"
+    ],
+    "深池": [
+      "维多利亚"
+    ],
+    "维多利亚": [
+      "格拉斯哥帮",
+      "深池"
+    ],
+    "鲤氏侦探事务所": [
+      "炎-龙门",
+      "炎-岁",
+      "炎",
+      "龙门近卫局",
+      "企鹅物流"
+    ],
+    "罗德岛-精英干员": [
+      "行动预备组A4",
+      "行动预备组A1",
+      "S.W.E.E.P.",
+      "行动预备组A6",
+      "行动组A4",
+      "巴别塔",
+      "罗德岛"
+    ],
+    "莱塔尼亚": [],
+    "米诺斯": [],
+    "拉特兰": [],
+    "龙门近卫局": [
+      "炎-龙门",
+      "炎-岁",
+      "炎",
+      "鲤氏侦探事务所",
+      "企鹅物流"
+    ],
+    "黑钢国际": [
+      "汐斯塔",
+      "哥伦比亚",
+      "莱茵生命"
+    ],
+    "卡西米尔": [
+      "红松骑士团"
+    ],
+    "企鹅物流": [
+      "炎-龙门",
+      "炎-岁",
+      "炎",
+      "鲤氏侦探事务所",
+      "龙门近卫局",
+      "罗德岛"
+    ],
+    "深海猎人": [
+      "阿戈尔",
+      "罗德岛"
+    ],
+    "炎": [
+      "炎-龙门",
+      "炎-岁",
+      "龙门近卫局",
+      "鲤氏侦探事务所",
+      "企鹅物流"
+    ],
+    "喀兰贸易": [],
+    "阿戈尔": [
+      "深海猎人"
+    ],
+    "巴别塔": [
+      "罗德岛",
+      "罗德岛-精英干员"
+    ],
+    "哥伦比亚": [
+      "汐斯塔",
+      "黑钢国际",
+      "莱茵生命"
+    ],
+    "红松骑士团": [
+      "卡西米尔",
+      "罗德岛"
+    ],
+    "炎-岁": [
+      "炎-龙门",
+      "龙门近卫局",
+      "炎",
+      "鲤氏侦探事务所",
+      "企鹅物流",
+      "罗德岛"
+    ],
+    "乌萨斯": [
+      "乌萨斯学生自治团"
+    ],
+    "东": [],
+    "行动预备组A6": [
+      "行动预备组A4",
+      "行动预备组A1",
+      "S.W.E.E.P.",
+      "罗德岛",
+      "行动组A4",
+      "巴别塔",
+      "罗德岛-精英干员"
+    ],
+    "行动组A4": [
+      "行动预备组A4",
+      "行动预备组A1",
+      "S.W.E.E.P.",
+      "罗德岛",
+      "行动预备组A6",
+      "巴别塔",
+      "罗德岛-精英干员"
+    ],
+    "炎-龙门": [
+      "炎-岁",
+      "龙门近卫局",
+      "炎",
+      "鲤氏侦探事务所",
+      "企鹅物流"
+    ],
+    "S.W.E.E.P.": [
+      "行动预备组A4",
+      "行动预备组A1",
+      "行动组A4",
+      "罗德岛",
+      "行动预备组A6",
+      "巴别塔",
+      "罗德岛-精英干员"
+    ],
+    "行动预备组A1": [
+      "行动预备组A4",
+      "S.W.E.E.P.",
+      "行动组A4",
+      "罗德岛",
+      "行动预备组A6",
+      "巴别塔",
+      "罗德岛-精英干员"
+    ],
+    "萨米": [],
+    "彩虹小队": [],
+    "使徒": [
+      "罗德岛"
+    ],
+    "玻利瓦尔": [],
+    "行动预备组A4": [
+      "行动预备组A1",
+      "S.W.E.E.P.",
+      "行动组A4",
+      "罗德岛",
+      "行动预备组A6",
+      "巴别塔",
+      "罗德岛-精英干员"
+    ]
+  },
+  "table": {
+    "12F": {
+      "id": "char_009_12fce",
+      "rarity": 1,
+      "org": "罗德岛",
+      "career": "术师-扩散术师",
+      "race": "萨弗拉",
+      "artist": "海猫络合物"
+    },
+    "Castle-3": {
+      "id": "char_286_cast3",
+      "rarity": 0,
+      "org": "罗德岛",
+      "career": "近卫-无畏者",
+      "race": "\/",
+      "artist": "TOKI"
+    },
+    "Friston-3": {
+      "id": "char_4093_frston",
+      "rarity": 0,
+      "org": "罗德岛",
+      "career": "重装-铁卫",
+      "race": "\/",
+      "artist": "过失帝国"
+    },
+    "Lancet-2": {
+      "id": "char_285_medic2",
+      "rarity": 0,
+      "org": "罗德岛",
+      "career": "医疗-医师",
+      "race": "\/",
+      "artist": "TOKI"
+    },
+    "PhonoR-0": {
+      "id": "char_4136_phonor",
+      "rarity": 0,
+      "org": "罗德岛",
+      "career": "辅助-巫役",
+      "race": "\/",
+      "artist": "M1917史密斯维森"
+    },
+    "Pith": {
+      "id": "char_509_acast",
+      "rarity": 4,
+      "org": "罗德岛-精英干员",
+      "career": "术师-扩散术师",
+      "race": "黎博利",
+      "artist": "Cornelies"
+    },
+    "Sharp": {
+      "id": "char_508_aguard",
+      "rarity": 4,
+      "org": "罗德岛-精英干员",
+      "career": "近卫-无畏者",
+      "race": "斐迪亚",
+      "artist": "熊太"
+    },
+    "Stormeye": {
+      "id": "char_511_asnipe",
+      "rarity": 4,
+      "org": "罗德岛-精英干员",
+      "career": "狙击-速射手",
+      "race": "萨卡兹",
+      "artist": "熊太"
+    },
+    "THRM-EX": {
+      "id": "char_376_therex",
+      "rarity": 0,
+      "org": "罗德岛",
+      "career": "特种-处决者",
+      "race": "\/",
+      "artist": "TOKI"
+    },
+    "Touch": {
+      "id": "char_510_amedic",
+      "rarity": 4,
+      "org": "罗德岛-精英干员",
+      "career": "医疗-医师",
+      "race": "卡普里尼",
+      "artist": "熊太"
+    },
+    "U-Official": {
+      "id": "char_4091_ulika",
+      "rarity": 0,
+      "org": "罗德岛",
+      "career": "辅助-吟游者",
+      "race": "札拉克",
+      "artist": "折射镜"
+    },
+    "W": {
+      "id": "char_113_cqbw",
+      "rarity": 5,
+      "org": "巴别塔",
+      "career": "狙击-炮手",
+      "race": "萨卡兹",
+      "artist": "Liduke"
+    },
+    "万顷": {
+      "id": "char_4119_wanqin",
+      "rarity": 4,
+      "org": "炎",
+      "career": "先锋-执旗手",
+      "race": "丰蹄",
+      "artist": "三目YYB"
+    },
+    "临光": {
+      "id": "char_148_nearl",
+      "rarity": 4,
+      "org": "使徒",
+      "career": "重装-守护者",
+      "race": "库兰塔",
+      "artist": "竜崎いち"
+    },
+    "乌尔比安": {
+      "id": "char_4145_ulpia",
+      "rarity": 5,
+      "org": "深海猎人",
+      "career": "近卫-重剑手",
+      "race": "阿戈尔",
+      "artist": "Skade"
+    },
+    "乌有": {
+      "id": "char_455_nothin",
+      "rarity": 4,
+      "org": "炎",
+      "career": "特种-行商",
+      "race": "黎博利",
+      "artist": "Skade"
+    },
+    "九色鹿": {
+      "id": "char_4019_ncdeer",
+      "rarity": 4,
+      "org": "炎",
+      "career": "辅助-护佑者",
+      "race": "埃拉菲亚",
+      "artist": "IRIS_呓"
+    },
+    "亚叶": {
+      "id": "char_345_folnic",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "医疗-医师",
+      "race": "菲林",
+      "artist": "m9nokuro"
+    },
+    "仇白": {
+      "id": "char_4082_qiubai",
+      "rarity": 5,
+      "org": "炎",
+      "career": "近卫-领主",
+      "race": "埃拉菲亚",
+      "artist": "温泉瓜"
+    },
+    "令": {
+      "id": "char_2023_ling",
+      "rarity": 5,
+      "org": "炎-岁",
+      "career": "辅助-召唤师",
+      "race": "未公开",
+      "artist": "下野宏铭"
+    },
+    "伊内丝": {
+      "id": "char_4087_ines",
+      "rarity": 5,
+      "org": "巴别塔",
+      "career": "先锋-情报官",
+      "race": "未公开",
+      "artist": "板板"
+    },
+    "伊桑": {
+      "id": "char_355_ethan",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "特种-伏击客",
+      "race": "萨弗拉",
+      "artist": "阿鬼"
+    },
+    "伊芙利特": {
+      "id": "char_134_ifrit",
+      "rarity": 5,
+      "org": "莱茵生命",
+      "career": "术师-轰击术师",
+      "race": "萨卡兹",
+      "artist": "NoriZC"
+    },
+    "休谟斯": {
+      "id": "char_491_humus",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "近卫-收割者",
+      "race": "丰蹄",
+      "artist": "我妻洛酱"
+    },
+    "伺夜": {
+      "id": "char_427_vigil",
+      "rarity": 5,
+      "org": "叙拉古",
+      "career": "先锋-战术家",
+      "race": "鲁珀",
+      "artist": "hou"
+    },
+    "但书": {
+      "id": "char_4032_provs",
+      "rarity": 4,
+      "org": "卡西米尔",
+      "career": "辅助-凝滞师",
+      "race": "库兰塔",
+      "artist": "せんむ"
+    },
+    "假日威龙陈": {
+      "id": "char_1013_chen2",
+      "rarity": 5,
+      "org": "罗德岛",
+      "career": "狙击-散射手",
+      "race": "龙",
+      "artist": "唯@W"
+    },
+    "傀影": {
+      "id": "char_250_phatom",
+      "rarity": 5,
+      "org": "维多利亚",
+      "career": "特种-处决者",
+      "race": "菲林",
+      "artist": "Skade"
+    },
+    "克洛丝": {
+      "id": "char_124_kroos",
+      "rarity": 2,
+      "org": "行动预备组A1",
+      "career": "狙击-速射手",
+      "race": "卡特斯",
+      "artist": "下野宏铭"
+    },
+    "冰酿": {
+      "id": "char_4104_coldst",
+      "rarity": 4,
+      "org": "哥伦比亚",
+      "career": "狙击-猎手",
+      "race": "埃拉菲亚",
+      "artist": "Mag42"
+    },
+    "凛冬": {
+      "id": "char_115_headbr",
+      "rarity": 4,
+      "org": "乌萨斯学生自治团",
+      "career": "先锋-尖兵",
+      "race": "乌萨斯",
+      "artist": "Skade"
+    },
+    "凛视": {
+      "id": "char_4102_threye",
+      "rarity": 4,
+      "org": "萨米",
+      "career": "辅助-巫役",
+      "race": "萨卡兹",
+      "artist": "伍秋秋秋秋"
+    },
+    "凯尔希": {
+      "id": "char_003_kalts",
+      "rarity": 5,
+      "org": "罗德岛",
+      "career": "医疗-医师",
+      "race": "菲林",
+      "artist": "唯@W"
+    },
+    "初雪": {
+      "id": "char_174_slbell",
+      "rarity": 4,
+      "org": "喀兰贸易",
+      "career": "辅助-削弱者",
+      "race": "菲林",
+      "artist": "竜崎いち"
+    },
+    "刺玫": {
+      "id": "char_494_vendla",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "医疗-咒愈师",
+      "race": "菲林",
+      "artist": "Studio Montagne"
+    },
+    "刻俄柏": {
+      "id": "char_2013_cerber",
+      "rarity": 5,
+      "org": "罗德岛",
+      "career": "术师-中坚术师",
+      "race": "佩洛",
+      "artist": "LM7"
+    },
+    "刻刀": {
+      "id": "char_301_cutter",
+      "rarity": 3,
+      "org": "哥伦比亚",
+      "career": "近卫-剑豪",
+      "race": "沃尔珀",
+      "artist": "下野宏铭"
+    },
+    "医生": {
+      "id": "char_4125_rdoc",
+      "rarity": 4,
+      "org": "彩虹小队",
+      "career": "近卫-教官",
+      "race": "未知",
+      "artist": "Ubisoft"
+    },
+    "华法琳": {
+      "id": "char_171_bldsk",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "医疗-医师",
+      "race": "萨卡兹",
+      "artist": "时辰"
+    },
+    "卡夫卡": {
+      "id": "char_214_kafka",
+      "rarity": 4,
+      "org": "哥伦比亚",
+      "career": "特种-处决者",
+      "race": "黎博利",
+      "artist": "NoriZC"
+    },
+    "卡涅利安": {
+      "id": "char_426_billro",
+      "rarity": 5,
+      "org": "莱塔尼亚",
+      "career": "术师-阵法术师",
+      "race": "卡普里尼",
+      "artist": "カワグチ"
+    },
+    "卡缇": {
+      "id": "char_209_ardign",
+      "rarity": 2,
+      "org": "行动预备组A4",
+      "career": "重装-铁卫",
+      "race": "佩洛",
+      "artist": "一立里子"
+    },
+    "卡达": {
+      "id": "char_328_cammou",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "术师-驭械术师",
+      "race": "札拉克",
+      "artist": "れおえん"
+    },
+    "历阵锐枪芬": {
+      "id": "char_1036_fang2",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "先锋-冲锋手",
+      "race": "库兰塔",
+      "artist": "下野宏铭"
+    },
+    "双月": {
+      "id": "char_4124_iana",
+      "rarity": 4,
+      "org": "彩虹小队",
+      "career": "特种-傀儡师",
+      "race": "未知",
+      "artist": "Ubisoft"
+    },
+    "古米": {
+      "id": "char_196_sunbr",
+      "rarity": 3,
+      "org": "乌萨斯学生自治团",
+      "career": "重装-守护者",
+      "race": "乌萨斯",
+      "artist": "Skade"
+    },
+    "可颂": {
+      "id": "char_201_moeshd",
+      "rarity": 4,
+      "org": "企鹅物流",
+      "career": "重装-铁卫",
+      "race": "丰蹄",
+      "artist": "幻象黑兔"
+    },
+    "史尔特尔": {
+      "id": "char_350_surtr",
+      "rarity": 5,
+      "org": "罗德岛",
+      "career": "近卫-术战者",
+      "race": "萨卡兹",
+      "artist": "Ask"
+    },
+    "史都华德": {
+      "id": "char_210_stward",
+      "rarity": 2,
+      "org": "行动预备组A4",
+      "career": "术师-中坚术师",
+      "race": "沃尔珀",
+      "artist": "一立里子"
+    },
+    "号角": {
+      "id": "char_4039_horn",
+      "rarity": 5,
+      "org": "维多利亚",
+      "career": "重装-要塞",
+      "race": "鲁珀",
+      "artist": "m9nokuro"
+    },
+    "吽": {
+      "id": "char_226_hmau",
+      "rarity": 4,
+      "org": "鲤氏侦探事务所",
+      "career": "重装-守护者",
+      "race": "佩洛",
+      "artist": "KuroBlood"
+    },
+    "和弦": {
+      "id": "char_297_hamoni",
+      "rarity": 4,
+      "org": "深池",
+      "career": "术师-秘术师",
+      "race": "菲林",
+      "artist": "STAR影法师"
+    },
+    "哈洛德": {
+      "id": "char_4114_harold",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "医疗-行医",
+      "race": "菲林",
+      "artist": "一千"
+    },
+    "嘉维尔": {
+      "id": "char_187_ccheal",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "医疗-医师",
+      "race": "阿达克利斯",
+      "artist": "LLC"
+    },
+    "四月": {
+      "id": "char_365_aprl",
+      "rarity": 4,
+      "org": "雷姆必拓",
+      "career": "狙击-速射手",
+      "race": "卡特斯",
+      "artist": "れおえん"
+    },
+    "因陀罗": {
+      "id": "char_155_tiger",
+      "rarity": 4,
+      "org": "格拉斯哥帮",
+      "career": "近卫-斗士",
+      "race": "菲林",
+      "artist": "Infukun"
+    },
+    "图耶": {
+      "id": "char_402_tuye",
+      "rarity": 4,
+      "org": "萨尔贡",
+      "career": "医疗-医师",
+      "race": "丰蹄",
+      "artist": "aZLing4"
+    },
+    "圣约送葬人": {
+      "id": "char_1032_excu2",
+      "rarity": 5,
+      "org": "拉特兰",
+      "career": "近卫-收割者",
+      "race": "萨科塔",
+      "artist": "Skade"
+    },
+    "地灵": {
+      "id": "char_183_skgoat",
+      "rarity": 3,
+      "org": "莱塔尼亚",
+      "career": "辅助-凝滞师",
+      "race": "卡普里尼",
+      "artist": "HUG"
+    },
+    "坚雷": {
+      "id": "char_260_durnar",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "重装-驭法铁卫",
+      "race": "沃尔珀",
+      "artist": "下野宏铭"
+    },
+    "埃拉托": {
+      "id": "char_4043_erato",
+      "rarity": 4,
+      "org": "米诺斯",
+      "career": "狙击-攻城手",
+      "race": "黎博利",
+      "artist": "温泉瓜"
+    },
+    "塑心": {
+      "id": "char_245_cello",
+      "rarity": 5,
+      "org": "拉特兰",
+      "career": "辅助-巫役",
+      "race": "萨科塔",
+      "artist": "竜崎いち"
+    },
+    "塞雷娅": {
+      "id": "char_202_demkni",
+      "rarity": 5,
+      "org": "莱茵生命",
+      "career": "重装-守护者",
+      "race": "瓦伊凡",
+      "artist": "NoriZC"
+    },
+    "夏栎": {
+      "id": "char_492_quercu",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "辅助-护佑者",
+      "race": "菲林",
+      "artist": "YUJI"
+    },
+    "夕": {
+      "id": "char_2015_dusk",
+      "rarity": 5,
+      "org": "炎-岁",
+      "career": "术师-扩散术师",
+      "race": "未公开",
+      "artist": "幻象黑兔"
+    },
+    "多萝西": {
+      "id": "char_4048_doroth",
+      "rarity": 5,
+      "org": "莱茵生命",
+      "career": "特种-陷阱师",
+      "race": "札拉克",
+      "artist": "Jacknife"
+    },
+    "夜刀": {
+      "id": "char_502_nblade",
+      "rarity": 1,
+      "org": "行动组A4",
+      "career": "先锋-尖兵",
+      "race": "鬼",
+      "artist": "Skade"
+    },
+    "夜半": {
+      "id": "char_476_blkngt",
+      "rarity": 4,
+      "org": "雷姆必拓",
+      "career": "先锋-战术家",
+      "race": "萨弗拉",
+      "artist": "温泉瓜"
+    },
+    "夜烟": {
+      "id": "char_141_nights",
+      "rarity": 3,
+      "org": "维多利亚",
+      "career": "术师-中坚术师",
+      "race": "菲林",
+      "artist": "Skade"
+    },
+    "夜莺": {
+      "id": "char_179_cgbird",
+      "rarity": 5,
+      "org": "使徒",
+      "career": "医疗-群愈师",
+      "race": "萨卡兹",
+      "artist": "Skade"
+    },
+    "夜魔": {
+      "id": "char_164_nightm",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "术师-中坚术师",
+      "race": "菲林",
+      "artist": "Lpip"
+    },
+    "天火": {
+      "id": "char_166_skfire",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "术师-扩散术师",
+      "race": "菲林",
+      "artist": "TOKI"
+    },
+    "奥斯塔": {
+      "id": "char_346_aosta",
+      "rarity": 4,
+      "org": "贾维团伙",
+      "career": "狙击-散射手",
+      "race": "鲁珀",
+      "artist": "Infukun"
+    },
+    "奥达": {
+      "id": "char_4131_odda",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "近卫-撼地者",
+      "race": "萨卡兹",
+      "artist": "我妻洛酱"
+    },
+    "子月": {
+      "id": "char_4014_lunacu",
+      "rarity": 4,
+      "org": "叙拉古",
+      "career": "狙击-神射手",
+      "race": "鲁珀",
+      "artist": "IRIS_呓"
+    },
+    "孑": {
+      "id": "char_272_strong",
+      "rarity": 3,
+      "org": "炎-龙门",
+      "career": "特种-行商",
+      "race": "乌萨斯",
+      "artist": "阿鬼"
+    },
+    "守林人": {
+      "id": "char_158_milu",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "狙击-神射手",
+      "race": "埃拉菲亚",
+      "artist": "aZLing4"
+    },
+    "安哲拉": {
+      "id": "char_218_cuttle",
+      "rarity": 4,
+      "org": "深海猎人",
+      "career": "狙击-神射手",
+      "race": "阿戈尔",
+      "artist": "LLC"
+    },
+    "安德切尔": {
+      "id": "char_211_adnach",
+      "rarity": 2,
+      "org": "行动预备组A4",
+      "career": "狙击-速射手",
+      "race": "萨科塔",
+      "artist": "一立里子"
+    },
+    "安比尔": {
+      "id": "char_302_glaze",
+      "rarity": 3,
+      "org": "拉特兰",
+      "career": "狙击-神射手",
+      "race": "萨科塔",
+      "artist": "m9nokuro"
+    },
+    "安洁莉娜": {
+      "id": "char_291_aglina",
+      "rarity": 5,
+      "org": "叙拉古",
+      "career": "辅助-凝滞师",
+      "race": "沃尔珀",
+      "artist": "LM7"
+    },
+    "安赛尔": {
+      "id": "char_212_ansel",
+      "rarity": 2,
+      "org": "行动预备组A4",
+      "career": "医疗-医师",
+      "race": "卡特斯",
+      "artist": "一立里子"
+    },
+    "宴": {
+      "id": "char_337_utage",
+      "rarity": 3,
+      "org": "东",
+      "career": "近卫-武者",
+      "race": "不明",
+      "artist": "釜飯轟々丸"
+    },
+    "寒檀": {
+      "id": "char_341_sntlla",
+      "rarity": 4,
+      "org": "萨米",
+      "career": "术师-扩散术师",
+      "race": "菲林",
+      "artist": "Studio Montagne"
+    },
+    "寒芒克洛丝": {
+      "id": "char_1021_kroos2",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "狙击-速射手",
+      "race": "卡特斯",
+      "artist": "下野宏铭"
+    },
+    "导火索": {
+      "id": "char_4126_fuze",
+      "rarity": 4,
+      "org": "彩虹小队",
+      "career": "近卫-强攻手",
+      "race": "未知",
+      "artist": "Ubisoft"
+    },
+    "小满": {
+      "id": "char_4122_grabds",
+      "rarity": 4,
+      "org": "炎",
+      "career": "辅助-凝滞师",
+      "race": "黎博利",
+      "artist": "YUJI"
+    },
+    "山": {
+      "id": "char_264_f12yin",
+      "rarity": 5,
+      "org": "哥伦比亚",
+      "career": "近卫-斗士",
+      "race": "菲林",
+      "artist": "WincalBlanke"
+    },
+    "崖心": {
+      "id": "char_173_slchan",
+      "rarity": 4,
+      "org": "喀兰贸易",
+      "career": "特种-钩索师",
+      "race": "菲林",
+      "artist": "竜崎いち"
+    },
+    "嵯峨": {
+      "id": "char_362_saga",
+      "rarity": 5,
+      "org": "东",
+      "career": "先锋-尖兵",
+      "race": "佩洛",
+      "artist": "多元菌"
+    },
+    "巡林者": {
+      "id": "char_503_rang",
+      "rarity": 1,
+      "org": "行动组A4",
+      "career": "狙击-速射手",
+      "race": "萨弗拉",
+      "artist": "竜崎いち"
+    },
+    "左乐": {
+      "id": "char_4121_zuole",
+      "rarity": 5,
+      "org": "炎",
+      "career": "近卫-武者",
+      "race": "斐迪亚",
+      "artist": "九日九号"
+    },
+    "巫恋": {
+      "id": "char_254_vodfox",
+      "rarity": 4,
+      "org": "叙拉古",
+      "career": "辅助-削弱者",
+      "race": "沃尔珀",
+      "artist": "下野宏铭"
+    },
+    "布丁": {
+      "id": "char_4004_pudd",
+      "rarity": 3,
+      "org": "哥伦比亚",
+      "career": "术师-链术师",
+      "race": "阿戈尔",
+      "artist": "折射镜"
+    },
+    "布洛卡": {
+      "id": "char_356_broca",
+      "rarity": 4,
+      "org": "贾维团伙",
+      "career": "近卫-强攻手",
+      "race": "菲林",
+      "artist": "Infukun"
+    },
+    "帕拉斯": {
+      "id": "char_485_pallas",
+      "rarity": 5,
+      "org": "米诺斯",
+      "career": "近卫-教官",
+      "race": "丰蹄",
+      "artist": "aZLing4"
+    },
+    "年": {
+      "id": "char_2014_nian",
+      "rarity": 5,
+      "org": "炎-岁",
+      "career": "重装-铁卫",
+      "race": "未公开",
+      "artist": "幻象黑兔"
+    },
+    "幽灵鲨": {
+      "id": "char_143_ghost",
+      "rarity": 4,
+      "org": "深海猎人",
+      "career": "近卫-强攻手",
+      "race": "未公开",
+      "artist": "Skade"
+    },
+    "异客": {
+      "id": "char_472_pasngr",
+      "rarity": 5,
+      "org": "萨尔贡",
+      "career": "术师-链术师",
+      "race": "黎博利",
+      "artist": "Skade"
+    },
+    "归溟幽灵鲨": {
+      "id": "char_1023_ghost2",
+      "rarity": 5,
+      "org": "深海猎人",
+      "career": "特种-傀儡师",
+      "race": "阿戈尔",
+      "artist": "Skade"
+    },
+    "微风": {
+      "id": "char_275_breeze",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "医疗-群愈师",
+      "race": "沃尔珀",
+      "artist": "藻"
+    },
+    "德克萨斯": {
+      "id": "char_102_texas",
+      "rarity": 4,
+      "org": "企鹅物流",
+      "career": "先锋-尖兵",
+      "race": "鲁珀",
+      "artist": "幻象黑兔"
+    },
+    "惊蛰": {
+      "id": "char_306_leizi",
+      "rarity": 4,
+      "org": "炎",
+      "career": "术师-链术师",
+      "race": "麒麟",
+      "artist": "竜崎いち"
+    },
+    "慑砂": {
+      "id": "char_379_sesa",
+      "rarity": 4,
+      "org": "萨尔贡",
+      "career": "狙击-炮手",
+      "race": "瓦伊凡",
+      "artist": "竜崎いち"
+    },
+    "慕斯": {
+      "id": "char_185_frncat",
+      "rarity": 3,
+      "org": "维多利亚",
+      "career": "近卫-术战者",
+      "race": "菲林",
+      "artist": "Iritoa"
+    },
+    "战车": {
+      "id": "char_459_tachak",
+      "rarity": 4,
+      "org": "彩虹小队",
+      "career": "近卫-剑豪",
+      "race": "未知",
+      "artist": "Ubisoft"
+    },
+    "截云": {
+      "id": "char_4078_bdhkgt",
+      "rarity": 4,
+      "org": "炎",
+      "career": "狙击-炮手",
+      "race": "阿纳萨",
+      "artist": "伍秋秋秋秋"
+    },
+    "戴菲恩": {
+      "id": "char_4110_delphn",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "术师-秘术师",
+      "race": "菲林",
+      "artist": "Cenm0"
+    },
+    "承曦格雷伊": {
+      "id": "char_1027_greyy2",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "狙击-投掷手",
+      "race": "佩洛",
+      "artist": "我妻洛酱"
+    },
+    "折光": {
+      "id": "char_499_kaitou",
+      "rarity": 4,
+      "org": "莱塔尼亚",
+      "career": "术师-本源术师",
+      "race": "卡普里尼",
+      "artist": "およ"
+    },
+    "拉普兰德": {
+      "id": "char_140_whitew",
+      "rarity": 4,
+      "org": "叙拉古",
+      "career": "近卫-领主",
+      "race": "鲁珀",
+      "artist": "幻象黑兔"
+    },
+    "拜松": {
+      "id": "char_325_bison",
+      "rarity": 4,
+      "org": "炎-龙门",
+      "career": "重装-铁卫",
+      "race": "丰蹄",
+      "artist": "竜崎いち"
+    },
+    "掠风": {
+      "id": "char_433_windft",
+      "rarity": 4,
+      "org": "哥伦比亚",
+      "career": "辅助-工匠",
+      "race": "佩洛",
+      "artist": "nineo"
+    },
+    "推进之王": {
+      "id": "char_112_siege",
+      "rarity": 5,
+      "org": "格拉斯哥帮",
+      "career": "先锋-尖兵",
+      "race": "阿斯兰",
+      "artist": "Infukun"
+    },
+    "提丰": {
+      "id": "char_2012_typhon",
+      "rarity": 5,
+      "org": "萨米",
+      "career": "狙击-攻城手",
+      "race": "萨卡兹",
+      "artist": "LM7"
+    },
+    "摩根": {
+      "id": "char_154_morgan",
+      "rarity": 4,
+      "org": "格拉斯哥帮",
+      "career": "近卫-无畏者",
+      "race": "菲林",
+      "artist": "Infukun"
+    },
+    "斑点": {
+      "id": "char_284_spot",
+      "rarity": 2,
+      "org": "行动预备组A6",
+      "career": "重装-守护者",
+      "race": "瑞柏巴",
+      "artist": "阿鬼"
+    },
+    "斥罪": {
+      "id": "char_4065_judge",
+      "rarity": 5,
+      "org": "叙拉古",
+      "career": "重装-不屈者",
+      "race": "鲁珀",
+      "artist": "IRIS_呓"
+    },
+    "断崖": {
+      "id": "char_294_ayer",
+      "rarity": 4,
+      "org": "雷姆必拓",
+      "career": "近卫-领主",
+      "race": "卡特斯",
+      "artist": "NoriZC"
+    },
+    "断罪者": {
+      "id": "char_159_peacok",
+      "rarity": 3,
+      "org": "米诺斯",
+      "career": "近卫-无畏者",
+      "race": "未知（疑似黎博利）",
+      "artist": "TOMATO"
+    },
+    "斯卡蒂": {
+      "id": "char_263_skadi",
+      "rarity": 5,
+      "org": "深海猎人",
+      "career": "近卫-无畏者",
+      "race": "未公开",
+      "artist": "alchemaniac"
+    },
+    "早露": {
+      "id": "char_197_poca",
+      "rarity": 5,
+      "org": "乌萨斯学生自治团",
+      "career": "狙击-攻城手",
+      "race": "乌萨斯",
+      "artist": "Skade"
+    },
+    "明椒": {
+      "id": "char_4071_peper",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "医疗-链愈师",
+      "race": "萨卡兹",
+      "artist": "板板"
+    },
+    "星极": {
+      "id": "char_274_astesi",
+      "rarity": 4,
+      "org": "哥伦比亚",
+      "career": "近卫-术战者",
+      "race": "黎博利",
+      "artist": "YUJI"
+    },
+    "星源": {
+      "id": "char_135_halo",
+      "rarity": 4,
+      "org": "莱茵生命",
+      "career": "术师-链术师",
+      "race": "黎博利",
+      "artist": "YUJI"
+    },
+    "星熊": {
+      "id": "char_136_hsguma",
+      "rarity": 5,
+      "org": "龙门近卫局",
+      "career": "重装-铁卫",
+      "race": "鬼",
+      "artist": "Infukun"
+    },
+    "晓歌": {
+      "id": "char_497_ctable",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "先锋-情报官",
+      "race": "黎博利",
+      "artist": "温泉瓜"
+    },
+    "普罗旺斯": {
+      "id": "char_145_prove",
+      "rarity": 4,
+      "org": "叙拉古",
+      "career": "狙击-重射手",
+      "race": "鲁珀",
+      "artist": "渣念"
+    },
+    "暗索": {
+      "id": "char_236_rope",
+      "rarity": 3,
+      "org": "炎-龙门",
+      "career": "特种-钩索师",
+      "race": "卡特斯",
+      "artist": "m9nokuro"
+    },
+    "暮落": {
+      "id": "char_4025_aprot2",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "重装-驭法铁卫",
+      "race": "斐迪亚",
+      "artist": "Cenm0"
+    },
+    "暴行": {
+      "id": "char_230_savage",
+      "rarity": 4,
+      "org": "雷姆必拓",
+      "career": "近卫-强攻手",
+      "race": "卡特斯",
+      "artist": "TOKI"
+    },
+    "暴雨": {
+      "id": "char_304_zebra",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "重装-铁卫",
+      "race": "库兰塔",
+      "artist": "aZLing4"
+    },
+    "月禾": {
+      "id": "char_343_tknogi",
+      "rarity": 4,
+      "org": "东",
+      "career": "辅助-护佑者",
+      "race": "埃拉菲亚",
+      "artist": "上埜"
+    },
+    "月见夜": {
+      "id": "char_283_midn",
+      "rarity": 2,
+      "org": "行动预备组A6",
+      "career": "近卫-领主",
+      "race": "萨卡兹",
+      "artist": "竜崎いち"
+    },
+    "末药": {
+      "id": "char_117_myrrh",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "医疗-医师",
+      "race": "沃尔珀",
+      "artist": "下野宏铭"
+    },
+    "杏仁": {
+      "id": "char_4105_almond",
+      "rarity": 4,
+      "org": "黑钢国际",
+      "career": "特种-钩索师",
+      "race": "佩洛",
+      "artist": "直立行走"
+    },
+    "杜宾": {
+      "id": "char_130_doberm",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "近卫-教官",
+      "race": "佩洛",
+      "artist": "LLC"
+    },
+    "杜林": {
+      "id": "char_501_durin",
+      "rarity": 1,
+      "org": "行动组A4",
+      "career": "术师-中坚术师",
+      "race": "杜林",
+      "artist": "Skade"
+    },
+    "杰克": {
+      "id": "char_347_jaksel",
+      "rarity": 3,
+      "org": "哥伦比亚",
+      "career": "近卫-斗士",
+      "race": "佩洛",
+      "artist": "Nagu"
+    },
+    "杰西卡": {
+      "id": "char_235_jesica",
+      "rarity": 3,
+      "org": "黑钢国际",
+      "career": "狙击-速射手",
+      "race": "菲林",
+      "artist": "m9nokuro"
+    },
+    "松果": {
+      "id": "char_440_pinecn",
+      "rarity": 3,
+      "org": "哥伦比亚",
+      "career": "狙击-散射手",
+      "race": "黎博利",
+      "artist": "TrNyteal"
+    },
+    "极光": {
+      "id": "char_422_aurora",
+      "rarity": 4,
+      "org": "喀兰贸易",
+      "career": "重装-决战者",
+      "race": "乌萨斯",
+      "artist": "LAL!ROLE"
+    },
+    "极境": {
+      "id": "char_401_elysm",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "先锋-执旗手",
+      "race": "黎博利",
+      "artist": "Skade"
+    },
+    "林": {
+      "id": "char_4080_lin",
+      "rarity": 5,
+      "org": "炎-龙门",
+      "career": "术师-阵法术师",
+      "race": "札拉克",
+      "artist": "三目YYB"
+    },
+    "柏喙": {
+      "id": "char_252_bibeak",
+      "rarity": 4,
+      "org": "萨米",
+      "career": "近卫-剑豪",
+      "race": "黎博利",
+      "artist": "RAYVON"
+    },
+    "格劳克斯": {
+      "id": "char_326_glacus",
+      "rarity": 4,
+      "org": "伊比利亚",
+      "career": "辅助-凝滞师",
+      "race": "未公开",
+      "artist": "下野宏铭"
+    },
+    "格拉尼": {
+      "id": "char_220_grani",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "先锋-冲锋手",
+      "race": "库兰塔",
+      "artist": "alchemaniac"
+    },
+    "格雷伊": {
+      "id": "char_253_greyy",
+      "rarity": 3,
+      "org": "玻利瓦尔",
+      "career": "术师-扩散术师",
+      "race": "佩洛",
+      "artist": "我妻洛酱"
+    },
+    "桃金娘": {
+      "id": "char_151_myrtle",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "先锋-执旗手",
+      "race": "杜林",
+      "artist": "咩煲"
+    },
+    "桑葚": {
+      "id": "char_473_mberry",
+      "rarity": 4,
+      "org": "炎",
+      "career": "医疗-行医",
+      "race": "黎博利",
+      "artist": "Jacknife"
+    },
+    "梅": {
+      "id": "char_133_mm",
+      "rarity": 3,
+      "org": "维多利亚",
+      "career": "狙击-速射手",
+      "race": "黎博利",
+      "artist": "下野宏铭"
+    },
+    "梅尔": {
+      "id": "char_242_otter",
+      "rarity": 4,
+      "org": "莱茵生命",
+      "career": "辅助-召唤师",
+      "race": "阿纳缇",
+      "artist": "幻象黑兔"
+    },
+    "梓兰": {
+      "id": "char_278_orchid",
+      "rarity": 2,
+      "org": "行动预备组A6",
+      "career": "辅助-凝滞师",
+      "race": "黎博利",
+      "artist": "Skade"
+    },
+    "棘刺": {
+      "id": "char_293_thorns",
+      "rarity": 5,
+      "org": "伊比利亚",
+      "career": "近卫-领主",
+      "race": "阿戈尔",
+      "artist": "幻象黑兔"
+    },
+    "森蚺": {
+      "id": "char_416_zumama",
+      "rarity": 5,
+      "org": "萨尔贡",
+      "career": "重装-决战者",
+      "race": "斐迪亚",
+      "artist": "Liduke"
+    },
+    "槐琥": {
+      "id": "char_243_waaifu",
+      "rarity": 4,
+      "org": "鲤氏侦探事务所",
+      "career": "特种-处决者",
+      "race": "菲林",
+      "artist": "KuroBlood"
+    },
+    "歌蕾蒂娅": {
+      "id": "char_474_glady",
+      "rarity": 5,
+      "org": "深海猎人",
+      "career": "特种-钩索师",
+      "race": "未公开",
+      "artist": "Chuzenji"
+    },
+    "止颂": {
+      "id": "char_4011_lessng",
+      "rarity": 5,
+      "org": "莱塔尼亚",
+      "career": "近卫-无畏者",
+      "race": "卡普里尼",
+      "artist": "カワグチ"
+    },
+    "正义骑士号": {
+      "id": "char_4000_jnight",
+      "rarity": 0,
+      "org": "红松骑士团",
+      "career": "狙击-速射手",
+      "race": "\/",
+      "artist": "NoriZC"
+    },
+    "水月": {
+      "id": "char_437_mizuki",
+      "rarity": 5,
+      "org": "东",
+      "career": "特种-伏击客",
+      "race": "阿戈尔",
+      "artist": "Namie"
+    },
+    "泡普卡": {
+      "id": "char_281_popka",
+      "rarity": 2,
+      "org": "行动预备组A6",
+      "career": "近卫-强攻手",
+      "race": "卡特斯",
+      "artist": "下野宏铭"
+    },
+    "泡泡": {
+      "id": "char_381_bubble",
+      "rarity": 3,
+      "org": "萨尔贡",
+      "career": "重装-铁卫",
+      "race": "塞拉托",
+      "artist": "Cenm0"
+    },
+    "波登可": {
+      "id": "char_258_podego",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "辅助-凝滞师",
+      "race": "佩洛",
+      "artist": "アシマ"
+    },
+    "泥岩": {
+      "id": "char_311_mudrok",
+      "rarity": 5,
+      "org": "罗德岛",
+      "career": "重装-不屈者",
+      "race": "萨卡兹",
+      "artist": "m9nokuro"
+    },
+    "泰拉大陆调查团": {
+      "id": "char_4077_palico",
+      "rarity": 0,
+      "org": "罗德岛",
+      "career": "狙击-投掷手",
+      "race": "未公开",
+      "artist": "桃色Miruku"
+    },
+    "洋灰": {
+      "id": "char_464_cement",
+      "rarity": 4,
+      "org": "雷姆必拓",
+      "career": "重装-决战者",
+      "race": "札拉克",
+      "artist": "科学"
+    },
+    "洛洛": {
+      "id": "char_4040_rockr",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "术师-驭械术师",
+      "race": "菲林",
+      "artist": "Cenm0"
+    },
+    "流明": {
+      "id": "char_4042_lumen",
+      "rarity": 5,
+      "org": "伊比利亚",
+      "career": "医疗-疗养师",
+      "race": "阿戈尔",
+      "artist": "一千"
+    },
+    "流星": {
+      "id": "char_126_shotst",
+      "rarity": 3,
+      "org": "卡西米尔",
+      "career": "狙击-速射手",
+      "race": "库兰塔",
+      "artist": "HUG"
+    },
+    "浊心斯卡蒂": {
+      "id": "char_1012_skadi2",
+      "rarity": 5,
+      "org": "阿戈尔",
+      "career": "辅助-吟游者",
+      "race": "未公开",
+      "artist": "alchemaniac"
+    },
+    "海沫": {
+      "id": "char_4066_highmo",
+      "rarity": 4,
+      "org": "伊比利亚",
+      "career": "近卫-收割者",
+      "race": "阿戈尔",
+      "artist": "Horin"
+    },
+    "海蒂": {
+      "id": "char_4045_heidi",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "辅助-吟游者",
+      "race": "菲林",
+      "artist": "熊太"
+    },
+    "海霓": {
+      "id": "char_4079_haini",
+      "rarity": 4,
+      "org": "阿戈尔",
+      "career": "辅助-削弱者",
+      "race": "阿戈尔",
+      "artist": "色塩"
+    },
+    "涤火杰西卡": {
+      "id": "char_1034_jesca2",
+      "rarity": 5,
+      "org": "黑钢国际",
+      "career": "重装-哨戒铁卫",
+      "race": "菲林",
+      "artist": "Cenm0"
+    },
+    "淬羽赫默": {
+      "id": "char_1031_slent2",
+      "rarity": 5,
+      "org": "莱茵生命",
+      "career": "辅助-护佑者",
+      "race": "黎博利",
+      "artist": "九日九号"
+    },
+    "深巡": {
+      "id": "char_4137_udflow",
+      "rarity": 4,
+      "org": "阿戈尔",
+      "career": "重装-哨戒铁卫",
+      "race": "阿戈尔",
+      "artist": "〇亻"
+    },
+    "深律": {
+      "id": "char_4109_baslin",
+      "rarity": 4,
+      "org": "莱塔尼亚",
+      "career": "重装-守护者",
+      "race": "鲁珀",
+      "artist": "九日九号"
+    },
+    "深海色": {
+      "id": "char_110_deepcl",
+      "rarity": 3,
+      "org": "阿戈尔",
+      "career": "辅助-召唤师",
+      "race": "未公开",
+      "artist": "REALMBW"
+    },
+    "深靛": {
+      "id": "char_469_indigo",
+      "rarity": 3,
+      "org": "伊比利亚",
+      "career": "术师-秘术师",
+      "race": "斐迪亚",
+      "artist": "织布机loom"
+    },
+    "清流": {
+      "id": "char_385_finlpp",
+      "rarity": 3,
+      "org": "炎",
+      "career": "医疗-疗养师",
+      "race": "阿戈尔",
+      "artist": "唯@W"
+    },
+    "清道夫": {
+      "id": "char_149_scave",
+      "rarity": 3,
+      "org": "S.W.E.E.P.",
+      "career": "先锋-尖兵",
+      "race": "札拉克",
+      "artist": "戏言咸咸"
+    },
+    "温米": {
+      "id": "char_4081_warmy",
+      "rarity": 4,
+      "org": "雷姆必拓",
+      "career": "术师-本源术师",
+      "race": "卡特斯",
+      "artist": "二色こぺ"
+    },
+    "温蒂": {
+      "id": "char_400_weedy",
+      "rarity": 5,
+      "org": "罗德岛",
+      "career": "特种-推击手",
+      "race": "阿戈尔",
+      "artist": "下野宏铭"
+    },
+    "澄闪": {
+      "id": "char_377_gdglow",
+      "rarity": 5,
+      "org": "维多利亚",
+      "career": "术师-驭械术师",
+      "race": "菲林",
+      "artist": "Namie"
+    },
+    "濯尘芙蓉": {
+      "id": "char_1024_hbisc2",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "医疗-咒愈师",
+      "race": "萨卡兹",
+      "artist": "下野宏铭"
+    },
+    "火哨": {
+      "id": "char_493_firwhl",
+      "rarity": 4,
+      "org": "雷姆必拓",
+      "career": "重装-要塞",
+      "race": "黎博利",
+      "artist": "IRIS_呓"
+    },
+    "火神": {
+      "id": "char_163_hpsts",
+      "rarity": 4,
+      "org": "米诺斯",
+      "career": "重装-不屈者",
+      "race": "丰蹄",
+      "artist": "neco"
+    },
+    "火龙S黑角": {
+      "id": "char_1030_noirc2",
+      "rarity": 4,
+      "org": "行动组A4",
+      "career": "近卫-武者",
+      "race": "鬼",
+      "artist": "九日九号"
+    },
+    "灰喉": {
+      "id": "char_367_swllow",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "狙击-速射手",
+      "race": "黎博利",
+      "artist": "m9nokuro"
+    },
+    "灰毫": {
+      "id": "char_431_ashlok",
+      "rarity": 4,
+      "org": "红松骑士团",
+      "career": "重装-要塞",
+      "race": "札拉克",
+      "artist": "NoriZC"
+    },
+    "灰烬": {
+      "id": "char_456_ash",
+      "rarity": 5,
+      "org": "彩虹小队",
+      "career": "狙击-速射手",
+      "race": "未知",
+      "artist": "Ubisoft"
+    },
+    "灵知": {
+      "id": "char_206_gnosis",
+      "rarity": 5,
+      "org": "喀兰贸易",
+      "career": "辅助-削弱者",
+      "race": "黎博利",
+      "artist": "竜崎いち"
+    },
+    "炎客": {
+      "id": "char_131_flameb",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "近卫-无畏者",
+      "race": "萨卡兹",
+      "artist": "虎三"
+    },
+    "炎熔": {
+      "id": "char_121_lava",
+      "rarity": 2,
+      "org": "行动预备组A1",
+      "career": "术师-扩散术师",
+      "race": "萨卡兹",
+      "artist": "下野宏铭"
+    },
+    "炎狱炎熔": {
+      "id": "char_1011_lava2",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "术师-扩散术师",
+      "race": "萨卡兹",
+      "artist": "下野宏铭"
+    },
+    "烈夏": {
+      "id": "char_194_leto",
+      "rarity": 4,
+      "org": "乌萨斯学生自治团",
+      "career": "近卫-领主",
+      "race": "乌萨斯",
+      "artist": "Skade"
+    },
+    "焰尾": {
+      "id": "char_420_flamtl",
+      "rarity": 5,
+      "org": "红松骑士团",
+      "career": "先锋-尖兵",
+      "race": "札拉克",
+      "artist": "NoriZC"
+    },
+    "焰影苇草": {
+      "id": "char_1020_reed2",
+      "rarity": 5,
+      "org": "深池",
+      "career": "医疗-咒愈师",
+      "race": "德拉克",
+      "artist": "STAR影法师"
+    },
+    "煌": {
+      "id": "char_017_huang",
+      "rarity": 5,
+      "org": "罗德岛-精英干员",
+      "career": "近卫-强攻手",
+      "race": "菲林",
+      "artist": "唯@W"
+    },
+    "熔泉": {
+      "id": "char_363_toddi",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "狙击-攻城手",
+      "race": "瓦伊凡",
+      "artist": "山×2"
+    },
+    "燧石": {
+      "id": "char_415_flint",
+      "rarity": 4,
+      "org": "萨尔贡",
+      "career": "近卫-斗士",
+      "race": "黎博利",
+      "artist": "aZLing4"
+    },
+    "爱丽丝": {
+      "id": "char_338_iris",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "术师-秘术师",
+      "race": "菲林",
+      "artist": "下野宏铭"
+    },
+    "特米米": {
+      "id": "char_411_tomimi",
+      "rarity": 4,
+      "org": "萨尔贡",
+      "career": "术师-中坚术师",
+      "race": "阿达克利斯",
+      "artist": "Chuzenji"
+    },
+    "狮蝎": {
+      "id": "char_215_mantic",
+      "rarity": 4,
+      "org": "萨尔贡",
+      "career": "特种-伏击客",
+      "race": "曼提柯",
+      "artist": "竜崎いち"
+    },
+    "猎蜂": {
+      "id": "char_137_brownb",
+      "rarity": 3,
+      "org": "乌萨斯",
+      "career": "近卫-斗士",
+      "race": "乌萨斯",
+      "artist": "toast"
+    },
+    "玛恩纳": {
+      "id": "char_4064_mlynar",
+      "rarity": 5,
+      "org": "卡西米尔",
+      "career": "近卫-解放者",
+      "race": "库兰塔",
+      "artist": "竜崎いち"
+    },
+    "玫兰莎": {
+      "id": "char_208_melan",
+      "rarity": 2,
+      "org": "行动预备组A4",
+      "career": "近卫-无畏者",
+      "race": "菲林",
+      "artist": "一立里子"
+    },
+    "玫拉": {
+      "id": "char_4006_melnte",
+      "rarity": 4,
+      "org": "哥伦比亚",
+      "career": "狙击-重射手",
+      "race": "斐迪亚",
+      "artist": "redjuice"
+    },
+    "琳琅诗怀雅": {
+      "id": "char_1033_swire2",
+      "rarity": 5,
+      "org": "炎-龙门",
+      "career": "特种-行商",
+      "race": "菲林",
+      "artist": "下野宏铭"
+    },
+    "琴柳": {
+      "id": "char_479_sleach",
+      "rarity": 5,
+      "org": "维多利亚",
+      "career": "先锋-执旗手",
+      "race": "瓦伊凡",
+      "artist": "下野宏铭"
+    },
+    "瑕光": {
+      "id": "char_423_blemsh",
+      "rarity": 5,
+      "org": "卡西米尔",
+      "career": "重装-守护者",
+      "race": "库兰塔",
+      "artist": "竜崎いち"
+    },
+    "白金": {
+      "id": "char_204_platnm",
+      "rarity": 4,
+      "org": "卡西米尔",
+      "career": "狙击-速射手",
+      "race": "库兰塔",
+      "artist": "Skade"
+    },
+    "白铁": {
+      "id": "char_4072_ironmn",
+      "rarity": 5,
+      "org": "维多利亚",
+      "career": "辅助-工匠",
+      "race": "菲林",
+      "artist": "一千"
+    },
+    "白雪": {
+      "id": "char_118_yuki",
+      "rarity": 3,
+      "org": "东",
+      "career": "狙击-炮手",
+      "race": "阿纳缇",
+      "artist": "阿鬼"
+    },
+    "白面鸮": {
+      "id": "char_128_plosis",
+      "rarity": 4,
+      "org": "莱茵生命",
+      "career": "医疗-群愈师",
+      "race": "黎博利",
+      "artist": "竜崎いち"
+    },
+    "百炼嘉维尔": {
+      "id": "char_1026_gvial2",
+      "rarity": 5,
+      "org": "罗德岛",
+      "career": "近卫-强攻手",
+      "race": "阿达克利斯",
+      "artist": "LLC"
+    },
+    "真理": {
+      "id": "char_195_glassb",
+      "rarity": 4,
+      "org": "乌萨斯学生自治团",
+      "career": "辅助-凝滞师",
+      "race": "乌萨斯",
+      "artist": "Skade"
+    },
+    "石棉": {
+      "id": "char_378_asbest",
+      "rarity": 4,
+      "org": "雷姆必拓",
+      "career": "重装-驭法铁卫",
+      "race": "萨弗拉",
+      "artist": "TEAM EXPNDR"
+    },
+    "石英": {
+      "id": "char_4063_quartz",
+      "rarity": 3,
+      "org": "哥伦比亚",
+      "career": "近卫-重剑手",
+      "race": "鲁珀",
+      "artist": "伍秋秋秋秋"
+    },
+    "砾": {
+      "id": "char_237_gravel",
+      "rarity": 3,
+      "org": "卡西米尔",
+      "career": "特种-处决者",
+      "race": "札拉克",
+      "artist": "竜崎いち"
+    },
+    "稀音": {
+      "id": "char_336_folivo",
+      "rarity": 4,
+      "org": "萨尔贡",
+      "career": "辅助-召唤师",
+      "race": "皮洛萨",
+      "artist": "アシマ"
+    },
+    "空": {
+      "id": "char_101_sora",
+      "rarity": 4,
+      "org": "企鹅物流",
+      "career": "辅助-吟游者",
+      "race": "因经纪公司要求不公开",
+      "artist": "幻象黑兔"
+    },
+    "空弦": {
+      "id": "char_332_archet",
+      "rarity": 5,
+      "org": "拉特兰",
+      "career": "狙击-速射手",
+      "race": "黎博利",
+      "artist": "alchemaniac"
+    },
+    "空构": {
+      "id": "char_4015_spuria",
+      "rarity": 4,
+      "org": "拉特兰",
+      "career": "特种-怪杰",
+      "race": "萨科塔",
+      "artist": "おぐち"
+    },
+    "空爆": {
+      "id": "char_282_catap",
+      "rarity": 2,
+      "org": "行动预备组A6",
+      "career": "狙击-炮手",
+      "race": "库兰塔",
+      "artist": "m9nokuro"
+    },
+    "米格鲁": {
+      "id": "char_122_beagle",
+      "rarity": 2,
+      "org": "行动预备组A1",
+      "career": "重装-铁卫",
+      "race": "佩洛",
+      "artist": "下野宏铭"
+    },
+    "絮雨": {
+      "id": "char_436_whispr",
+      "rarity": 4,
+      "org": "伊比利亚",
+      "career": "医疗-疗养师",
+      "race": "阿戈尔",
+      "artist": "Chuzenji"
+    },
+    "红": {
+      "id": "char_144_red",
+      "rarity": 4,
+      "org": "S.W.E.E.P.",
+      "career": "特种-处决者",
+      "race": "鲁珀",
+      "artist": "Infukun"
+    },
+    "红云": {
+      "id": "char_190_clour",
+      "rarity": 3,
+      "org": "叙拉古",
+      "career": "狙击-速射手",
+      "race": "沃尔珀",
+      "artist": "KENTllaall"
+    },
+    "红豆": {
+      "id": "char_290_vigna",
+      "rarity": 3,
+      "org": "哥伦比亚",
+      "career": "先锋-冲锋手",
+      "race": "萨卡兹",
+      "artist": "下野宏铭"
+    },
+    "红隼": {
+      "id": "char_4023_rfalcn",
+      "rarity": 4,
+      "org": "萨尔贡",
+      "career": "先锋-尖兵",
+      "race": "黎博利",
+      "artist": "釜飯轟々丸"
+    },
+    "纯烬艾雅法拉": {
+      "id": "char_1016_agoat2",
+      "rarity": 5,
+      "org": "莱塔尼亚",
+      "career": "医疗-行医",
+      "race": "卡普里尼",
+      "artist": "Anmi"
+    },
+    "绮良": {
+      "id": "char_478_kirara",
+      "rarity": 4,
+      "org": "东",
+      "career": "特种-伏击客",
+      "race": "阿戈尔",
+      "artist": "我妻洛酱"
+    },
+    "维什戴尔": {
+      "id": "char_1035_wisdel",
+      "rarity": 5,
+      "org": "巴别塔",
+      "career": "狙击-投掷手",
+      "race": "萨卡兹",
+      "artist": "Liduke"
+    },
+    "维荻": {
+      "id": "char_4107_vrdant",
+      "rarity": 3,
+      "org": "维多利亚",
+      "career": "特种-傀儡师",
+      "race": "斐迪亚",
+      "artist": "百慕大飞鱼"
+    },
+    "缄默德克萨斯": {
+      "id": "char_1028_texas2",
+      "rarity": 5,
+      "org": "企鹅物流",
+      "career": "特种-处决者",
+      "race": "鲁珀",
+      "artist": "幻象黑兔"
+    },
+    "缠丸": {
+      "id": "char_289_gyuki",
+      "rarity": 3,
+      "org": "东",
+      "career": "近卫-无畏者",
+      "race": "鬼",
+      "artist": "竜崎いち"
+    },
+    "缪尔赛思": {
+      "id": "char_249_mlyss",
+      "rarity": 5,
+      "org": "莱茵生命",
+      "career": "先锋-战术家",
+      "race": "精灵",
+      "artist": "NoriZC"
+    },
+    "罗宾": {
+      "id": "char_451_robin",
+      "rarity": 4,
+      "org": "哥伦比亚",
+      "career": "特种-陷阱师",
+      "race": "阿纳缇",
+      "artist": "aZLing4"
+    },
+    "罗小黑": {
+      "id": "char_4067_lolxh",
+      "rarity": 3,
+      "org": "炎",
+      "career": "近卫-领主",
+      "race": "菲林",
+      "artist": "九日九号"
+    },
+    "罗比菈塔": {
+      "id": "char_484_robrta",
+      "rarity": 3,
+      "org": "哥伦比亚",
+      "career": "辅助-工匠",
+      "race": "阿纳缇",
+      "artist": "IRIS_呓"
+    },
+    "羽毛笔": {
+      "id": "char_421_crow",
+      "rarity": 4,
+      "org": "玻利瓦尔",
+      "career": "近卫-收割者",
+      "race": "黎博利",
+      "artist": "LAL!ROLE"
+    },
+    "翎羽": {
+      "id": "char_192_falco",
+      "rarity": 2,
+      "org": "拉特兰",
+      "career": "先锋-冲锋手",
+      "race": "黎博利",
+      "artist": "deel"
+    },
+    "耀骑士临光": {
+      "id": "char_1014_nearl2",
+      "rarity": 5,
+      "org": "卡西米尔",
+      "career": "近卫-无畏者",
+      "race": "库兰塔",
+      "artist": "竜崎いち"
+    },
+    "老鲤": {
+      "id": "char_322_lmlee",
+      "rarity": 5,
+      "org": "鲤氏侦探事务所",
+      "career": "特种-行商",
+      "race": "龙",
+      "artist": "KuroBlood"
+    },
+    "耶拉": {
+      "id": "char_4013_kjera",
+      "rarity": 4,
+      "org": "喀兰贸易",
+      "career": "术师-驭械术师",
+      "race": "未公开",
+      "artist": "竜崎いち"
+    },
+    "能天使": {
+      "id": "char_103_angel",
+      "rarity": 5,
+      "org": "企鹅物流",
+      "career": "狙击-速射手",
+      "race": "萨科塔",
+      "artist": "幻象黑兔"
+    },
+    "至简": {
+      "id": "char_4054_malist",
+      "rarity": 4,
+      "org": "萨尔贡",
+      "career": "术师-驭械术师",
+      "race": "杜林",
+      "artist": "〇亻"
+    },
+    "艾丝黛尔": {
+      "id": "char_127_estell",
+      "rarity": 3,
+      "org": "萨尔贡",
+      "career": "近卫-强攻手",
+      "race": "阿达克利斯",
+      "artist": "鸭"
+    },
+    "艾丽妮": {
+      "id": "char_4009_irene",
+      "rarity": 5,
+      "org": "伊比利亚",
+      "career": "近卫-剑豪",
+      "race": "黎博利",
+      "artist": "aZLing4"
+    },
+    "艾拉": {
+      "id": "char_4123_ela",
+      "rarity": 5,
+      "org": "彩虹小队",
+      "career": "特种-陷阱师",
+      "race": "未知",
+      "artist": "Ubisoft"
+    },
+    "艾雅法拉": {
+      "id": "char_180_amgoat",
+      "rarity": 5,
+      "org": "莱塔尼亚",
+      "career": "术师-中坚术师",
+      "race": "卡普里尼",
+      "artist": "Anmi"
+    },
+    "芙兰卡": {
+      "id": "char_106_franka",
+      "rarity": 4,
+      "org": "黑钢国际",
+      "career": "近卫-无畏者",
+      "race": "沃尔珀",
+      "artist": "TOKI"
+    },
+    "芙蓉": {
+      "id": "char_120_hibisc",
+      "rarity": 2,
+      "org": "行动预备组A1",
+      "career": "医疗-医师",
+      "race": "萨卡兹",
+      "artist": "下野宏铭"
+    },
+    "芬": {
+      "id": "char_123_fang",
+      "rarity": 2,
+      "org": "行动预备组A1",
+      "career": "先锋-尖兵",
+      "race": "库兰塔",
+      "artist": "下野宏铭"
+    },
+    "芳汀": {
+      "id": "char_271_spikes",
+      "rarity": 3,
+      "org": "拉特兰",
+      "career": "近卫-领主",
+      "race": "萨科塔",
+      "artist": "umo_yszx"
+    },
+    "苇草": {
+      "id": "char_261_sddrag",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "先锋-冲锋手",
+      "race": "德拉克",
+      "artist": "STAR影法师"
+    },
+    "苍苔": {
+      "id": "char_4106_bryota",
+      "rarity": 4,
+      "org": "汐斯塔",
+      "career": "近卫-教官",
+      "race": "黎博利",
+      "artist": "Cenm0"
+    },
+    "苏苏洛": {
+      "id": "char_298_susuro",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "医疗-医师",
+      "race": "沃尔珀",
+      "artist": "将"
+    },
+    "苦艾": {
+      "id": "char_405_absin",
+      "rarity": 4,
+      "org": "乌萨斯",
+      "career": "术师-中坚术师",
+      "race": "乌萨斯",
+      "artist": "aZLing4"
+    },
+    "莫斯提马": {
+      "id": "char_213_mostma",
+      "rarity": 5,
+      "org": "拉特兰",
+      "career": "术师-扩散术师",
+      "race": "未公开",
+      "artist": "幻象黑兔"
+    },
+    "莱伊": {
+      "id": "char_4117_ray",
+      "rarity": 5,
+      "org": "雷姆必拓",
+      "career": "狙击-猎手",
+      "race": "卡特斯",
+      "artist": "Cenm0"
+    },
+    "莱恩哈特": {
+      "id": "char_373_lionhd",
+      "rarity": 4,
+      "org": "雷姆必拓",
+      "career": "术师-扩散术师",
+      "race": "卡特斯",
+      "artist": "野崎つばた"
+    },
+    "菲亚梅塔": {
+      "id": "char_300_phenxi",
+      "rarity": 5,
+      "org": "拉特兰",
+      "career": "狙击-炮手",
+      "race": "黎博利",
+      "artist": "幻象黑兔"
+    },
+    "蓝毒": {
+      "id": "char_129_bluep",
+      "rarity": 4,
+      "org": "伊比利亚",
+      "career": "狙击-速射手",
+      "race": "安努拉",
+      "artist": "LLC"
+    },
+    "薄绿": {
+      "id": "char_388_mint",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "术师-阵法术师",
+      "race": "菲林",
+      "artist": "ヌードル"
+    },
+    "薇薇安娜": {
+      "id": "char_4098_vvana",
+      "rarity": 5,
+      "org": "莱塔尼亚",
+      "career": "近卫-术战者",
+      "race": "埃拉菲亚",
+      "artist": "Chuzenji"
+    },
+    "蚀清": {
+      "id": "char_489_serum",
+      "rarity": 4,
+      "org": "哥伦比亚",
+      "career": "术师-轰击术师",
+      "race": "斐迪亚",
+      "artist": "Jacknife"
+    },
+    "蛇屠箱": {
+      "id": "char_150_snakek",
+      "rarity": 3,
+      "org": "哥伦比亚",
+      "career": "重装-铁卫",
+      "race": "匹特拉姆",
+      "artist": "Skade"
+    },
+    "蜜莓": {
+      "id": "char_449_glider",
+      "rarity": 4,
+      "org": "雷姆必拓",
+      "career": "医疗-行医",
+      "race": "札拉克",
+      "artist": "Liyu黎"
+    },
+    "蜜蜡": {
+      "id": "char_344_beewax",
+      "rarity": 4,
+      "org": "萨尔贡",
+      "career": "术师-阵法术师",
+      "race": "卡普里尼",
+      "artist": "カワグチ"
+    },
+    "褐果": {
+      "id": "char_4041_chnut",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "医疗-行医",
+      "race": "杜林",
+      "artist": "树豚"
+    },
+    "见行者": {
+      "id": "char_4036_forcer",
+      "rarity": 4,
+      "org": "拉特兰",
+      "career": "特种-推击手",
+      "race": "萨科塔",
+      "artist": "Chuzenji"
+    },
+    "角峰": {
+      "id": "char_199_yak",
+      "rarity": 3,
+      "org": "喀兰贸易",
+      "career": "重装-铁卫",
+      "race": "丰蹄",
+      "artist": "竜崎いち"
+    },
+    "讯使": {
+      "id": "char_198_blackd",
+      "rarity": 3,
+      "org": "喀兰贸易",
+      "career": "先锋-尖兵",
+      "race": "依特拉",
+      "artist": "竜崎いち"
+    },
+    "诗怀雅": {
+      "id": "char_308_swire",
+      "rarity": 4,
+      "org": "龙门近卫局",
+      "career": "近卫-教官",
+      "race": "菲林",
+      "artist": "下野宏铭"
+    },
+    "调香师": {
+      "id": "char_181_flower",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "医疗-群愈师",
+      "race": "沃尔珀",
+      "artist": "Lanzi"
+    },
+    "谜图": {
+      "id": "char_4017_puzzle",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "先锋-情报官",
+      "race": "瓦伊凡",
+      "artist": "kan"
+    },
+    "豆苗": {
+      "id": "char_452_bstalk",
+      "rarity": 3,
+      "org": "哥伦比亚",
+      "career": "先锋-战术家",
+      "race": "瑞柏巴",
+      "artist": "一千"
+    },
+    "贝娜": {
+      "id": "char_369_bena",
+      "rarity": 4,
+      "org": "维多利亚",
+      "career": "特种-傀儡师",
+      "race": "卡普里尼",
+      "artist": "下野宏铭"
+    },
+    "贾维": {
+      "id": "char_349_chiave",
+      "rarity": 4,
+      "org": "贾维团伙",
+      "career": "先锋-尖兵",
+      "race": "沃尔珀",
+      "artist": "Infukun"
+    },
+    "赤冬": {
+      "id": "char_475_akafyu",
+      "rarity": 4,
+      "org": "东",
+      "career": "近卫-武者",
+      "race": "阿戈尔",
+      "artist": "熊太"
+    },
+    "赫德雷": {
+      "id": "char_4088_hodrer",
+      "rarity": 5,
+      "org": "巴别塔",
+      "career": "近卫-重剑手",
+      "race": "萨卡兹",
+      "artist": "树豚"
+    },
+    "赫拉格": {
+      "id": "char_188_helage",
+      "rarity": 5,
+      "org": "乌萨斯",
+      "career": "近卫-武者",
+      "race": "黎博利",
+      "artist": "Liduke"
+    },
+    "赫默": {
+      "id": "char_108_silent",
+      "rarity": 4,
+      "org": "莱茵生命",
+      "career": "医疗-医师",
+      "race": "黎博利",
+      "artist": "NoriZC"
+    },
+    "跃跃": {
+      "id": "char_4100_caper",
+      "rarity": 3,
+      "org": "玻利瓦尔",
+      "career": "狙击-回环射手",
+      "race": "卡特斯",
+      "artist": "臼"
+    },
+    "车尔尼": {
+      "id": "char_4047_pianst",
+      "rarity": 4,
+      "org": "莱塔尼亚",
+      "career": "重装-驭法铁卫",
+      "race": "埃拉菲亚",
+      "artist": "九日九号"
+    },
+    "达格达": {
+      "id": "char_157_dagda",
+      "rarity": 4,
+      "org": "格拉斯哥帮",
+      "career": "近卫-斗士",
+      "race": "菲林",
+      "artist": "Infukun"
+    },
+    "远山": {
+      "id": "char_109_fmout",
+      "rarity": 3,
+      "org": "萨米",
+      "career": "术师-扩散术师",
+      "race": "埃拉菲亚",
+      "artist": "谜肘"
+    },
+    "远牙": {
+      "id": "char_430_fartth",
+      "rarity": 5,
+      "org": "红松骑士团",
+      "career": "狙击-神射手",
+      "race": "黎博利",
+      "artist": "NoriZC"
+    },
+    "迷迭香": {
+      "id": "char_391_rosmon",
+      "rarity": 5,
+      "org": "罗德岛-精英干员",
+      "career": "狙击-投掷手",
+      "race": "菲林",
+      "artist": "唯@W"
+    },
+    "送葬人": {
+      "id": "char_279_excu",
+      "rarity": 4,
+      "org": "拉特兰",
+      "career": "狙击-散射手",
+      "race": "萨科塔",
+      "artist": "Skade"
+    },
+    "逻各斯": {
+      "id": "char_4133_logos",
+      "rarity": 5,
+      "org": "罗德岛-精英干员",
+      "career": "术师-中坚术师",
+      "race": "萨卡兹",
+      "artist": "Skade"
+    },
+    "郁金香": {
+      "id": "char_513_apionr",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "先锋-尖兵",
+      "race": "斐迪亚",
+      "artist": "Chuzenji"
+    },
+    "酸糖": {
+      "id": "char_366_acdrop",
+      "rarity": 3,
+      "org": "哥伦比亚",
+      "career": "狙击-重射手",
+      "race": "黎博利",
+      "artist": "Lanzi"
+    },
+    "重岳": {
+      "id": "char_2024_chyue",
+      "rarity": 5,
+      "org": "炎-岁",
+      "career": "近卫-斗士",
+      "race": "未公开",
+      "artist": "KuroBlood"
+    },
+    "野鬃": {
+      "id": "char_496_wildmn",
+      "rarity": 4,
+      "org": "红松骑士团",
+      "career": "先锋-冲锋手",
+      "race": "库兰塔",
+      "artist": "NoriZC"
+    },
+    "铃兰": {
+      "id": "char_358_lisa",
+      "rarity": 5,
+      "org": "叙拉古",
+      "career": "辅助-凝滞师",
+      "race": "沃尔珀",
+      "artist": "将"
+    },
+    "铅踝": {
+      "id": "char_4062_totter",
+      "rarity": 3,
+      "org": "萨尔贡",
+      "career": "狙击-攻城手",
+      "race": "黎博利",
+      "artist": "板板"
+    },
+    "铎铃": {
+      "id": "char_4083_chimes",
+      "rarity": 4,
+      "org": "炎",
+      "career": "近卫-重剑手",
+      "race": "丰蹄",
+      "artist": "〇亻"
+    },
+    "银灰": {
+      "id": "char_172_svrash",
+      "rarity": 5,
+      "org": "喀兰贸易",
+      "career": "近卫-领主",
+      "race": "菲林",
+      "artist": "竜崎いち"
+    },
+    "铸铁": {
+      "id": "char_333_sidero",
+      "rarity": 4,
+      "org": "米诺斯",
+      "career": "近卫-术战者",
+      "race": "丰蹄",
+      "artist": "将"
+    },
+    "锏": {
+      "id": "char_4116_blkkgt",
+      "rarity": 5,
+      "org": "喀兰贸易",
+      "career": "近卫-剑豪",
+      "race": "卡普里尼",
+      "artist": "竜崎いち"
+    },
+    "锡兰": {
+      "id": "char_348_ceylon",
+      "rarity": 4,
+      "org": "汐斯塔",
+      "career": "医疗-疗养师",
+      "race": "黎博利",
+      "artist": "Skade"
+    },
+    "闪击": {
+      "id": "char_457_blitz",
+      "rarity": 4,
+      "org": "彩虹小队",
+      "career": "重装-哨戒铁卫",
+      "race": "未知",
+      "artist": "Ubisoft"
+    },
+    "闪灵": {
+      "id": "char_147_shining",
+      "rarity": 5,
+      "org": "使徒",
+      "career": "医疗-医师",
+      "race": "萨卡兹",
+      "artist": "竜崎いち"
+    },
+    "阿": {
+      "id": "char_225_haak",
+      "rarity": 5,
+      "org": "鲤氏侦探事务所",
+      "career": "特种-怪杰",
+      "race": "菲林",
+      "artist": "KuroBlood"
+    },
+    "阿斯卡纶": {
+      "id": "char_4132_ascln",
+      "rarity": 5,
+      "org": "S.W.E.E.P.",
+      "career": "特种-伏击客",
+      "race": "萨卡兹",
+      "artist": "Cenm0"
+    },
+    "阿消": {
+      "id": "char_277_sqrrel",
+      "rarity": 3,
+      "org": "炎-龙门",
+      "career": "特种-推击手",
+      "race": "札拉克",
+      "artist": "阿鬼"
+    },
+    "阿米娅(医疗)": {
+      "id": "char_1037_amiya3",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "医疗-咒愈师",
+      "race": "卡特斯\/奇美拉",
+      "artist": "Mag42"
+    },
+    "阿米娅(近卫)": {
+      "id": "char_1001_amiya2",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "近卫-术战者",
+      "race": "卡特斯\/奇美拉",
+      "artist": "唯@W"
+    },
+    "阿米娅": {
+      "id": "char_002_amiya",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "术师-中坚术师",
+      "race": "卡特斯\/奇美拉",
+      "artist": "唯@W"
+    },
+    "阿罗玛": {
+      "id": "char_446_aroma",
+      "rarity": 4,
+      "org": "叙拉古",
+      "career": "术师-轰击术师",
+      "race": "鲁珀",
+      "artist": "ヌードル"
+    },
+    "陈": {
+      "id": "char_010_chen",
+      "rarity": 5,
+      "org": "龙门近卫局",
+      "career": "近卫-剑豪",
+      "race": "龙",
+      "artist": "唯@W"
+    },
+    "陨星": {
+      "id": "char_219_meteo",
+      "rarity": 4,
+      "org": "罗德岛",
+      "career": "狙击-炮手",
+      "race": "萨卡兹",
+      "artist": "TOKI"
+    },
+    "隐现": {
+      "id": "char_498_inside",
+      "rarity": 4,
+      "org": "拉特兰",
+      "career": "狙击-速射手",
+      "race": "萨科塔",
+      "artist": "umo_yszx"
+    },
+    "雪绒": {
+      "id": "char_466_qanik",
+      "rarity": 4,
+      "org": "萨米",
+      "career": "术师-中坚术师",
+      "race": "沃尔珀",
+      "artist": "三目YYB"
+    },
+    "雪雉": {
+      "id": "char_383_snsant",
+      "rarity": 4,
+      "org": "炎-龙门",
+      "career": "特种-钩索师",
+      "race": "黎博利",
+      "artist": "NoriZC"
+    },
+    "雷蛇": {
+      "id": "char_107_liskam",
+      "rarity": 4,
+      "org": "黑钢国际",
+      "career": "重装-哨戒铁卫",
+      "race": "瓦伊凡",
+      "artist": "TOKI"
+    },
+    "霍尔海雅": {
+      "id": "char_4027_heyak",
+      "rarity": 5,
+      "org": "哥伦比亚",
+      "career": "术师-中坚术师",
+      "race": "未公开",
+      "artist": "LM7"
+    },
+    "霜华": {
+      "id": "char_458_rfrost",
+      "rarity": 4,
+      "org": "彩虹小队",
+      "career": "特种-陷阱师",
+      "race": "未知",
+      "artist": "Ubisoft"
+    },
+    "霜叶": {
+      "id": "char_193_frostl",
+      "rarity": 3,
+      "org": "罗德岛",
+      "career": "近卫-领主",
+      "race": "沃尔珀",
+      "artist": "下野宏铭"
+    },
+    "露托": {
+      "id": "char_4130_luton",
+      "rarity": 3,
+      "org": "玻利瓦尔",
+      "career": "重装-不屈者",
+      "race": "札拉克",
+      "artist": "水滴鱼"
+    },
+    "青枳": {
+      "id": "char_488_buildr",
+      "rarity": 4,
+      "org": "汐斯塔",
+      "career": "先锋-尖兵",
+      "race": "黎博利",
+      "artist": "NOCO"
+    },
+    "鞭刃": {
+      "id": "char_265_sophia",
+      "rarity": 4,
+      "org": "卡西米尔",
+      "career": "近卫-教官",
+      "race": "库兰塔",
+      "artist": "竜崎いち"
+    },
+    "风丸": {
+      "id": "char_4016_kazema",
+      "rarity": 4,
+      "org": "东",
+      "career": "特种-傀儡师",
+      "race": "菲林",
+      "artist": "温泉瓜"
+    },
+    "风笛": {
+      "id": "char_222_bpipe",
+      "rarity": 5,
+      "org": "维多利亚",
+      "career": "先锋-冲锋手",
+      "race": "瓦伊凡",
+      "artist": "u介"
+    },
+    "食铁兽": {
+      "id": "char_241_panda",
+      "rarity": 4,
+      "org": "炎-龙门",
+      "career": "特种-推击手",
+      "race": "乌萨斯",
+      "artist": "RAN"
+    },
+    "香草": {
+      "id": "char_240_wyvern",
+      "rarity": 2,
+      "org": "黑钢国际",
+      "career": "先锋-尖兵",
+      "race": "瓦伊凡",
+      "artist": "m9nokuro"
+    },
+    "魔王": {
+      "id": "char_4134_cetsyr",
+      "rarity": 5,
+      "org": "罗德岛",
+      "career": "辅助-吟游者",
+      "race": "未公开",
+      "artist": "Chuzenji"
+    },
+    "鸿雪": {
+      "id": "char_4055_bgsnow",
+      "rarity": 5,
+      "org": "罗德岛",
+      "career": "狙击-重射手",
+      "race": "鲁珀",
+      "artist": "Chuzenji"
+    },
+    "麒麟R夜刀": {
+      "id": "char_1029_yato2",
+      "rarity": 5,
+      "org": "行动组A4",
+      "career": "特种-处决者",
+      "race": "鬼",
+      "artist": "一千"
+    },
+    "麦哲伦": {
+      "id": "char_248_mgllan",
+      "rarity": 5,
+      "org": "莱茵生命",
+      "career": "辅助-召唤师",
+      "race": "黎博利",
+      "artist": "NoriZC"
+    },
+    "黍": {
+      "id": "char_2025_shu",
+      "rarity": 5,
+      "org": "炎-岁",
+      "career": "重装-守护者",
+      "race": "未公开",
+      "artist": "IRIS_呓"
+    },
+    "黑": {
+      "id": "char_340_shwaz",
+      "rarity": 5,
+      "org": "汐斯塔",
+      "career": "狙击-重射手",
+      "race": "菲林",
+      "artist": "Liduke"
+    },
+    "黑角": {
+      "id": "char_500_noirc",
+      "rarity": 1,
+      "org": "行动组A4",
+      "career": "重装-铁卫",
+      "race": "鬼",
+      "artist": "竜崎いち"
+    },
+    "黑键": {
+      "id": "char_4046_ebnhlz",
+      "rarity": 5,
+      "org": "莱塔尼亚",
+      "career": "术师-秘术师",
+      "race": "卡普里尼",
+      "artist": "竜崎いち"
+    },
+    "龙舌兰": {
+      "id": "char_486_takila",
+      "rarity": 4,
+      "org": "玻利瓦尔",
+      "career": "近卫-解放者",
+      "race": "佩洛",
+      "artist": "一千"
+    }
+  }
+}

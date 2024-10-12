@@ -1,0 +1,5546 @@
+{
+    "特装型布里MKIII": {
+        "名称": "特装型布里MKIII",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c6\/8ytp9bpabdolnijp72anaqapbln3rb7.jpg",
+        "星级": 5,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "新泽西": {
+        "名称": "新泽西",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/bc\/kpg4ewdkf0wq0poxktetujr419l5d24.jpg",
+        "星级": 5,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "前卫": {
+        "名称": "前卫",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fd\/49pe1wvnlr3sb2j8knjvz6bhbc0jxyb.jpg",
+        "星级": 5,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "武藏": {
+        "名称": "武藏",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/18\/9qxf4u3v78cp7pckwwouguqfk9dukpl.jpg",
+        "星级": 5,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "信浓": {
+        "名称": "信浓",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/56\/1xd5w3zd2236x0snmnyhiwmwcq765dv.jpg",
+        "星级": 5,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "岛风": {
+        "名称": "岛风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/21\/lwy0gq6jlyfh6mdfo6eof5wvtoogbm5.jpg",
+        "星级": 5,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "乌尔里希·冯·胡滕": {
+        "名称": "乌尔里希·冯·胡滕",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a1\/m15kemqjsirbix9ijun3auemuqqrrx2.jpg",
+        "星级": 5,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "喀琅施塔得": {
+        "名称": "喀琅施塔得",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/19\/e1fze1bwju99c3oxfbo6w60dnpggij2.jpg",
+        "星级": 5,
+        "类型": "超巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "约克城II": {
+        "名称": "约克城II",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7c\/juwnpq339lri20fadv8m4m4cm883ep7.jpg",
+        "星级": 5,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "怨仇": {
+        "名称": "怨仇",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e3\/2hi99ds4373o67zdako2rzd36aqe32q.jpg",
+        "星级": 5,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "吾妻": {
+        "名称": "吾妻",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/96\/o2wr2935t2pynnix87qhrepl0u0aau4.jpg",
+        "星级": 6,
+        "类型": "超巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "腓特烈大帝": {
+        "名称": "腓特烈大帝",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1c\/hu3cano4tbdv5lzudhpp4vh7mu8i59m.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "德雷克": {
+        "名称": "德雷克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/86\/i1ked3youic8rg074xm4vaxfc2kryty.jpg",
+        "星级": 6,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "白龙": {
+        "名称": "白龙",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f8\/k5dz1oy54bpt8hzuaiknyubdlznru7z.jpg",
+        "星级": 6,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "埃吉尔": {
+        "名称": "埃吉尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3d\/jtr1kbtblv53ja8j7wta2rf2z88ahff.jpg",
+        "星级": 6,
+        "类型": "超巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "普利茅斯": {
+        "名称": "普利茅斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/78\/e67k8mjoq58ipg26ptb0f81ttn1p0wj.jpg",
+        "星级": 6,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "布雷斯特": {
+        "名称": "布雷斯特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c1\/aifyle733511x0w16g9rczzmqkm3arp.jpg",
+        "星级": 6,
+        "类型": "超巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "试作型布里MKII": {
+        "名称": "试作型布里MKII",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3a\/9lpmlqsie36pn8mmm7oq29sj9vdvya0.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "埃尔德里奇": {
+        "名称": "埃尔德里奇",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a4\/qnf89zn62ovim4w7dtw7brtyrc9emcw.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "圣地亚哥": {
+        "名称": "圣地亚哥",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7d\/969b5lqnxbbhds272jpd3dg8oyne7i2.jpg",
+        "星级": 5,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "巴尔的摩": {
+        "名称": "巴尔的摩",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5c\/3c65bndvfl0k9eins6i2ilx3qnkj86g.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "北卡罗来纳": {
+        "名称": "北卡罗来纳",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/08\/n18b71bpuaq4x0xak9adybtqavbufiz.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "华盛顿": {
+        "名称": "华盛顿",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/70\/jwlmdtyg99umlje0qdb4hotd71rktid.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "南达科他": {
+        "名称": "南达科他",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1e\/chdw5ha3cbdgqh7o3jhzint8jhw1u6l.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "企业": {
+        "名称": "企业",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/61\/5kfjys7ktqzj27i0y61i29vh8hu8901.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "黛朵": {
+        "名称": "黛朵",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5c\/84rc9yrtr823w6qcd62meojc16keaje.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "贝尔法斯特": {
+        "名称": "贝尔法斯特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/9c\/554u0uxfbpyb65xmo4txxrrexbgxbbn.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "胡德": {
+        "名称": "胡德",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/cb\/0w5779coavgmvdi81qtn89dt9pjadlz.jpg",
+        "星级": 4,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "厌战": {
+        "名称": "厌战",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b2\/25gybfcudpqnpupwf4ckhiwm2f6v0n9.jpg",
+        "星级": 5,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "英王乔治五世": {
+        "名称": "英王乔治五世",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/96\/pirb8fospevqnve0ntvevmmmb1d2j41.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "威尔士亲王": {
+        "名称": "威尔士亲王",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5f\/ijb9iyllza8pe6aad68mfeg4cspehdh.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "约克公爵": {
+        "名称": "约克公爵",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/38\/398wdu3zxnw8mrbwwqecgeckr3fa5gz.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "光辉": {
+        "名称": "光辉",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/14\/jn5drdo7sv6n09xvb8fyj44l3zs4ox3.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "胜利": {
+        "名称": "胜利",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f1\/qp4h5ppuqsu0mwzrmgngmfg6ww84vvw.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "可畏": {
+        "名称": "可畏",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d9\/e1qol9ueyzwnwq52jfo2zd058u2mfe8.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "夕立": {
+        "名称": "夕立",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/70\/p09fstnht1ivi6094lw8iueokhbzk1y.jpg",
+        "星级": 5,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "雪风": {
+        "名称": "雪风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/47\/boy7kqqgbv1ekisqgubb3mkjydsk77w.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "筑摩": {
+        "名称": "筑摩",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/78\/8scum95h48tn5cb91nshwkdsh2gk4uw.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "高雄": {
+        "名称": "高雄",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/30\/2qgwpdcxs8ir6uxv5gz54paolwov1kq.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "爱宕": {
+        "名称": "爱宕",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7a\/fgh0ke8shgm2g9e2zr32jkls6v2b4h5.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "摩耶": {
+        "名称": "摩耶",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2e\/sx4jh5iuael8j5swjlv8prnnx9stp2d.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "鸟海": {
+        "名称": "鸟海",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1a\/ffgs2f83lc97hbpgogl7x1gr2s4avu4.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "长门": {
+        "名称": "长门",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/59\/ntvbhrnbrxd4typnm1bxdluk8mvkrts.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "纪伊": {
+        "名称": "纪伊",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/13\/rt133k7htj1fkcn45nhen4fevxvjlzp.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "土佐": {
+        "名称": "土佐",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e3\/2nsbu0z2cj7fpsl4lyymsyls5orx50w.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "赤城": {
+        "名称": "赤城",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/20\/m3tuyoksletphpbaw18yu6tlbdm9a42.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "加贺": {
+        "名称": "加贺",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3e\/43e0p7ou1h4ct0ad4rc9fr1mq062w5n.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "翔鹤": {
+        "名称": "翔鹤",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a2\/aysng9ro4larb6mcyb0z6sjauyi4kb7.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "瑞鹤": {
+        "名称": "瑞鹤",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/aa\/qrvqxnsypthx6pgh81mb17d7b4gc1vv.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "大凤": {
+        "名称": "大凤",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/39\/c1m0hcpvpjtduvayfdfy55ar0f4m54s.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "明石": {
+        "名称": "明石",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7b\/age684c06x5h0h19uog16jxsebzzii7.jpg",
+        "星级": 4,
+        "类型": "维修",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "布吕歇尔": {
+        "名称": "布吕歇尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4a\/a831wbtieqqvxpu6trgoih8yffqxmzu.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "欧根亲王": {
+        "名称": "欧根亲王",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1b\/9ilgxv3l42uvdkqcb6395oj2n2o5dts.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "俾斯麦": {
+        "名称": "俾斯麦",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f6\/4s7aiofe8kme6ie1bsoqtx6msw72p64.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "提尔比茨": {
+        "名称": "提尔比茨",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/8e\/krr70s6dahu8na0l3qf7lbjf02xb1b8.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "齐柏林伯爵": {
+        "名称": "齐柏林伯爵",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/9c\/jhyzx1pr15mzgm2r5e6ip2r9ihzmulf.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿芙乐尔": {
+        "名称": "阿芙乐尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2d\/d52lpkvcssaymjo8o9j4itc3022ynlx.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z46": {
+        "名称": "Z46",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/63\/n5dic0mbimf6ibu25x6hb0jp138qg52.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "江风": {
+        "名称": "江风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/0c\/3p4clpszgvlio01vbqcguzp2ny0n51h.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "三笠": {
+        "名称": "三笠",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/10\/9idqy0sbrjeshh5hdo6uzribrwgdnqv.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "能代": {
+        "名称": "能代",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/70\/kssghgzid31st2ikvxqfzdb7hpk1xi9.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "酒匂": {
+        "名称": "酒匂",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/72\/ilsbqid6z0n9lju4hyzoobbk69j1csp.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "蒙彼利埃": {
+        "名称": "蒙彼利埃",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d1\/l9bb0ddicnh3hpkqjys824bmh78o5lb.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊19": {
+        "名称": "伊19",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d8\/mpq4a8ctcmow7agfovwy132qky5uwhv.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-81": {
+        "名称": "U-81",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/dd\/rtvgwef5dcvmhrjnaiqbtmym3s2za79.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-47": {
+        "名称": "U-47",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/73\/kai3lvt6tob7e03sesh37gwcebnj2ht.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "凯旋": {
+        "名称": "凯旋",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/de\/lkkblex2dufyoczqpo2rohy42el3ji9.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "让·巴尔": {
+        "名称": "让·巴尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/71\/e4u1v4k3nd25fjf9a3jgqw0brid8axv.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "马萨诸塞": {
+        "名称": "马萨诸塞",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d0\/3nd5p9wjmof051fwb78dsx6xz9k4e2t.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "半人马": {
+        "名称": "半人马",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e0\/f6nve9jtpfzz9f1z6mjzqee4p3zt2n2.jpg",
+        "星级": 4,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "埃塞克斯": {
+        "名称": "埃塞克斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5c\/c4cssilf19yk7qixvtwfp710yz670yz.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "大青花鱼": {
+        "名称": "大青花鱼",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2d\/n37b8jnrjd50tjl2q06xg7jz6fvlim8.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "明尼阿波利斯": {
+        "名称": "明尼阿波利斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/88\/5hvk8yzqndnmle6yr56oqwqvqi6krp4.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "天城": {
+        "名称": "天城",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c4\/nyyd0l66ogos57lhommivxaklzc0cd6.jpg",
+        "星级": 4,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "加贺BB": {
+        "名称": "加贺BB",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e2\/jj1p1xjv8rtrxk3ngdmgpncu6xsa6he.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "天狼星": {
+        "名称": "天狼星",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/54\/rf4lxkwfrfhlpgshof8eex7r9a0ps2q.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "香格里拉": {
+        "名称": "香格里拉",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/14\/n2uvobexvxsf7a4ym5ywrzjrly0mydd.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "邦克山": {
+        "名称": "邦克山",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/0a\/birmelvmmr0aksss3nvln56igveq36z.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊13": {
+        "名称": "伊13",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5a\/oevezznpanj0ga3nj4cjhbbmhpwppya.jpg",
+        "星级": 4,
+        "类型": "潜母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "确捷": {
+        "名称": "确捷",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f9\/19wxoe1rlxpf5eh2l4o9x30bgvqkidb.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "恶毒": {
+        "名称": "恶毒",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/89\/0wt39h53d34cuqiw81gm2fnbmipaahz.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊168": {
+        "名称": "伊168",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/83\/cbdclbdps2v8pk14yavifmgacp2vyql.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-101": {
+        "名称": "U-101",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/16\/7i9l6gvbuipix9lg9qatktlxdldleio.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿拉巴马": {
+        "名称": "阿拉巴马",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/17\/6s5jr0wvqv3f85v1ubkbloagqq7wied.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "棘鳍": {
+        "名称": "棘鳍",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ad\/p9sfbx299i3d5rwdeyd7gq6wf2b9lyo.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "利托里奥": {
+        "名称": "利托里奥",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e1\/6lswn60x3mngg52f5e9sdr8sq1tsnct.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "扎拉": {
+        "名称": "扎拉",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ab\/7r6pxhfqqxukx0mb8ctd3erl0ftt3ox.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "加斯科涅(μ兵装)": {
+        "名称": "加斯科涅(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/13\/ad49uwaid1590e3mgxpgjmrcid8me02.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "赤城(μ兵装)": {
+        "名称": "赤城(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/96\/mneae7fh81a0cmk3diw76i7dq5oxpmu.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "骏河": {
+        "名称": "骏河",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/78\/3gdjk9ozcscjstw8410txoz8tmd4t0g.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "龙凤": {
+        "名称": "龙凤",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b0\/4w9h3yd1w36csk3efe6uyg86pom9zns.jpg",
+        "星级": 4,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "塔什干": {
+        "名称": "塔什干",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b2\/tw3onvzibpq3l2hh0voylt5cuoafohn.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "基洛夫": {
+        "名称": "基洛夫",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5b\/mj7vfn4n5k0krpsgq0w7schweix6sqf.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "恰巴耶夫": {
+        "名称": "恰巴耶夫",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/ce\/ev4d0l1rrfb61isj2h9hki6q2n677ur.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "苏维埃贝拉罗斯": {
+        "名称": "苏维埃贝拉罗斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a0\/sqj9cyacw58bzp1hg1zln52wkm5g27w.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "苏维埃罗西亚": {
+        "名称": "苏维埃罗西亚",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/59\/dwolia6zo5gc7qdx8d3vu75rohzy6id.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "无畏": {
+        "名称": "无畏",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f9\/cabxzpfkwdedctjxb7nds11wfxk6dn1.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "布莱默顿": {
+        "名称": "布莱默顿",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5b\/6xzt6q9v52nseoxhp4ch1wmzln3qet0.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "里诺": {
+        "名称": "里诺",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2a\/pogjc1pkbbcg0myvk3j7e7i8lbv6z2u.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "黎塞留": {
+        "名称": "黎塞留",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/14\/3fn1zoulw4n2tn3z2qbnxfxhzawf71a.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "圣女贞德": {
+        "名称": "圣女贞德",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6b\/8mo56lojzxt7hwr3rvsfr1eu4uk2oif.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿尔及利亚": {
+        "名称": "阿尔及利亚",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fe\/siwhc28gqfd9ay76x5hcx1hhzbqxohj.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "豪": {
+        "名称": "豪",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/49\/a6vvf8i0hd483ya0ytczzec2yexptz7.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "英仙座": {
+        "名称": "英仙座",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/69\/7r734w45i0tr6hk13u8ija28w5o9bkz.jpg",
+        "星级": 4,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "赫敏": {
+        "名称": "赫敏",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/57\/1zg7mmg3906j7zt292765c3dya6yzaj.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-96": {
+        "名称": "U-96",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f1\/5edmjnqbkebvoiptysrcj1bjka1jdjc.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "凉月": {
+        "名称": "凉月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/26\/sq38mhqm1tp4qtfb4gsov5tidhtgau8.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "大凤(μ兵装)": {
+        "名称": "大凤(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/93\/kyml73g6hm68fj9gvds5qvma4hr37ng.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "塔什干(μ兵装)": {
+        "名称": "塔什干(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/0f\/8c3pmo2p8vkhh8c4lfhwmmz8e6ul3og.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "黛朵(μ兵装)": {
+        "名称": "黛朵(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b8\/fop7yeea6wn7i8i16oqw2oo68yvbnhb.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "罗恩(μ兵装)": {
+        "名称": "罗恩(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/84\/7bdotj56gymp31sazsqg1jlnkn74bcb.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "光辉(μ兵装)": {
+        "名称": "光辉(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/06\/076s2neqpm6e8vrvesz2nkl8ds53e39.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "恶毒(μ兵装)": {
+        "名称": "恶毒(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1d\/5oajg6jo3zwp8nbh7oqwd4oa5b5y971.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "彼得·史特拉塞": {
+        "名称": "彼得·史特拉塞",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/85\/7fu6cu1k70usbg0vabb6tlup1q9s973.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "海因里希亲王": {
+        "名称": "海因里希亲王",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/72\/8dvtl3b3ucs0xe5a6z6cm9bt108wjzr.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-37": {
+        "名称": "U-37",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e4\/3wkbyetyuqvuq0k2lni4cjbceb93697.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "波拉": {
+        "名称": "波拉",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/66\/jlv1l3rw3bpzjfzkiah3a7x080ku8y2.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "塔林": {
+        "名称": "塔林",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d6\/si195mqvc8pqkoxfu4wzbxsi67xp2g5.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "维托里奥·维内托": {
+        "名称": "维托里奥·维内托",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f9\/60rriuzkwauvu4qqvz7eb1azzarpnad.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿布鲁齐公爵": {
+        "名称": "阿布鲁齐公爵",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a4\/rwrjc5upup2nrbj6d58l68w042wcjin.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "天鹰": {
+        "名称": "天鹰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/17\/591zxgg0opu7a6851uzc6ic9qg44pw6.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "艾伦·萨姆纳": {
+        "名称": "艾伦·萨姆纳",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e2\/84h7271b9uh9tly3y7oehg4bnlln10d.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "提康德罗加": {
+        "名称": "提康德罗加",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/db\/e4iis8nx947rvfc3sw9zxvaypvrfq10.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "旧金山": {
+        "名称": "旧金山",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e0\/5i5szoqpkr5eyd5tn8a94zxcfdwwhjm.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "射水鱼": {
+        "名称": "射水鱼",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e4\/jry6653q1pv76bguxqcrux0dvttcx3z.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "风云": {
+        "名称": "风云",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/03\/hkn9jxd476a0ogmegaj2xaq8rcwghk1.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "英格拉罕": {
+        "名称": "英格拉罕",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/95\/no8hhf4crazzv71x6mo61hygocdran8.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "葛城": {
+        "名称": "葛城",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c2\/ta18gqp7hctj5brfyl8wq4rgl1d1aef.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "新奥尔良": {
+        "名称": "新奥尔良",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3a\/3bimwojo46v5odwn9hj8fmi8ypiizkj.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "可怖": {
+        "名称": "可怖",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ac\/n93ccitndcpnank0v5lz1rxgry1jrqk.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "马格德堡": {
+        "名称": "马格德堡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/25\/sasqwfj973q5z4mf36vkfgri7fs0eof.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿达尔伯特亲王": {
+        "名称": "阿达尔伯特亲王",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/96\/m0hlrzjbn7b1fb851xxeuvy4ghc72jc.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "卡律布狄斯": {
+        "名称": "卡律布狄斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4a\/bmjkmd7k796g435arq46swawuwjsul1.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "布里斯托尔": {
+        "名称": "布里斯托尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/79\/mdkc0sj4sxyt52vcsn9buzxkmiussy2.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "基辅": {
+        "名称": "基辅",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e5\/pejtlqzxxq8jx4p2rt7vnujfwz77f7a.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伏尔加": {
+        "名称": "伏尔加",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b3\/o02judm7qtaspfk86xunl4p1awvj4b1.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "帝国": {
+        "名称": "帝国",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/9f\/8f4wukwkjsk9y8lvqm11jphksfqmpaw.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "庞培·马格诺": {
+        "名称": "庞培·马格诺",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7c\/7vwzjqy1aizadsbvlwqfeqcgneufgad.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "塞德利茨": {
+        "名称": "塞德利茨",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1f\/8b7qzusxx3h5dbpw1h1xppif4op775s.jpg",
+        "星级": 4,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "吕佐夫": {
+        "名称": "吕佐夫",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/be\/tszhutpfma79yumrr2c8due5qo36b5g.jpg",
+        "星级": 4,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "埃姆登": {
+        "名称": "埃姆登",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/34\/ehdnrcj6fzaqvajnktb8nmm0d7m56z0.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "贾维斯": {
+        "名称": "贾维斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/81\/4txxydh947vycfqr74x9tfwd5i7hyzk.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "不挠": {
+        "名称": "不挠",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f7\/oubqxvmg0gfkfiyghpuhdltnn0euuk8.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "霞飞": {
+        "名称": "霞飞",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/81\/t545vyb0bdetkh9isghd5z8mw31ex43.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "不屈": {
+        "名称": "不屈",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b2\/aypducxvtfnb8janw9ofhysunvk3da5.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "莱昂纳多·达·芬奇": {
+        "名称": "莱昂纳多·达·芬奇",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ac\/4zzq1cwa07dfn7itc5u7zayg2cim6wq.jpg",
+        "星级": 4,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "朱塞佩·加里波第": {
+        "名称": "朱塞佩·加里波第",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/de\/ja3v94qzhvbghp7rf15k5gfsed2r4k6.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "罗马": {
+        "名称": "罗马",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/19\/4c79o9df9l3vfay2jtgx5hfggszc52h.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "布伦希尔德": {
+        "名称": "布伦希尔德",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a1\/re2u4s9hzqunz7au5j8knvuogjxepxi.jpg",
+        "星级": 4,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "若月": {
+        "名称": "若月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/99\/q8cmh6laj2h8u4yhidskmyv3c89bbjc.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "雅努斯": {
+        "名称": "雅努斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/69\/q9r5sh34x7eix8qw12o8uhuwb0v0t57.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿尔比恩": {
+        "名称": "阿尔比恩",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b4\/jp1pkglkcd4pk18s0i4r1rkgs71pcbw.jpg",
+        "星级": 4,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "皇家财富号": {
+        "名称": "皇家财富号",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fa\/hht632x7ixdj45zky5you1a4hx20wqk.jpg",
+        "星级": 4,
+        "类型": "风帆",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "大黄蜂II": {
+        "名称": "大黄蜂II",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4e\/lbx0e9n23a876syy8x33hzwmobefwa1.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "北安普敦II": {
+        "名称": "北安普敦II",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/50\/mwfbd39et04rmu4c2b83aqrx9n5y3nl.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "古比雪夫": {
+        "名称": "古比雪夫",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/ce\/4plf2frlowbbb3h3lz72iv9faz2l36l.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "忒修斯": {
+        "名称": "忒修斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/20\/23mendova4bfmctp0pwhly9b7lo8tni.jpg",
+        "星级": 4,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "皇家橡树": {
+        "名称": "皇家橡树",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4f\/pejcfl992i9aanpgd2dqjligykmhbz9.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "斯库拉": {
+        "名称": "斯库拉",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/de\/kza674afugbohy19c8recti7939nbzd.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "库尔斯克": {
+        "名称": "库尔斯克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d0\/oqyf7pgko2xlsmkdzxvzzrfdp13t177.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伏罗希洛夫": {
+        "名称": "伏罗希洛夫",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/77\/brkaz92m5brff0h9u2q8bg2uwl6kqfm.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "绀紫之心": {
+        "名称": "绀紫之心",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a1\/7gwegr93symne3lyye8i2yswpkshj05.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "圣黑之心": {
+        "名称": "圣黑之心",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/cd\/lp0000ghgp17vwc1ti3d4x21keanmwm.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "群白之心": {
+        "名称": "群白之心",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d2\/cyjxmazqz6qbssflgtvi6apvl34ze2s.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "翡绿之心": {
+        "名称": "翡绿之心",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a7\/sdc7dqeasitk7iue2c8g6pnvpcrfe0u.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "久远": {
+        "名称": "久远",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/84\/nr3eo4xh4aorpjrkpfy71jfjlt5juzg.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "猫音": {
+        "名称": "猫音",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fb\/trpboab65pc8jxqb8ycn43rwc78vpzd.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "露露缇耶": {
+        "名称": "露露缇耶",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7d\/ec77nndoolybomglhths38hgwzwpn0w.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "绊爱·Elegant": {
+        "名称": "绊爱·Elegant",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a7\/at3ix8bngf3qf8f28jyaydjfy3xyk3k.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "绊爱·Anniversary": {
+        "名称": "绊爱·Anniversary",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/38\/3c1zi2s47lid84sq63mn6i9xj7txr2a.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "绊爱·SuperGamer": {
+        "名称": "绊爱·SuperGamer",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/07\/fgqyv4astp5vp7s7eyimght9pmsiwdz.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "玛莉萝丝": {
+        "名称": "玛莉萝丝",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f3\/ifdzw1u8mjemy8toyy7pzjd97fl16ep.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "穗香": {
+        "名称": "穗香",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/0f\/6147fdcz0gvjm8t6vnlxzfuohllnnlq.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "霞DOA": {
+        "名称": "霞DOA",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fd\/287cw5nsmspcoc2czbiegeacmkffmi8.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "海咲": {
+        "名称": "海咲",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/97\/e608j4gg8zxqo2d0ebzfntkv34p9czy.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "天海春香": {
+        "名称": "天海春香",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b2\/359msuyjsjsp5yuyqwlhrblm7t1wwp3.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "如月千早": {
+        "名称": "如月千早",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e0\/4nq7f8t2gddojny4f0a022shwiofafe.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "水濑伊织": {
+        "名称": "水濑伊织",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/38\/s2sl8mumzocaxkulsu2l0qgenbixoym.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "三浦梓": {
+        "名称": "三浦梓",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c8\/aci8mgxtdznvrpzbna6rr7uud9vzal6.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "宝多六花": {
+        "名称": "宝多六花",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fd\/ibdhl4aojkzvmi43c3lpje5yc5vvjv5.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "新条茜": {
+        "名称": "新条茜",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/91\/ld10e9zqk3m0ssvowism8037l627rsa.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "南梦芽": {
+        "名称": "南梦芽",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/34\/5ocrdw78j43vl63rr9bf1v2qvk57ior.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "飞鸟川千濑": {
+        "名称": "飞鸟川千濑",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/9e\/mrcr8gw612dpazjluurdzem87yc9ce6.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "莱莎琳·斯托特": {
+        "名称": "莱莎琳·斯托特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/46\/ff844v5ikl50pga7vcweup4xs38xve5.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "科洛蒂娅·巴兰茨": {
+        "名称": "科洛蒂娅·巴兰茨",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3d\/3b61fsgo1tbjd2rji1itz5a1hwf5gi4.jpg",
+        "星级": 4,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "帕特莉夏·阿贝尔海姆": {
+        "名称": "帕特莉夏·阿贝尔海姆",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/82\/1enyk9aynhazxpx7z8xk7uzharga4y0.jpg",
+        "星级": 4,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "卡菈·伊迪亚斯": {
+        "名称": "卡菈·伊迪亚斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/91\/0wwyiybkayx4e631kl7v5ggmth01ugj.jpg",
+        "星级": 4,
+        "类型": "超巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "飞龙·META": {
+        "名称": "飞龙·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/9e\/du7m10w4j0p7tftb369gnzob6ek4u9w.jpg",
+        "星级": 6,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "皇家方舟·META": {
+        "名称": "皇家方舟·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/33\/6aeqc2i8ao68ntotsrqs1y2i7em7kqo.jpg",
+        "星级": 6,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "海伦娜·META": {
+        "名称": "海伦娜·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c5\/p7o2tijt25suhpsj58dy736q4vxsblu.jpg",
+        "星级": 6,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "苍龙·META": {
+        "名称": "苍龙·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a4\/qe6bvi67k30revu8cud05w2w5dj9aua.jpg",
+        "星级": 6,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "格奈森瑙·META": {
+        "名称": "格奈森瑙·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fc\/phqv7phgcjfrv5vuu6vyngs50gnh2sb.jpg",
+        "星级": 6,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "沙恩霍斯特·META": {
+        "名称": "沙恩霍斯特·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d7\/qwcjrt2pej1w5sea1jm6b8onof5ll3r.jpg",
+        "星级": 6,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "反击·META": {
+        "名称": "反击·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d7\/38wl0l5xubyj83h8e35acpqijnzs3lg.jpg",
+        "星级": 6,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "声望·META": {
+        "名称": "声望·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6d\/j5pwsbrv945r1jocnriro9tpgb6c93x.jpg",
+        "星级": 6,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "亚利桑那·META": {
+        "名称": "亚利桑那·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ac\/odijya7wr1zmugqklmd3y3tcjklxlwb.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊丽莎白女王·META": {
+        "名称": "伊丽莎白女王·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/27\/okhrdfhxbi5rx9ljkt0kk3ayxqkk2yg.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "海王星": {
+        "名称": "海王星",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d1\/l3q155blb13crrs0byb3lj716kvyvj7.jpg",
+        "星级": 6,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "君主": {
+        "名称": "君主",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/61\/ov7cz8a4438eutvkx4px5n6mzzqddo9.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊吹": {
+        "名称": "伊吹",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/77\/pp4453w8lav4apzgl3za5wt95edjelc.jpg",
+        "星级": 6,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "出云": {
+        "名称": "出云",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3d\/8f7jz58odnqc2jwxk700k0ri9dzu4tm.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "罗恩": {
+        "名称": "罗恩",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e0\/o7595yrtse568bpj4o2z6gbm7kh8bxy.jpg",
+        "星级": 6,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "路易九世": {
+        "名称": "路易九世",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2b\/8rc5ty6klot2kv1fpk2abqfcwiaotkl.jpg",
+        "星级": 6,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "西雅图": {
+        "名称": "西雅图",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ec\/1fxhbla64szhm1du0j50tnfrkh3ipzt.jpg",
+        "星级": 6,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "佐治亚": {
+        "名称": "佐治亚",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c9\/et9uph48be0gpssyl9adppqknepkr0c.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "北风": {
+        "名称": "北风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/31\/dnws3j4ovgzu4ivnfku0ptu2q09zxlf.jpg",
+        "星级": 6,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "加斯科涅": {
+        "名称": "加斯科涅",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/31\/76onkmw5756hur5k3da4znu36t0saq2.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "柴郡": {
+        "名称": "柴郡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/84\/5phpv3wpastmnpgwy6aai7oe0mav76g.jpg",
+        "星级": 6,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "美因茨": {
+        "名称": "美因茨",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6a\/pc4kjjqj4smcys087fej2mx4782ho4l.jpg",
+        "星级": 6,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "奥丁": {
+        "名称": "奥丁",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e3\/5sm7md9gbwdzi38p74sacx2x1xtbh7f.jpg",
+        "星级": 6,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "香槟": {
+        "名称": "香槟",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/67\/qtgox335weg36soyhym22taeq812uf1.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "安克雷奇": {
+        "名称": "安克雷奇",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d0\/oifgggzgik1o88paxxikmtxv8fvuc52.jpg",
+        "星级": 6,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "奥古斯特·冯·帕塞瓦尔": {
+        "名称": "奥古斯特·冯·帕塞瓦尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e2\/q0ujouwym26owanuerv2s2gjrvpipqm.jpg",
+        "星级": 6,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "马可·波罗": {
+        "名称": "马可·波罗",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a4\/38rpjdv36vrlae9zkowlhkb71outnfh.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "鲁普雷希特亲王": {
+        "名称": "鲁普雷希特亲王",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ad\/4s5dtgdyo2as1s58mru6c8gky4p2oag.jpg",
+        "星级": 6,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "哈尔滨": {
+        "名称": "哈尔滨",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/00\/t9lg54bwtgfzvjvnrysu34nt6cack4x.jpg",
+        "星级": 6,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "契卡洛夫": {
+        "名称": "契卡洛夫",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/02\/i4qjk0cnxr8t9s3qe5hp1dexyljwe6l.jpg",
+        "星级": 6,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "泛用型布里": {
+        "名称": "泛用型布里",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e1\/oecjjh63h5k2p48ba452epm6ws88tl6.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "莫里": {
+        "名称": "莫里",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5e\/bhlzgx3llrqoirbo8n6bohbi1had9ob.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "查尔斯·奥斯本": {
+        "名称": "查尔斯·奥斯本",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/be\/eqfb03ul1x7w186zqc3ix02gyl5yfbt.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "拉菲": {
+        "名称": "拉菲",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4a\/qem3vdjudcyu0zc3mcqo96bursq9625.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "海伦娜": {
+        "名称": "海伦娜",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/12\/plt2so2embv48skylnd63o28kmvllni.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "克利夫兰": {
+        "名称": "克利夫兰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f1\/adqyg5ulh9muhxyxs8v489s2i7ahu6k.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "哥伦比亚": {
+        "名称": "哥伦比亚",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3b\/esm2f6teims0dcveteypcrh45q39atn.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "休斯敦": {
+        "名称": "休斯敦",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d4\/4donfo5saf3c5ehn220g2pswfaist32.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "印第安纳波利斯": {
+        "名称": "印第安纳波利斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/10\/t4r6uxvttolwslguibi2v13b19fgwc3.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿斯托利亚": {
+        "名称": "阿斯托利亚",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/37\/r74irvbhnkv4yhovesb7i456hgtqsb1.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "昆西": {
+        "名称": "昆西",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/ce\/7y91jzejebqfipobeub4oehcjhbrpwb.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "文森斯": {
+        "名称": "文森斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d3\/7qpsg3c8z55x6nfvg4jl00rffhjej8x.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "威奇塔": {
+        "名称": "威奇塔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/97\/p6lxwngzco1g07m7jevm4ay3vrx0x6p.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "亚利桑那": {
+        "名称": "亚利桑那",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1e\/2ph8bk6z4ssbmuj0bl4l0cdv7sidxi6.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "科罗拉多": {
+        "名称": "科罗拉多",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/12\/rt8pgtjv7plk2v27ggp4leepaql8yip.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "马里兰": {
+        "名称": "马里兰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/24\/e7laqoikydlx6obe08ty3bp74aqci1n.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "西弗吉尼亚": {
+        "名称": "西弗吉尼亚",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b4\/onc0glpn3het6zxsevxnmx8qjeqog4a.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "列克星敦": {
+        "名称": "列克星敦",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ad\/npawf4rawwhk09ynylwvmsfg58as57w.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "萨拉托加": {
+        "名称": "萨拉托加",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ab\/76swhxsvmu2i0l14jjodpw4svbvp1pz.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "约克城": {
+        "名称": "约克城",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/87\/cmsv2fpnjocnsbxeurhi3e5ali2ds17.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "大黄蜂": {
+        "名称": "大黄蜂",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/26\/6fqg76qyqgrozuij3fm9v0j4jgtowmm.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "女灶神": {
+        "名称": "女灶神",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a5\/2ztgow0n53udxgdtvdk25wv928937ze.jpg",
+        "星级": 3,
+        "类型": "维修",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "格伦维尔": {
+        "名称": "格伦维尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/da\/h3yhefxyg7rxf7a5cd6sny66mi9qxpv.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "萤火虫": {
+        "名称": "萤火虫",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/63\/qamclew8mnh3m1kpsstjvyjgf227nsm.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "勇敢": {
+        "名称": "勇敢",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a2\/7zm9m4esgb0wlzxw5dd4f4evaqmx445.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "标枪": {
+        "名称": "标枪",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/74\/oaiog2tdk4fkrzmidgf2quypmrcs63u.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "吸血鬼": {
+        "名称": "吸血鬼",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/95\/163y259nmom0tgz1gve5hvom8wepso6.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "谢菲尔德": {
+        "名称": "谢菲尔德",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c1\/4svguopuwtj5fvwfnx5bhm1nxawvyra.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "曼彻斯特": {
+        "名称": "曼彻斯特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fd\/6rsorkjm7veh5n77zvly8x4snv0q596.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "格罗斯特": {
+        "名称": "格罗斯特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d1\/f6cn48klh5lyrvj7xzgkk34jp4yd8ya.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "爱丁堡": {
+        "名称": "爱丁堡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/9e\/rjj5uuehm6ttuxqyn9vsuhkr7tbvs3i.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "欧若拉": {
+        "名称": "欧若拉",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/ba\/t0dsq6xgx4zm3q2kxfpvjtidwx3ax3z.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伦敦": {
+        "名称": "伦敦",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/54\/4p3eqxnefbscebhc6m1m3lpqync1vvh.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "多塞特郡": {
+        "名称": "多塞特郡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c4\/b20h0ew08sc7jap338x4ozvwsuvz8p7.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "约克": {
+        "名称": "约克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6d\/t63i2cd6uj1cyo6wol6zts5ag2n4jwm.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "埃克塞特": {
+        "名称": "埃克塞特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/eb\/jllzbvl9gzetgbboynhvb5gf2wkd8vk.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "声望": {
+        "名称": "声望",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/53\/any95u1kgnana1ten3wvms5s98eg9fo.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊丽莎白女王": {
+        "名称": "伊丽莎白女王",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/0e\/eq87aq01soo20s134zcco8xik17yan2.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "纳尔逊": {
+        "名称": "纳尔逊",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/72\/goflh7f4j43ikrwkp2ts5dh699pblxm.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "罗德尼": {
+        "名称": "罗德尼",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/09\/00r56g3avg2h363tofjruslfoh0o0lm.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "独角兽": {
+        "名称": "独角兽",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f6\/3qjgu9ly2nt3c871r3mifb35g125au0.jpg",
+        "星级": 4,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "鹰": {
+        "名称": "鹰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7f\/otdtoeqi30jypltqmhr5r7iltbl5dbo.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "皇家方舟": {
+        "名称": "皇家方舟",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4e\/th0ks07f02bbmgmwx0j1duo1vv3c29v.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "光荣": {
+        "名称": "光荣",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/70\/55rex9gwdv7o2dakg8uhyt5scd6sj6p.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "黑暗界": {
+        "名称": "黑暗界",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1e\/5werd24kg1em6hx33mlaz7dm0l70v9p.jpg",
+        "星级": 3,
+        "类型": "重炮",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "恐怖": {
+        "名称": "恐怖",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/58\/j6jaa7nugpzthh12e1cchyn62bav0ix.jpg",
+        "星级": 3,
+        "类型": "重炮",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "吹雪": {
+        "名称": "吹雪",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/31\/jncc25b2ovorf1bxlh1ybfswnmzuruy.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "白雪": {
+        "名称": "白雪",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/29\/qohn9fgpw6trhapq75ocb21ptr3i45k.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "深雪": {
+        "名称": "深雪",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6c\/hs9mu4ud1jz7a31raw03zsyr2qivjbt.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "绫波": {
+        "名称": "绫波",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/45\/c7ujxade59wst2qw6xcchdgfz2ew62h.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "响": {
+        "名称": "响",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f4\/cpu9zq0b1eeeuw8eesc1cwgabaj80gq.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "时雨": {
+        "名称": "时雨",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f3\/afbksdhlgaq7gwiae1slulz45jffgw1.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "野分": {
+        "名称": "野分",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b0\/tmxqu0ldobblzmw1pyg0htw30qm8i4x.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "夕张": {
+        "名称": "夕张",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ed\/joqm76hqm6t0vpwcsa1cg3lkn31kg2j.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "由良": {
+        "名称": "由良",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/47\/5znavgt7f0yfwm686gum4rctgqoskqh.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "鬼怒": {
+        "名称": "鬼怒",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/aa\/2qy5zq0y0wtmx51qpmydb8holpwkjrs.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "最上": {
+        "名称": "最上",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c8\/5v6276g6exdv74qq3z2fbreanbqri9d.jpg",
+        "星级": 4,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "三隈": {
+        "名称": "三隈",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/8c\/as369ed4iltjgyxgdcl1c5eww5va69w.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "足柄": {
+        "名称": "足柄",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4c\/r1qui9ar8zlly97hfvzt66oijnot1x3.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "羽黑": {
+        "名称": "羽黑",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/25\/88yrnbwo978agid6j5pw0dswpz73og1.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "金刚": {
+        "名称": "金刚",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/cc\/6k28h0m7mnln5c292kwqm7j6cpxav18.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "比叡": {
+        "名称": "比叡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/70\/c6227gkzx5q3k1zmlgdpjc47n0dg70k.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "榛名": {
+        "名称": "榛名",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ea\/idttofvzgawp8ldmdt1j4fvlp70fws4.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "雾岛": {
+        "名称": "雾岛",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e1\/0ih1yqee1sznh2vq35bzrfz66b3ir81.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "陆奥": {
+        "名称": "陆奥",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c5\/cplrlgcf806625sb0ucfr5ld3jd2780.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "凤翔": {
+        "名称": "凤翔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2b\/l1j0ij9732dftf4okl13ansuez3aswz.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "龙骧": {
+        "名称": "龙骧",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d6\/hgixu62ui3kzhun99xsmt7pymcp1q3n.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "苍龙": {
+        "名称": "苍龙",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3d\/bzf7xkt477wpn7wtpcxngqc4iup7o29.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "飞龙": {
+        "名称": "飞龙",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/75\/dp4wnkcj2hynrgdyqqay48pdw91n3km.jpg",
+        "星级": 4,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z1": {
+        "名称": "Z1",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f4\/pjzodtmeqqp86j49t3mpcoapg36qlt4.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z23": {
+        "名称": "Z23",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/14\/m4nu2ekhqz9klie4vmztjhf8u9cx9n2.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z25": {
+        "名称": "Z25",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/9d\/3ifzd3dfb1fhe9qbcetc2a1xeia2epj.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "希佩尔海军上将": {
+        "名称": "希佩尔海军上将",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/65\/8ugxiwyhydnwlf3wvvte4iusjo17pjr.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "德意志": {
+        "名称": "德意志",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/94\/c7qw8vt9n23uarvo0l5v7lagebj6nmr.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "斯佩伯爵海军上将": {
+        "名称": "斯佩伯爵海军上将",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e4\/h845keo1dbp73e346f4j2mn5j0ttglb.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "沙恩霍斯特": {
+        "名称": "沙恩霍斯特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a7\/j8y0gjcwf3b3iyjjf7lwcdaimn052z6.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "格奈森瑙": {
+        "名称": "格奈森瑙",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7e\/2yhqpvxxo01jbub86x0zesgz15oezvd.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "鞍山": {
+        "名称": "鞍山",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/27\/at3aso82ztnepme7r069nddkp8mlxqv.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "抚顺": {
+        "名称": "抚顺",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/25\/pwmmvp5urmwity65pgfd8okqk9v1o6a.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "长春": {
+        "名称": "长春",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/35\/6furru9ysz7nrn7k4xj5wadnbud2bun.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "太原": {
+        "名称": "太原",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/17\/ib2jlwpneezdgveu0ko18863r4gxab9.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "逸仙": {
+        "名称": "逸仙",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fb\/5964992vk46o94ifnb28i6d8hjx2ay7.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "宁海": {
+        "名称": "宁海",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/79\/qnvy2ra2wm6598oi7jbp0dncdlfbct6.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "平海": {
+        "名称": "平海",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d4\/otl7q4332297k4qxfkm97hyr74m49gc.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "海风": {
+        "名称": "海风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/bd\/aylssv32r0ewsqfdn19bmjqlxm1xobk.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "山风": {
+        "名称": "山风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b4\/o2pdyos3j8nph5871ztabjdiy7ok9k0.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "新月JP": {
+        "名称": "新月JP",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/62\/35ufpaoyh1totq7rugzvk24dcnuypbd.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "春月": {
+        "名称": "春月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/55\/ec6vte6d3lewhr4yjoxy7ekkfrb5epd.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "宵月": {
+        "名称": "宵月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5c\/r3g87gog502sid28hbe567c75rdt0m9.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "尼古拉斯": {
+        "名称": "尼古拉斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/8a\/hs9lbv8p0yw4rrfg3s8zjzsa06hhv08.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "圣路易斯": {
+        "名称": "圣路易斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fe\/qx4zjs6q0tg5b70vjik6repywxodvh8.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "神通": {
+        "名称": "神通",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/56\/bvno6kzy4p19mo2widy5luaz7erm6jy.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿贺野": {
+        "名称": "阿贺野",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/70\/rltg1c6fe3ab58vn0oxhb8377ffdonf.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "无敌": {
+        "名称": "无敌",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c1\/46pyd5j91o3ysxwq2e5lq38haelk627.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "火枪手": {
+        "名称": "火枪手",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/56\/bqtnq8fr3rl8w96st9f2gfdg3jdu65c.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "丹佛": {
+        "名称": "丹佛",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/08\/5okgxvxewhzj5mc8c7zvosmme0xw8u8.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小贝法": {
+        "名称": "小贝法",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/bb\/8ji7sqieq02uzr58dharcbwycvbxshq.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿贝克隆比": {
+        "名称": "阿贝克隆比",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/68\/4ch90k49t2soktx16rwhe7l7gwwg2eg.jpg",
+        "星级": 3,
+        "类型": "重炮",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊26": {
+        "名称": "伊26",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ef\/rh98or6oq32a8hruv1fwpdiskh7yjod.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊58": {
+        "名称": "伊58",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/01\/9bu16vh3513qlgp7fs923w0aw6x5mj3.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "鲦鱼": {
+        "名称": "鲦鱼",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/66\/3nxqg1dhwdutrt3ojp93sfuwsdp9tz4.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-557": {
+        "名称": "U-557",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ed\/pezxdpv2ong7hcva9jynvdn50cmpk0z.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z35": {
+        "名称": "Z35",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d5\/modhvuapkdz7i986jjdwt49ngq22b4n.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "埃米尔·贝尔汀": {
+        "名称": "埃米尔·贝尔汀",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e0\/ecipw26mwnt6lteaiwxijojs09bm86s.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "絮库夫": {
+        "名称": "絮库夫",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1a\/9jg4js6oxzwf8x8y3jkq1vz2jnabt7m.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "敦刻尔克": {
+        "名称": "敦刻尔克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/02\/oze9ijfv2hi732njjzlq8b61q582hfu.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "鲁莽": {
+        "名称": "鲁莽",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f9\/o6ti1kmcze943x8nvpg5v54lo2g8dtb.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "卷波": {
+        "名称": "卷波",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/68\/kc3y7yec77cfqfbbki3yc7qs2el2vad.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "马拉尼": {
+        "名称": "马拉尼",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6a\/6xpvdc7msj1q3rid72vyzy8agg2tjkr.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "追赶者": {
+        "名称": "追赶者",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/aa\/c4isj074a0v1p10jcdp269733b2rrr3.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "独立": {
+        "名称": "独立",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d6\/qfkflzokoaz1g5s1qenttq1hxyvn66f.jpg",
+        "星级": 4,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z2": {
+        "名称": "Z2",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/da\/8t96ma2bwm7ehdmfzwohnjx3ha24j59.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "铃谷": {
+        "名称": "铃谷",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/09\/flhfsyl9jmmmaxvmj1a3jo6530bu7fz.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小比叡": {
+        "名称": "小比叡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/98\/ou8uip06iz4zukn6d1rt022062zmi77.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小赤城": {
+        "名称": "小赤城",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/93\/m3j7faopeg2lc6wer08rt4ttpz4r05v.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小齐柏林": {
+        "名称": "小齐柏林",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/84\/qhglwjchhj6jndg9i2234tz3jczaxjo.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-556": {
+        "名称": "U-556",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/78\/18u6rgf8z94tzbkmx44dmffeh7btihs.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-73": {
+        "名称": "U-73",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6b\/mqh9uiuiy7zgvj5434azndz6mv1l42b.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z36": {
+        "名称": "Z36",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/89\/ia7kr8yxflx1qdtdc5i7chvxdw7h0ol.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小海伦娜": {
+        "名称": "小海伦娜",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/86\/21xwabzrmdl31h97iwcje1qri4jkuf4.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小克利夫兰": {
+        "名称": "小克利夫兰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/21\/58nkeekrn3iwr1m61gtny4psfx59as7.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小圣地亚哥": {
+        "名称": "小圣地亚哥",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d5\/j8ixub1q842e98djuoqkzwsgy3k4mp7.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "倔强": {
+        "名称": "倔强",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a0\/9ewwd49p716kw2ks3c502sh4bt1k16h.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊25": {
+        "名称": "伊25",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/de\/5802irow5u6b9tf52pfw90lkh26wf19.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊56": {
+        "名称": "伊56",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/9b\/h8z85nu6azvncxpr6d3awfqnr3etksr.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-522": {
+        "名称": "U-522",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/dd\/2119flhy8gaoh1b3kmwpbgr874cawar.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "巴丹": {
+        "名称": "巴丹",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/32\/et4ck0k0bevpemfpveilbupg5o03oro.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伯明翰": {
+        "名称": "伯明翰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/ba\/t3ra4wklj8mef71msqdilux8q43t9q2.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "黑太子": {
+        "名称": "黑太子",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1d\/3foke95a0czgpu474vh4ehthsodv0pn.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "朱利奥·凯撒": {
+        "名称": "朱利奥·凯撒",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a9\/jeckrfl8vaijpnrg63z0v0dyy9gnyus.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "龙骑兵": {
+        "名称": "龙骑兵",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c9\/fu92b6snoyy5jypmairyaexf065xew4.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-110": {
+        "名称": "U-110",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c3\/bi3fdt1dfu12wpqx3bsps1rc1dc9ik0.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "克利夫兰(μ兵装)": {
+        "名称": "克利夫兰(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b3\/b507sn1pbedz3sbfwqykcgbeauljrq1.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "谢菲尔德(μ兵装)": {
+        "名称": "谢菲尔德(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6e\/ho816unf938s19rz9vpc7petnx44w1z.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "希佩尔海军上将(μ兵装)": {
+        "名称": "希佩尔海军上将(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/8e\/pkrtqxq0iasdrmjmfgs0quvxyo7s5sw.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "霞": {
+        "名称": "霞",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/65\/qcnn3xb0i3943b65xl3vc2spuzzpojv.jpg",
+        "星级": 4,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "比洛克西": {
+        "名称": "比洛克西",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3d\/swi1kjekxmaod7ebe065sa6l0aadq8n.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "浦波": {
+        "名称": "浦波",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/64\/lu3pttecngqpu2k7rjoasx2k59anquf.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "威严": {
+        "名称": "威严",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/66\/h30cgfehgm660s2679iysz0onb7nbaz.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "明斯克": {
+        "名称": "明斯克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5c\/1anouggpgi1bkzg3ucavmplid8m1qxg.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "水星纪念": {
+        "名称": "水星纪念",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b2\/1f420pk5m1yg2vqyo32l61ynv6mikdg.jpg",
+        "星级": 4,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "甘古特": {
+        "名称": "甘古特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/63\/smprm8fomjpjma5fydu5k8yh9s05lem.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "库珀": {
+        "名称": "库珀",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/78\/igmndbyg1kk5idxq51owilllbdb9uef.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "蓝鳃鱼": {
+        "名称": "蓝鳃鱼",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/de\/taswhmmku32v40d8a3ibaghd2lsn02e.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "花月": {
+        "名称": "花月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/81\/p4p2hb8ceu8ruuocmx2kdf30lbwarkd.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "长波": {
+        "名称": "长波",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/26\/3li330fx36d7tkx48edqmtxj2s893l4.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小声望": {
+        "名称": "小声望",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7c\/eel30e46do93yc5dodvx6v09d2vxxl8.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "塔尔图": {
+        "名称": "塔尔图",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/cf\/mnqj24y9aypd3wzd9muelqz2556xvl0.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "拉·加利索尼埃": {
+        "名称": "拉·加利索尼埃",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/82\/iosmmx5bv2wjdiqo5tq61md9gyqnvk6.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "沃克兰": {
+        "名称": "沃克兰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ab\/j7dsjvn14oc9gmqxw5gq0rk3657n1xc.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "贝亚恩": {
+        "名称": "贝亚恩",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b6\/4h7253e34udralauzhbik4b5ljl21q2.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小光辉": {
+        "名称": "小光辉",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/57\/5a07zcsbhub9rkc5l3ffewfchr01h3p.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "爱斯基摩人": {
+        "名称": "爱斯基摩人",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/98\/c9812taoof2de2dtzzpr5bsdg9hkszl.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "英勇": {
+        "名称": "英勇",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b9\/1pvf582nrrz84du8eusz613ovpvfj3f.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊卡洛斯": {
+        "名称": "伊卡洛斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6f\/mhzujfbps0e0yt64gwp0loz1m5ohidc.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z26": {
+        "名称": "Z26",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/17\/6fuko7m43ummscpkvk4iss9awsved79.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "熊野": {
+        "名称": "熊野",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/38\/4ver9azci24joiv1lmreljlfgp7oedb.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "千岁": {
+        "名称": "千岁",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f0\/f4clxy0lhaliq1fuwx53y6leyf8gosp.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "千代田": {
+        "名称": "千代田",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/87\/616yfbimms450xavn8u0gfmtrzpfdud.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "樫野": {
+        "名称": "樫野",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a3\/a20w70dzqe2drmrgm8chmpthck1qbcq.jpg",
+        "星级": 3,
+        "类型": "运输",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "普林斯顿": {
+        "名称": "普林斯顿",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b6\/8v3h36x7mkymo0zfga9r420ogaehdf5.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "大青花鱼(μ兵装)": {
+        "名称": "大青花鱼(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c0\/gkl7xx8udzpsjlzx2xlgc3vlp5mdsii.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "巴尔的摩(μ兵装)": {
+        "名称": "巴尔的摩(μ兵装)",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e3\/i5vlhr5660z32utabkvayfj1pjhdajs.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "威悉": {
+        "名称": "威悉",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1a\/2t4xsvz9xydv4t9fbq9fd5pipoiuk2d.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "纽伦堡": {
+        "名称": "纽伦堡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2e\/rxr55rduxj37rc7klmbz8q8nmwqbice.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z24": {
+        "名称": "Z24",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e2\/p7f1269d4fl1em1vvu9z5xyvgrsmldp.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z28": {
+        "名称": "Z28",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5a\/ifs223t7tslm1scjqne4nxsnbihqjts.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "文琴佐·焦贝蒂": {
+        "名称": "文琴佐·焦贝蒂",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f3\/g0vfw9j7drivnz6q74m07uuq1nf39c8.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "神速": {
+        "名称": "神速",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a1\/ggo4lr09xf8vlowjl8sxdx7r5unwd0s.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-410": {
+        "名称": "U-410",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/75\/gpbqgw7hw9han4qyddwx3yepldlxs00.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "应瑞": {
+        "名称": "应瑞",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/40\/q23m59qykz6z0efo1homda4xqi2vf3h.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "肇和": {
+        "名称": "肇和",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e6\/rhhuaekmsdeg3dlonvndiao3uqhjv8m.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "佩内洛珀": {
+        "名称": "佩内洛珀",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3d\/b3437kykil3xaj0hqx9ar3xb1yple7j.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "雷鸣": {
+        "名称": "雷鸣",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f2\/ildm9tn1ee41yr2bc2udv814a59qi4d.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "摩尔曼斯克": {
+        "名称": "摩尔曼斯克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/af\/spnh75sfav24611064faraid6n77n27.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "洪亮": {
+        "名称": "洪亮",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c0\/g5blkn0zq9seqfwimial0rmvyduvehj.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "托里拆利": {
+        "名称": "托里拆利",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/53\/hmfqte1m55e0waltic4a0xbouorm8c1.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "西北风": {
+        "名称": "西北风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/71\/1y8ptyoc9l61oin1a8jdkrs48g2hnge.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "西南风": {
+        "名称": "西南风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/55\/for72c7n073igypr5x70sxm9jvchlnk.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "尼科洛索·达雷科": {
+        "名称": "尼科洛索·达雷科",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/04\/q0snfa2gmuam1tvb46f33k3y333h15l.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "史蒂芬·波特": {
+        "名称": "史蒂芬·波特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b0\/17kaeiax5v1og82cv2lqe9ior9db74t.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小天城": {
+        "名称": "小天城",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/bb\/dm4fr8rpi1ji3rjt5xlhpcfv2bykla6.jpg",
+        "星级": 3,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "博伊西": {
+        "名称": "博伊西",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f7\/elpr5hj4bmobyxb8fc4xwqrfhuo4abg.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "莫里森": {
+        "名称": "莫里森",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/74\/oc5pf89bo9njfjwy2mfs9z7fayogix2.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小企业": {
+        "名称": "小企业",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/27\/34qufvwkwdqn70k13l2eozlp6flvtci.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "鹦鹉螺": {
+        "名称": "鹦鹉螺",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/57\/hjj7p5dwg47wjotbvj721pxzgz4mbj2.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "马耶·布雷泽": {
+        "名称": "马耶·布雷泽",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/05\/r2i4ihpjkzz22jz95x5oy3tf38tjzbf.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "福煦": {
+        "名称": "福煦",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/ce\/ohmwj9xc2lohro907eq10a48njg0tbg.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "易北": {
+        "名称": "易北",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/8f\/dhs09fww1o85306hhq4tatsk5j456i3.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "U-1206": {
+        "名称": "U-1206",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7b\/cbvl9axccjwrl1u2rp5e84oxajvyfeu.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "海天": {
+        "名称": "海天",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/26\/8bpwpg7lk0fz99gznjusqw0867pb910.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "海圻": {
+        "名称": "海圻",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7e\/0uwhodwvufxzr8jegcdneyfzcwuh7zy.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "镇海": {
+        "名称": "镇海",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a4\/qjekpqqoi5hagogi6vfwo37reklqyg8.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿尔汉格尔斯克": {
+        "名称": "阿尔汉格尔斯克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/df\/ek8cx98c8oxinoq9ic69rx2eymcvgut.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "灵敏": {
+        "名称": "灵敏",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f8\/olv0j3783b8o8adw3dgp25evod6yhho.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "的里雅斯特": {
+        "名称": "的里雅斯特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/63\/0dy4l2rkf3u0bd709yz3pa02uthedjp.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "图林根": {
+        "名称": "图林根",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a9\/i3tkbmhjgr5dge068jgjxxp8hlh7dz7.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "约克DE": {
+        "名称": "约克DE",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/69\/b0pt7y2wetyeqtfqpnv5lkg5n4qr77f.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "埃尔宾": {
+        "名称": "埃尔宾",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/49\/thp73d8xwua4q4mfrj2ldackqwsxr8j.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小欧根": {
+        "名称": "小欧根",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/47\/lh4wk932urlqrzhdea1jmp84a4ioi9f.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "司战女神": {
+        "名称": "司战女神",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/51\/muiikqxqjiix1olc17e1w8fomdwgfeb.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小柴郡": {
+        "名称": "小柴郡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/0e\/rtmv3x9ky41cguwffkxr9zktqvz3ox2.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "复仇": {
+        "名称": "复仇",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c8\/ch4yoatm3fh5pw1xjfegf8wo1d7wtxe.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "进取": {
+        "名称": "进取",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6c\/l6jqi4t8ibpk4gy8a23yti6wtdvflqc.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "博尔扎诺": {
+        "名称": "博尔扎诺",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/57\/pggzccf4lllbrwgx4eyfkw6xzuuog58.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿尔弗雷多·奥里亚尼": {
+        "名称": "阿尔弗雷多·奥里亚尼",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/36\/fmg3bd4hn53bx9l0rz8wwy8vbrc4jj0.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "埃曼努埃尔·佩萨格诺": {
+        "名称": "埃曼努埃尔·佩萨格诺",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a1\/i8jppsxyr8l1prcdwe4lrbs9eqfyicl.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z16": {
+        "名称": "Z16",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/ff\/23oz3ihph9hf8ylpahldxaozfgmpem7.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小斯佩": {
+        "名称": "小斯佩",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/59\/gefnl94vqafhc6m4x1qdm3o3nzb8tc5.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "兰利II": {
+        "名称": "兰利II",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/df\/f3cisvavb2fcgs8p7r2k8mb0rafecls.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "哈曼II": {
+        "名称": "哈曼II",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/41\/0yjak6qa25tdzrog7ugxbfg7j4vpuzt.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "华甲": {
+        "名称": "华甲",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/33\/fhuv3bb7siradn71un501h2lb2s72lk.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "定安": {
+        "名称": "定安",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/aa\/8naux06py1uzpiq46evyd7a4z1yi44x.jpg",
+        "星级": 3,
+        "类型": "运输",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "百眼巨人": {
+        "名称": "百眼巨人",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/cd\/d827jgs4jjnzed5vdyurqm6r0s1ctgq.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "英雄": {
+        "名称": "英雄",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2f\/3npjgo2g52ndjaal5la96vqmieu18bw.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "塞瓦斯托波尔": {
+        "名称": "塞瓦斯托波尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/ca\/6t0iwx1fy9jddsrcpj7198gz6ra4x66.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "涅普顿": {
+        "名称": "涅普顿",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/9a\/jbkkwywb39ana4b0kzq4x9dll75zo26.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "诺瓦露": {
+        "名称": "诺瓦露",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1a\/t1vnlpngjb21m9fipaqowa92immrora.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "布兰": {
+        "名称": "布兰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/75\/gg62bgoun95bwa0a2z6pocn7zfeg807.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "贝露": {
+        "名称": "贝露",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/79\/efb66e6as1he8rctsv9gjtuynvw5k3f.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "22": {
+        "名称": "22",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5e\/snhbwvd5klhsft3mb72gfmw6xzl8gz8.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "33": {
+        "名称": "33",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1b\/dv522y17wdoz52bv1l93dsh1ypeehw1.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "乌璐露": {
+        "名称": "乌璐露",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c7\/s3u02azda8w0zl2wx6dbtphrzjan4my.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "萨拉娜": {
+        "名称": "萨拉娜",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/78\/krt5idsv6bh3cp2jmog6lp5pdy6fysi.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "芙米露露": {
+        "名称": "芙米露露",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7a\/2dou13la91c4ym0ntuxcyjesvjbrn89.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "绊爱": {
+        "名称": "绊爱",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/bf\/0dajqwvkpt6g1gywt8qgyrkabfa3l56.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "凪咲": {
+        "名称": "凪咲",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/81\/6jr68mlo7u9uz30oj6dkk2ry3brxb6n.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "女天狗": {
+        "名称": "女天狗",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/42\/3cqtxr1g1py8rg3ttx7oypnsxwkzi47.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "莫妮卡": {
+        "名称": "莫妮卡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b3\/31x52owxzjtq76xnh31itfqd1h1jxv1.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "秋月律子": {
+        "名称": "秋月律子",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6d\/bzesztp32h17bb12phyg2ba3tm60xts.jpg",
+        "星级": 3,
+        "类型": "运输",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "双海亚美": {
+        "名称": "双海亚美",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/17\/dfuw32072jj83fjnel3c3jzu2rhbwj0.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "双海真美": {
+        "名称": "双海真美",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/12\/eyjv2t2mrdvdv25sexm730fpbuucviz.jpg",
+        "星级": 3,
+        "类型": "潜艇",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "莲SSSS": {
+        "名称": "莲SSSS",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ec\/j45ie8wbryu5pnaccc0xpzyvpmr580g.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "奈美子": {
+        "名称": "奈美子",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/76\/p43k583d77hz0z7ot99bixaqibw8a6z.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "貉SSSS": {
+        "名称": "貉SSSS",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/98\/s8sn1kqg7a0qcmdtztd4diisqcvd0t7.jpg",
+        "星级": 3,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "莉拉·德西亚斯": {
+        "名称": "莉拉·德西亚斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/13\/ha6gf91v2spp0q6404v291g1onkatss.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "赛莉·古劳斯": {
+        "名称": "赛莉·古劳斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/0e\/9snnqnefwkp8i94brelymhqcpxm0gul.jpg",
+        "星级": 3,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "扶桑·META": {
+        "名称": "扶桑·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d7\/s4ybfbxogmur8hhtgceni5fvr5ypj0y.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "飞鹰·META": {
+        "名称": "飞鹰·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d8\/s5i2h6uxhygxe820utc6jjslu933dpu.jpg",
+        "星级": 6,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "隼鹰·META": {
+        "名称": "隼鹰·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d9\/fmrimnxv72cn3mr6o3pek6pwazbb04c.jpg",
+        "星级": 6,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "山城·META": {
+        "名称": "山城·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a5\/qyv68y1bjvcvjoo5d289u5ed4j2kv4u.jpg",
+        "星级": 6,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "孟菲斯·META": {
+        "名称": "孟菲斯·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/a3\/p9xcm1w7tgtf47sl68rf9jlud6ljldg.jpg",
+        "星级": 6,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "特伦托·META": {
+        "名称": "特伦托·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/86\/fma4ewa0esxh3f84b8c89nuixn8tv3g.jpg",
+        "星级": 6,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "猎人·META": {
+        "名称": "猎人·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7e\/n48fmp53gp4yzpd2me66s0ysp2h0z3s.jpg",
+        "星级": 6,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "命运女神·META": {
+        "名称": "命运女神·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/17\/cqdhz1bbhm3sfda9n6zoi9w72wzc9d2.jpg",
+        "星级": 6,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "谢菲尔德·META": {
+        "名称": "谢菲尔德·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/98\/1shv5vuwimag78lzlldlwu1a4nzcf0q.jpg",
+        "星级": 6,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "拉·加利索尼埃·META": {
+        "名称": "拉·加利索尼埃·META",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/25\/m1uwfvgpkt1u2xruom8okiisgi6zgub.jpg",
+        "星级": 6,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "杜威": {
+        "名称": "杜威",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/87\/6w9v7k5cm6jgyij2gu4fwf4yc7v4pfe.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "格里德利": {
+        "名称": "格里德利",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/15\/gcmrdfamri46enq5ty5g7fqvkjzphsp.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "弗莱彻": {
+        "名称": "弗莱彻",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/08\/p711fzn51wjkdkpe25ff87ek4rk0f27.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "撒切尔": {
+        "名称": "撒切尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/89\/fibq5pdsch95ntg5bukun3qvfgtoq2y.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "本森": {
+        "名称": "本森",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e7\/fpvgpcxyeu6ovlir8yqwi3tnj3b677t.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "西姆斯": {
+        "名称": "西姆斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/41\/5l7a9pamcou2ti0zkkjhaiaxinx3p0l.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "哈曼": {
+        "名称": "哈曼",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/01\/fyhd4dk9pdgu0wy4lv7y9vydvdo18op.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "布鲁克林": {
+        "名称": "布鲁克林",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/68\/1zbgk29lzbsd9mpkt3y6s1zp94e43nr.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "菲尼克斯": {
+        "名称": "菲尼克斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3f\/m81p9982eaqxumbnfbl74zyeodm0snr.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "亚特兰大": {
+        "名称": "亚特兰大",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/ce\/7oocg39g8i9duk991sd06mkrfx56f8b.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "朱诺": {
+        "名称": "朱诺",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d1\/ek265odd9c4cicrnpikmeexp9makon3.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "北安普敦": {
+        "名称": "北安普敦",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2d\/cyu2dmn5hgst23n2582loyfiybud3n4.jpg",
+        "星级": 2,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "芝加哥": {
+        "名称": "芝加哥",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e0\/s1tcllrx68i4zul6quqgxqce12179nv.jpg",
+        "星级": 2,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "波特兰": {
+        "名称": "波特兰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/98\/gldccj0r2qj64m01fhliqcswg3anh8f.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "宾夕法尼亚": {
+        "名称": "宾夕法尼亚",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/ce\/1f0v9vxtqlu1fgbaanezf8xm4idm5yi.jpg",
+        "星级": 2,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "田纳西": {
+        "名称": "田纳西",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/66\/0xeaa416poh4gk5hjrxxs36uapuuml1.jpg",
+        "星级": 2,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "加利福尼亚": {
+        "名称": "加利福尼亚",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/0c\/rkm3n4lzk9ksnlx3vwmxwenh95nt4kz.jpg",
+        "星级": 2,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "长岛": {
+        "名称": "长岛",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f9\/ptbsm2ks4okxweguykgivkrtz481mxl.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "胡蜂": {
+        "名称": "胡蜂",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f1\/96zx47yu4p3ulripdw4q8hnoak1xhdj.jpg",
+        "星级": 2,
+        "类型": "航母",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "女将": {
+        "名称": "女将",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/98\/qz8g3ayzek5xgcwa77ay9wfm074qlgc.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿卡司塔": {
+        "名称": "阿卡司塔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e4\/nhzzyp2zjf64ikqzle7jx9gra3sc3xk.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "热心": {
+        "名称": "热心",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/20\/92n8nulfnryfw3oeieplvi519acgl5z.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "命运女神": {
+        "名称": "命运女神",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e2\/7rfhe8i8e0o9bckiv1zlqzudpxsuu4a.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "猎人": {
+        "名称": "猎人",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/30\/sof2el3k28azm2bw7e46o8225ay7w53.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "天后": {
+        "名称": "天后",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/93\/ft7grr8y34y6sijfq6m15spv50iy7gl.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿基里斯": {
+        "名称": "阿基里斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ef\/3cnuuhq399njtedjqcfzydlydzp55n9.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿贾克斯": {
+        "名称": "阿贾克斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4a\/3to3mxpa3fspoij65ou6tjt373ivtoj.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "南安普顿": {
+        "名称": "南安普顿",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ab\/3febj45jor1schfrgg7prde4s5g824g.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿瑞托莎": {
+        "名称": "阿瑞托莎",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/aa\/k6u78hru5q3nr2mrksjlzxrtcnp2kr9.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "加拉蒂亚": {
+        "名称": "加拉蒂亚",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e8\/t8hctvqu0zduc3cn2q68916gua278bh.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "什罗普郡": {
+        "名称": "什罗普郡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/88\/bmkh3asc5awh38o6v6fe9e101aews5s.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "肯特": {
+        "名称": "肯特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4b\/n8uy3kooc38rhq5w2tsl9roox6r7o6u.jpg",
+        "星级": 2,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "萨福克": {
+        "名称": "萨福克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/19\/189o5bnpqxznv4t1tf7lo0jbi1i4z79.jpg",
+        "星级": 3,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "诺福克": {
+        "名称": "诺福克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f6\/hp6kr96o7wcvnzr5snl4j5kgn9ncukh.jpg",
+        "星级": 2,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "反击": {
+        "名称": "反击",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/cb\/ripd3yrs3ia18nf503hykqpb8nzhcq7.jpg",
+        "星级": 2,
+        "类型": "战巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "晓": {
+        "名称": "晓",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/27\/ettzz3yvwq9oycgxtnicf5zidqpzaep.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "雷": {
+        "名称": "雷",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/39\/8hbczmc6k4f4gu9kcjr02gq6i6wlj7j.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "电": {
+        "名称": "电",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/8b\/1a2n3p9ne7drfx2x788qfvs1wa89e4o.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "白露": {
+        "名称": "白露",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fd\/sq0501qdelde0rs1khojn7isz2co6sf.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阳炎": {
+        "名称": "阳炎",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/74\/5u1mr5emeoywadl337ufmm9846sezmu.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "初春": {
+        "名称": "初春",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/91\/g5ll9bfctplrjreyfj3r3oai6g0hkg0.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "若叶": {
+        "名称": "若叶",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/10\/81ig5thkh6go2i6c8o9mu5q9gdk1r35.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "初霜": {
+        "名称": "初霜",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5d\/5037tkhrzkyed4qnzfigjyco6b5reh6.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "有明": {
+        "名称": "有明",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2d\/hs8oheec0bsmoo7iwc0587fv54qohep.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "夕暮": {
+        "名称": "夕暮",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ec\/euc3367an5fl817gtfta1iyzmmw5hzf.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "黑潮": {
+        "名称": "黑潮",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b1\/sgwkg7q2m064hoevsoirrtup9wlfdfe.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "亲潮": {
+        "名称": "亲潮",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/81\/cg8h8ck9x8wyfsxnfw4d4zgxucmwf5i.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "五十铃": {
+        "名称": "五十铃",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/0a\/2mnqndnkocci6ywbr8dgylvamhu1lsh.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "妙高": {
+        "名称": "妙高",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5a\/ip4i8zfv32djl2582f34mtc90p9tejl.jpg",
+        "星级": 2,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "那智": {
+        "名称": "那智",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e9\/ie35e2eszunzslocsoz66tpvfbtq4n2.jpg",
+        "星级": 2,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "扶桑": {
+        "名称": "扶桑",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/77\/5r0m08w8dpci42t1rfstx6k92eg8u9e.jpg",
+        "星级": 3,
+        "类型": "航战",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "山城": {
+        "名称": "山城",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/ff\/7u3ns0ayt1nwob5gouhms97kcs3kdzu.jpg",
+        "星级": 3,
+        "类型": "航战",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "伊势": {
+        "名称": "伊势",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fa\/q58fseky5hl6re0fcdu57cc3e9xf9i1.jpg",
+        "星级": 3,
+        "类型": "航战",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "日向": {
+        "名称": "日向",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5e\/egac8y51gcewghu987s94xlk3siesfe.jpg",
+        "星级": 3,
+        "类型": "航战",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "飞鹰": {
+        "名称": "飞鹰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/43\/ah8h5g2fd4p66168qo0fd9wofw63j34.jpg",
+        "星级": 2,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "隼鹰": {
+        "名称": "隼鹰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3d\/mmz59olppzjm88bynh7vzlrklc1q4js.jpg",
+        "星级": 2,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "祥凤": {
+        "名称": "祥凤",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/04\/q5vkb2hsk65t2qovx56pb2836pitya7.jpg",
+        "星级": 3,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "莱比锡": {
+        "名称": "莱比锡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/cb\/lphbgnlz9wqobk13cr40zw426okkcmg.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "贝利": {
+        "名称": "贝利",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c5\/fjet61en2a8d6s7auckiqsfvh3rvz18.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z19": {
+        "名称": "Z19",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/38\/09ixv1s1id52gjm36lx9xp212cjxxuc.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "神风": {
+        "名称": "神风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/62\/1qxl1iwjeqybvj08gah6dv573xwnz6t.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "松风": {
+        "名称": "松风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/11\/pqdx1eqqenz4xao9wa4agei56gs6nif.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "文月": {
+        "名称": "文月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/05\/dqmcemfjmdc8pv4gizkr03ywstcij7s.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "长月": {
+        "名称": "长月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/d2\/ly1w91024hh86jo6biqooe7avva7631.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "清波": {
+        "名称": "清波",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4d\/dccqh1gtfpugti4d3nl86d39rd19vlm.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "拉德福特": {
+        "名称": "拉德福特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/8a\/er3vo6gxs58thtl28e7fz4nwtlzr3tj.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "杰金斯": {
+        "名称": "杰金斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/cc\/ig9nthsesl2v0x38jt63tr50esnfysu.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "火奴鲁鲁": {
+        "名称": "火奴鲁鲁",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ea\/rrdf47nwnjv1pgrm00ik8vhsomaklzz.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "丘比特": {
+        "名称": "丘比特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f4\/5fzpcnzcgtbc2zdx9f11mf7gpy8b4b1.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "泽西": {
+        "名称": "泽西",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b1\/10n7v6p2gz77ck3y36ti918yqdyrj0p.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "川内": {
+        "名称": "川内",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/4e\/a4o5g80yg48prgjj3h8tsdyv9mrbkyh.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "那珂": {
+        "名称": "那珂",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/55\/0l5f6yfhft21xx7a4pgst4mtuzbyfwq.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "浦风": {
+        "名称": "浦风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/27\/t5rbyxtq4843a6g9a9pun66wrqp8uys.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "矶风": {
+        "名称": "矶风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ac\/h3sj0ltp3rv9yddkr8xqsp6d0jdp3re.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "滨风": {
+        "名称": "滨风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c4\/4qtolv7g5fgjan3pvmn48yq8v7k43j9.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "谷风": {
+        "名称": "谷风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e5\/qruqs8uc6v81dylxq4k4abugwdm1h79.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "斐济": {
+        "名称": "斐济",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c9\/9rxuqw9sz4em90ma3652cj8ltjuoh6j.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "牙买加": {
+        "名称": "牙买加",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/57\/c869uym90i1x0fli0pzny4grfeookzt.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "朝潮": {
+        "名称": "朝潮",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/32\/q0y2b1a7u2gvzuqiol4p39l4tlfj99v.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "大潮": {
+        "名称": "大潮",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7c\/g2ilq0wi3wlbeq80zdaplrz24v6q4xm.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "满潮": {
+        "名称": "满潮",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6e\/066bdachuib5j7shdptbr9zaupck71o.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "荒潮": {
+        "名称": "荒潮",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/14\/5gegn9gyi3kubnx9vq6bw0v91hk4p57.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "苏塞克斯": {
+        "名称": "苏塞克斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f3\/5l6rwd3dub3y5ta6kac6eh5cnr5paz3.jpg",
+        "星级": 2,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z18": {
+        "名称": "Z18",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/76\/cqpy53qugvqgno51ku362wy5ojdsxva.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "福尔班": {
+        "名称": "福尔班",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e8\/idzshnrnfpbl8ft7exekhhio8qw9xx6.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "勒马尔": {
+        "名称": "勒马尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/14\/27flzx1f7gqwy4xxgelri9z6xdlid3z.jpg",
+        "星级": 3,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "布什": {
+        "名称": "布什",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/78\/hvhuw2z8ne9jo3xf1jcz4q2qr3f4tfv.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "孟菲斯": {
+        "名称": "孟菲斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/65\/8roa0xtl3bb1qqd2ajhkhpsz9up20mk.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "纽卡斯尔": {
+        "名称": "纽卡斯尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1e\/h24hs3e0xt56qpvc6n49qeokzgd5vcd.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "霍比": {
+        "名称": "霍比",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/06\/hjg8p84owkfbg9gk370rgdipr4k8u5w.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "科尔克": {
+        "名称": "科尔克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/36\/66kjg3ts2ewbt016fjyokghht3ntun2.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "黑泽伍德": {
+        "名称": "黑泽伍德",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/10\/ci2eh5dq93y72lv6coodq42y6gtsb3m.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "康克德": {
+        "名称": "康克德",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/93\/hd332b9ds6q9up5pwyfngfkabr6etee.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "旗风": {
+        "名称": "旗风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/db\/1ohbm59escmb81vgc701zcweo8f4dzv.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "库拉索": {
+        "名称": "库拉索",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/65\/48ni6hrimx5tx4l0tlaom0j3nu0oyxb.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "杓鹬": {
+        "名称": "杓鹬",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/85\/tibnxbzaujygrmf99rzxm2kjfxpmhwd.jpg",
+        "星级": 3,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "金伯利": {
+        "名称": "金伯利",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6d\/lort0821s2yaz41qqatcegclavw52hy.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "回声": {
+        "名称": "回声",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5b\/2n0852uudk5xkrnpq1rk8zuqo9x0wsj.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "圣胡安": {
+        "名称": "圣胡安",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/75\/4vdgk29lwg9rl9y9k01heq0eegyfw38.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "艾尔温": {
+        "名称": "艾尔温",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fe\/a8g2141k4fcmaolvzwx99cze3892ibm.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "贝奇": {
+        "名称": "贝奇",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/14\/08hivv43s51fkbx18bnkclzihdwsaax.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "斯坦利": {
+        "名称": "斯坦利",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/83\/97fj2jg4ftxhguzwxj067fyu472p9f2.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "加富尔伯爵": {
+        "名称": "加富尔伯爵",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/63\/8mywouof5xwmiocnpcv0iyfjfpl1xbu.jpg",
+        "星级": 2,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "特伦托": {
+        "名称": "特伦托",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/11\/1nsw36n69olb602qi9nbdp4rha5ezbt.jpg",
+        "星级": 2,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "斯莫利": {
+        "名称": "斯莫利",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ea\/0pt80idzessrgem47sj3k2b720kznyy.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "格拉斯哥": {
+        "名称": "格拉斯哥",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/81\/savqqplbujqyan766baiyeh94y3kvm3.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "哈尔西·鲍威尔": {
+        "名称": "哈尔西·鲍威尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f7\/axvssaptduuo8sqejnhzlu81viyqjnx.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "卡萨布兰卡": {
+        "名称": "卡萨布兰卡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/40\/0f5yq0w9258xdr1dqibr0pyfl6je1nx.jpg",
+        "星级": 2,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "马布尔黑德": {
+        "名称": "马布尔黑德",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b6\/lq6fn9k9n5pt8wacpoizwetndr5nkwp.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "追风": {
+        "名称": "追风",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/85\/3hx2hdkj46wjt5ktpr7j2z2dj7jkou7.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "卡辛": {
+        "名称": "卡辛",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/26\/2bb3knkqsjcvbsz5wq5m2d9slneryf7.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "唐斯": {
+        "名称": "唐斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ab\/q6vuc46x2m60x1zzuivu0cxd537qlq0.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "克雷文": {
+        "名称": "克雷文",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c0\/k6vo9ijyltfdnjn4sha3reuoubmjwhi.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "麦考尔": {
+        "名称": "麦考尔",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/a\/ad\/qwbznpqh2q94zanxedcijpl9i0iedxg.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "奥利克": {
+        "名称": "奥利克",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/94\/759mr967piqors86rb7to9zb4x4n5qb.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "富特": {
+        "名称": "富特",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/38\/p79w0qyev6njwfgg5g7e4xunmit5ue4.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "斯彭斯": {
+        "名称": "斯彭斯",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/d\/dd\/eqfya5mz31csfvu4u47dohmzijditlo.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "奥马哈": {
+        "名称": "奥马哈",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/cf\/kccftfpww2qjtgumaowe9ve21n4bvbo.jpg",
+        "星级": 1,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "罗利": {
+        "名称": "罗利",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f7\/3o4tegfvuhzyub865i3dq66t4fnvzqg.jpg",
+        "星级": 1,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "彭萨科拉": {
+        "名称": "彭萨科拉",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/5d\/7vrjw16su7alxnvchvi7v2yx6tm7ht2.jpg",
+        "星级": 1,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "盐湖城": {
+        "名称": "盐湖城",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/44\/qmk18sknbcqjq66up9584h0pu1thpm5.jpg",
+        "星级": 1,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "内华达": {
+        "名称": "内华达",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/91\/ga2vgie35dqm37cbfv97sugue4pusnf.jpg",
+        "星级": 2,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "俄克拉荷马": {
+        "名称": "俄克拉荷马",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/c\/c6\/gvtfi9cj965gpsm4pgid7anp8prbv2y.jpg",
+        "星级": 2,
+        "类型": "战列",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "博格": {
+        "名称": "博格",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/e4\/iugqyi44ln4dh62zkvjpf8s17yhhimt.jpg",
+        "星级": 2,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "兰利": {
+        "名称": "兰利",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2f\/0kxp55upbgprwzpx9py07ymt6ck8165.jpg",
+        "星级": 2,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "突击者": {
+        "名称": "突击者",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7e\/fqa18mjejkn6icnervy2gaeqrxdj919.jpg",
+        "星级": 2,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小猎兔犬": {
+        "名称": "小猎兔犬",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/28\/01feoevp2q7qgedo8mbhwvdgy7vcbu0.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "大斗犬": {
+        "名称": "大斗犬",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1a\/hqu05d87mc31u2634ntpglr4yhtmrgb.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "彗星": {
+        "名称": "彗星",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/4\/40\/bknmhf5zesfm00gc23i0arx13eevf6o.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "新月": {
+        "名称": "新月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/f4\/1ml2qet1o6npjrjj4iihzedsre2to02.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "小天鹅": {
+        "名称": "小天鹅",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/99\/r8s9cpsj9zecfou8monon7lx62c7ydd.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "狐提": {
+        "名称": "狐提",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/b\/b1\/ozkeorrlj3kazl9ujm1ky3nc7tciv1o.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "利安得": {
+        "名称": "利安得",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/94\/lx7vzk54jqvb8nmati5pjtdjxu96k4s.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "竞技神": {
+        "名称": "竞技神",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/98\/px9e5bvha4wmigek7f106ej8sb3zf57.jpg",
+        "星级": 2,
+        "类型": "轻航",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "不知火": {
+        "名称": "不知火",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/79\/cwr2o2l7yix5gq1ptoq3f2dwazc6qdg.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "长良": {
+        "名称": "长良",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/1\/1c\/18n8avhp6n3ak1e7v1yta5eejbrxnzs.jpg",
+        "星级": 1,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "阿武隈": {
+        "名称": "阿武隈",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/68\/f22dhwpwps8jpbmgvs1oioxhnro9nk2.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "古鹰": {
+        "名称": "古鹰",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/5\/52\/n5d6swgn2qwk3oau3amzyh7zdshve4q.jpg",
+        "星级": 2,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "加古": {
+        "名称": "加古",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/0\/09\/15r8pzb9w5hoqfk0len9w4mez4qc0yi.jpg",
+        "星级": 2,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "青叶": {
+        "名称": "青叶",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/6b\/ngo3y1li80jl1t906wnnmx9r983pwww.jpg",
+        "星级": 1,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "衣笠": {
+        "名称": "衣笠",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2d\/pigw1liajop0lt4nzej7zjhgif1x9je.jpg",
+        "星级": 1,
+        "类型": "重巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "柯尼斯堡": {
+        "名称": "柯尼斯堡",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/9\/93\/2qcs00pd0lidbbmqsl41ep160cmuz5p.jpg",
+        "星级": 1,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "卡尔斯鲁厄": {
+        "名称": "卡尔斯鲁厄",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/82\/1ljz6v3iq6jf3lpkhtkfsuwgv09g3gv.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "科隆": {
+        "名称": "科隆",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/8\/85\/r5trvejccnoepkhs7scyxuvewkmtmcs.jpg",
+        "星级": 2,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z20": {
+        "名称": "Z20",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/6\/60\/j9p5tx8gm2mm2shlegis49twmdg7smr.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "Z21": {
+        "名称": "Z21",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/e\/ec\/0b50ejbaf2c9kz0a6izge1fnv2j9f36.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "睦月": {
+        "名称": "睦月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/77\/lgl6kqnuf0tkrlu56g6bt8v7q1nxjzg.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "如月": {
+        "名称": "如月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/3d\/a916hqhqwhmhosx1j34pscslg5g4331.jpg",
+        "星级": 2,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "卯月": {
+        "名称": "卯月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/7\/7d\/6y5l7is3qshohxixwvyktxinckjmtho.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "水无月": {
+        "名称": "水无月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/2\/2f\/i5m4zzri6rbzvv0o3jvoyhdh92bxnx5.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "三日月": {
+        "名称": "三日月",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/3\/37\/j5pp3ysvjm91e11eq1126ar91l0pfhk.jpg",
+        "星级": 1,
+        "类型": "驱逐",
+        "获取途径": [
+            "可以建造"
+        ]
+    },
+    "里士满": {
+        "名称": "里士满",
+        "头像": "https:\/\/patchwiki.biligame.com\/images\/blhx\/f\/fa\/6n49rmfkcewiye8x6wovw201l6yl0c9.jpg",
+        "星级": 1,
+        "类型": "轻巡",
+        "获取途径": [
+            "可以建造"
+        ]
+    }
+}

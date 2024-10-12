@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            font-family: "微软雅黑 Light";
+        }
+        .mz_list{
+            width: 630px;
+            display: flex;
+            flex-direction: column;
+        }
+        .mz_item{
+            cursor: pointer;
+            display: flex;
+            position: relative;
+            margin: 30px 30px;
+            width: 560px;
+            height: 240px;
+            background: linear-gradient(rgb(255 223 177 / 52%), rgb(215 255 140 / 38%));
+            box-shadow: 0 0 15px 0 hsl(203deg 6% 45% / 39%);
+            border-radius: 8px;
+            float: left;
+            transition: transform .2s;
+        }
+        .mz_item_img{
+            transition: transform .1s;
+            background: #fff;
+            box-shadow: 3px 3px 2px 0 rgba(0, 0, 0, .1);
+            border-radius: 8px;
+            left: 20px;
+            bottom: 24px;
+            position: absolute;
+            width: 175px;
+            height: 233px;
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+        }
+        .mz_item_img img{
+            width: 100%;
+            border: 6px #e3de9a solid;
+            border-radius: 10px;
+            max-height: 100%;
+        }
+        .mz_item_info{
+            margin-left: 220px;
+            padding: 8px;
+        }
+        .mz_item_info_title{
+            font-size: 22px;
+            color: #1069b7;
+        }
+        .icon{
+            height: 24px;
+            width: 20px;
+        }
+        .mz_item_info_time, .mz_item_info_venue{
+            font-size: 16px;
+            color: #c49696;
+            display: flex;
+            align-items: center;
+            margin-top: 8px;
+        }
+        .mz_item_info_time_text, .mz_item_info_venue_text{
+            margin-left: 5px;
+        }
+        .mz_item_info_npc{
+            font-size: 18px;
+            margin-top: 8px;
+        }
+        .mz_item_info_npc_none{
+            color: #939292;
+        }
+        .mz_item_info_npc_have{
+            color: #6eb1f1;
+        }
+        .mz_item_info_price{
+            font-size: 28px;
+            margin-top: 20px;
+            color: #e55;
+        }
+        .mz_item_info_id{
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+        }
+
+        .mz_top{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .mz_title_title{
+            font-size: 36px;
+            font-weight: 700;
+            color: #f6d49d;
+            text-shadow: 8px 3px 6px #dcdd4d;
+        }
+        .mz_title_content{
+            color: #5f5f5f;
+            font-size: 16px;
+            margin-top: 5px;
+        }
+        .show_text{
+            color: #c49696;
+        }
+        .like_count{
+            font-size: 15px;
+            color: #dc8e83;
+        }
+    </style>
+</head>
+<body>
+
+<div id="app">
+    <div class="mz_top">
+<!--        <div class="mz_title_title">展会列表</div>-->
+        <div class="mz_title_content">发送 “<span class="show_text">漫展详情 展会id</span>” 查看详细信息，如 "<span class="show_text">漫展详情 87584</span>"</div>
+        <div class="mz_title_content">发送 “<span class="show_text">漫展位置 展会id</span>” 查看位置信息，如 "<span class="show_text">漫展位置 87584</span>"</div>
+    </div>
+    <div class="mz_list">
+        <div class="mz_item" v-for="item in mz_list">
+            <div class="mz_item_img">
+                <img :src="item.cover + '@350w_466h.jpeg'" alt="">
+            </div>
+            <div class="mz_item_info">
+                <div class="mz_item_info_title">
+                    {{item.project_name}}
+                </div>
+                <div class="mz_item_info_time">
+                    <img class="icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAaCAYAAACtv5zzAAAAAXNSR0IArs4c6QAAAi5JREFUSA3tlU1IG0EUx3c3u0ECFdIeWpCAN6VgQXrsUUohl0LFgJgekmySkyCUgvTWHnsolEJpdpPm5tkPvHvQixe1QqE3hZJGBEEPARd209+IGzb7YbK09dSFx7yP//vPmzezM7IU8dXr9RnHcV6nUqlcPp+/CIM1Go0J27Y/JRKJxVKp9CMMo4Q5hQ/yF91u91mn05mOwkA+A+apGKMwaq1W0xRFeQPhLCChL5fL5TU3AYItMK7ZNxLrsw3DeItvXpblC8SAx1BBvId8CQexroXc68uSpCPsjs/nmndRHrgG4xgyDoeGUFfNUSEu4TxTVXWyWCyeesD2tf6yWq1ue/w9FYIqxhfIrrCVSkXH1k3TfETRB4JbIXgHafvIJXwmgA/pdHq3x+hTksnkGpiPYvSGaM03YcMxKloU+lH1IYFXocFrZ6FQaKMu3YSJPEU3JcWJBVZA/+7TvwokWhwiWtVmDz77cwITQD4H6J0fOMim3xLFrdP/n15sYIJMJmO2Wq1jEuKu4ETX9T5yMVFggmw2e4l/w1vFn+i3v8mi2mazOW5Z1kjMys852r/8OYEWsVHPIV/1A4ewHW7Xh/5bNTABx20fshUk7grONE0bvMmchGPIF4aoeCjIP9/kW5nAYa2xfqpBveEad/ls8R7s8dc+xvmVxMAxG0QWEZ8SfsGtQi4utk2kIJx/8fsO97IsCDm/4tF5wuMd92hG1XPOQ7WTy+WsKMB/f68DvwErc967V/DPSQAAAABJRU5ErkJggg==" alt="">
+                    <div class="mz_item_info_time_text">
+                        {{item.start_time}} - {{item.end_time}}
+                    </div>
+                </div>
+                <div class="mz_item_info_venue">
+                    <img class="icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAcCAYAAAB/E6/TAAAAAXNSR0IArs4c6QAABHdJREFUSA2dlm9o1VUYx3d/3txMyxVboOxFhVqmL8SwyDD/4Iu4ltKbRSR3jP25wQQteuULozcVYnMGtfb3wtyKltAIm6gVMiRERVYpU3EqDpyEdYewe93udm+f7+F3Lufe3bsbHXju85zn+Z7ne85z/vxuoGSe1tbWVhEIBHam0+k3ga3CXo69CPs+ch0Z8jzvu4aGhhHseVsgX7Szs/PJ2dnZ/cT2IKUOJgZZgn4FhAutH99pCD+or6+/bH25eg4RJK+lUqljJKoE/IAkUWQgGAyeq62tfagExAIdHR0voF+nG0FWIknI6lldD/acFnQ97e3t77KSKL5HkFbkQGNjo8qU1SBO47gigewwpO+hP2aCz2YBnU5mRVoJJD8TS5GoAYKjDq6oqVX6E8iLNUTaE2ZzFXAl4HAhkt7e3senpqaW1NXV3c2bDefg4GDp2NjYZ5hHI5HIJYszpfM3XnvSmo+Ekm5XieLx+BrNnNN4D+xBsEeYWMomkx4fH38atQ//RvTLiGmejjCWTtcD5IDxOj/UP0z3FLIWkj/QZ0lSjm4mpv3Maqz2GvELYF9igiIzzcO5E6sUHWWpWRvf09PzFCX9gkEzxEPE1yGb6K+lfwMdhizk58oo/C1+Z691ejh1GUsYOGCdVicSic3YS4l9TZlOWD9ko7o36jORXdbv6O+x4+TeZH0exip1dE+s09EmRn/Y8RmTff1dBpOwmAyEiSTp3ESWUZXFCqh0y9ExexnltI1ZX5PNzNZbn6Otz2AcvzHJOyqDqpi7pdLp7Zo10ZwfynIGVwyJsBeZEnV1dT1HomYf/oOvc5WeqhImq4NTotL9g1Rw+pbK4TZKcB9gE0kXQDoAZoSTdH5mZuZPJvgM2E727qQ7xtrEV8hGK78p3YgM9kjv1ZzG2/UtZFsIXIJwJQM3oO8iTZA0zhngO4ivQKarqqpuyBWkM8Tgbcx4B/2LPi5L8SoP4XiRFT1aVla2qKam5m8BCvHw0rzKYVHJzoZCoSlhPQjaxQxZU39/v/arYKOUcUtSEEQAkg8VJ++XFucxeJzONxBVxmKxOhv4v5pDs5qxegRul5eX6z6ZpsOgdgh2nbxPo9Fo3r0yqCI/VGQhFeoFxrZ6h6qrqzOn2RBRa31XPgKwZHp6+se+vr4niuTMG6YiXQTWM+lf2ddWF2RXpI39BMAxgs9PTk4e56485gKL2Rz7z8HsRkaZ9NvkynrVM0QE0tQ0jD4DcCN35aS+P8UIFIekmTF6++4xXo9v1uMsTIZIHWqaYMAOkdF9he/PafbM3GzFcxtYfZuOoN8npm/UVipzPRenfuZT7gZ1XyD7iQRb0No/zfJODkb/K7oRlcuQgLnqYlw7a0U2wIA4F/MNSAYhWYP/gv5T2Li+U8R+ob8bfQvZPB+JxuVdkU3IcV0wMTHRAtkekumoHkSG6begl+H7jQm9FQ6H/7JjCul5iewgLuE7JP8KMfvlkx6mv5+V6NtTtP0nImXp7u6uTCaT+zD1N1l/YoaLZncA/wI5+QZSrZRLqQAAAABJRU5ErkJggg==" alt="">
+                    <div class="mz_item_info_venue_text">{{item.city}} - {{item.venue_name}}</div>
+                </div>
+                <div class="mz_item_info_npc">
+                    <div class="mz_item_info_npc_none" v-if="item.has_npc === 0">无NPC招募信息</div>
+                    <div class="mz_item_info_npc_have" v-else>有NPC招募信息</div>
+                </div>
+                <div class="mz_item_info_price">
+                    ￥ {{item.min_price/100}} - {{item.max_price/100}}
+                </div>
+                <div class="mz_item_info_id">
+                        <div class="like_count" v-if="item.like_count != null">
+                            <svg t="1724075401331" class="icon_like" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4258" width="15" height="15"><path d="M934.176 168.48c-116.128-115.072-301.824-117.472-422.112-9.216-120.32-108.256-305.952-105.856-422.144 9.216a301.44 301.44 0 0 0 0 429.28l353.696 350.112a97.344 97.344 0 0 0 136.896 0L934.208 597.76a301.376 301.376 0 0 0-0.032-429.28z m-45.6 384.096L534.88 902.688a32.384 32.384 0 0 1-45.6 0L135.584 552.576a238.176 238.176 0 0 1 0-338.912c91.008-90.08 237.312-93.248 333.088-7.104l43.392 39.04 43.36-39.04c95.808-86.144 242.112-83.008 333.12 7.104a238.208 238.208 0 0 1 0.032 338.912z" fill="#dc8e83" p-id="4259"></path><path d="M296.096 240.032l-0.128 0.032a136 136 0 0 0-135.872 135.968 16 16 0 0 0 32 0v-0.032a104 104 0 0 1 103.968-103.968h0.032a16 16 0 0 0 0-32z" fill="#dc8e83" p-id="4260"></path></svg>
+                            想去：{{item.like_count}}
+                        </div>
+                        <div>展会id: {{item.id}}</div>
+                    </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+
+<script src="https://blog.xin-hao.top/other-static/vue.js"></script>
+<script>
+    var app = new Vue({
+        el: '#app',
+        data: {
+            mz_list: @@acg_list@@
+        }
+    })
+</script>
+</html>

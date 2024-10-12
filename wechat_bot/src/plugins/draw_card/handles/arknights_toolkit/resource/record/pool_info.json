@@ -1,0 +1,302 @@
+{
+  "all": {
+    "is_exclusive": false
+  },
+  "常驻标准寻访": {
+    "is_exclusive": false
+  },
+  "专属推荐干员寻访": {
+    "is_exclusive": true
+  },
+  "专属推荐干员": {
+    "is_exclusive": true
+  },
+  "中坚寻访": {
+    "is_exclusive": true
+  },
+  "中坚甄选": {
+    "is_exclusive": true
+  },
+  "万象伶仃": {
+    "is_exclusive": true
+  },
+  "跨年欢庆 相逢": {
+    "is_exclusive": true
+  },
+  "斩荆辟路": {
+    "is_exclusive": true
+  },
+  "巨斧与笔尖": {
+    "is_exclusive": true
+  },
+  "海蚀": {
+    "is_exclusive": true
+  },
+  "浊酒澄心": {
+    "is_exclusive": true
+  },
+  "跨年欢庆 回首": {
+    "is_exclusive": true
+  },
+  "循光道途": {
+    "is_exclusive": true
+  },
+  "盛夏新星": {
+    "is_exclusive": true
+  },
+  "深悼": {
+    "is_exclusive": true
+  },
+  "进攻、防守、战术交汇": {
+    "is_exclusive": true
+  },
+  "月隐晦明": {
+    "is_exclusive": true
+  },
+  "地生五金2021": {
+    "is_exclusive": true
+  },
+  "勿忘我": {
+    "is_exclusive": true
+  },
+  "遗愿焰火": {
+    "is_exclusive": true
+  },
+  "地生五金": {
+    "is_exclusive": true
+  },
+  "炽焰无霾 复刻": {
+    "is_exclusive": false
+  },
+  "春江逢雪": {
+    "is_exclusive": false
+  },
+  "枯焰生花": {
+    "is_exclusive": false
+  },
+  "雪融之诺 复刻": {
+    "is_exclusive": false
+  },
+  "联合行动08": {
+    "is_exclusive": false
+  },
+  "轴承与火星": {
+    "is_exclusive": false
+  },
+  "前路回响": {
+    "is_exclusive": false
+  },
+  "未曾起誓": {
+    "is_exclusive": false
+  },
+  "联合行动07": {
+    "is_exclusive": false
+  },
+  "沙洲引路人": {
+    "is_exclusive": false
+  },
+  "不协和音程": {
+    "is_exclusive": false
+  },
+  "联合行动06": {
+    "is_exclusive": false
+  },
+  "奔崖怒号": {
+    "is_exclusive": false
+  },
+  "沙海过客 复刻": {
+    "is_exclusive": false
+  },
+  "炽焰无霾": {
+    "is_exclusive": false
+  },
+  "火花绽放": {
+    "is_exclusive": false
+  },
+  "雪融之诺": {
+    "is_exclusive": false
+  },
+  "自由的囚徒 复刻": {
+    "is_exclusive": false
+  },
+  "联合行动05": {
+    "is_exclusive": false
+  },
+  "漂泊于风": {
+    "is_exclusive": false
+  },
+  "瑕光微明 复刻": {
+    "is_exclusive": false
+  },
+  "小丘上的眠柳": {
+    "is_exclusive": false
+  },
+  "不羁逆流 复刻": {
+    "is_exclusive": false
+  },
+  "燃钢之心 暴躁铁皮 复刻": {
+    "is_exclusive": false
+  },
+  "从星火中来": {
+    "is_exclusive": false
+  },
+  "君影轻灵 复刻": {
+    "is_exclusive": false
+  },
+  "革新交响曲": {
+    "is_exclusive": false
+  },
+  "联合行动04": {
+    "is_exclusive": false
+  },
+  "沙海过客": {
+    "is_exclusive": false
+  },
+  "往日幻象 复刻": {
+    "is_exclusive": false
+  },
+  "麦穗与赞美诗": {
+    "is_exclusive": false
+  },
+  "自由的囚徒": {
+    "is_exclusive": false
+  },
+  "锁与匙的守卫者 复刻": {
+    "is_exclusive": false
+  },
+  "联合行动03": {
+    "is_exclusive": false
+  },
+  "瑕光微明": {
+    "is_exclusive": false
+  },
+  "搅动潮汐之剑 复刻": {
+    "is_exclusive": false
+  },
+  "无拘熔火": {
+    "is_exclusive": false
+  },
+  "不羁逆流 返场": {
+    "is_exclusive": false
+  },
+  "燃钢之心 暴躁铁皮 返场": {
+    "is_exclusive": false
+  },
+  "燃钢之心 暴躁铁皮": {
+    "is_exclusive": false
+  },
+  "不羁逆流": {
+    "is_exclusive": false
+  },
+  "流沙涡旋": {
+    "is_exclusive": false
+  },
+  "君影轻灵": {
+    "is_exclusive": false
+  },
+  "雪落晨心": {
+    "is_exclusive": false
+  },
+  "雾漫荒林": {
+    "is_exclusive": false
+  },
+  "联合行动02": {
+    "is_exclusive": false
+  },
+  "往日幻象": {
+    "is_exclusive": false
+  },
+  "草垛上的风笛声": {
+    "is_exclusive": false
+  },
+  "百种兵器": {
+    "is_exclusive": false
+  },
+  "热情，膨胀，爆发！": {
+    "is_exclusive": false
+  },
+  "凝电之钻": {
+    "is_exclusive": false
+  },
+  "锁与匙的守卫者": {
+    "is_exclusive": false
+  },
+  "联合行动01": {
+    "is_exclusive": false
+  },
+  "冰封原野": {
+    "is_exclusive": false
+  },
+  "火舞之人": {
+    "is_exclusive": false
+  },
+  "久铸尘铁": {
+    "is_exclusive": false
+  },
+  "深夏的守夜人": {
+    "is_exclusive": false
+  },
+  "龙门特别行动专员": {
+    "is_exclusive": false
+  },
+  "鞘中赤红": {
+    "is_exclusive": false
+  },
+  "搅动潮汐之剑": {
+    "is_exclusive": false
+  },
+  "银灰色的荣耀": {
+    "is_exclusive": false
+  },
+  "宿愿": {
+    "is_exclusive": true
+  },
+  "云间清醒梦": {
+    "is_exclusive": true
+  },
+  "真理孑然": {
+    "is_exclusive": true
+  },
+  "砺火成锋": {
+    "is_exclusive": true
+  },
+  "烁尘烟中": {
+    "is_exclusive": false
+  },
+  "前路回响03": {
+    "is_exclusive": false
+  },
+  "鸣铳": {
+    "is_exclusive": false
+  },
+  "联合行动11": {
+    "is_exclusive": false
+  },
+  "沙洲引路人 复刻": {
+    "is_exclusive": false
+  },
+  "射落灾异的风暴": {
+    "is_exclusive": false
+  },
+  "不协和音程 复刻": {
+    "is_exclusive": false
+  },
+  "执裁者": {
+    "is_exclusive": false
+  },
+  "联合行动10": {
+    "is_exclusive": false
+  },
+  "犹在影中": {
+    "is_exclusive": false
+  },
+  "前路回响02": {
+    "is_exclusive": false
+  },
+  "联合行动09": {
+    "is_exclusive": false
+  },
+  "前路回响01": {
+    "is_exclusive": false
+  }
+}

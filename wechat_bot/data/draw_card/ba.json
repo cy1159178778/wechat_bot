@@ -1,0 +1,677 @@
+{
+    "阿露": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Aru_Collection.png",
+        "名称": "阿露",
+        "星级": 3
+    },
+    "艾米": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Eimi_Collection.png",
+        "名称": "艾米",
+        "星级": 3
+    },
+    "晴奈": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Haruna_Collection.png",
+        "名称": "晴奈",
+        "星级": 3
+    },
+    "日富美": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hihumi_Collection.png",
+        "名称": "日富美",
+        "星级": 3
+    },
+    "日奈": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hina_Collection.png",
+        "名称": "日奈",
+        "星级": 3
+    },
+    "星野": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hoshino_Collection.png",
+        "名称": "星野",
+        "星级": 3
+    },
+    "伊织": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Iori_Collection.png",
+        "名称": "伊织",
+        "星级": 3
+    },
+    "真纪": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Maki_Collection.png",
+        "名称": "真纪",
+        "星级": 3
+    },
+    "尼禄": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Neru_Collection.png",
+        "名称": "尼禄",
+        "星级": 3
+    },
+    "泉": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Izumi_Collection.png",
+        "名称": "泉",
+        "星级": 3
+    },
+    "白子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Shiroko_Collection.png",
+        "名称": "白子",
+        "星级": 3
+    },
+    "瞬": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Shun_Collection.png",
+        "名称": "瞬",
+        "星级": 3
+    },
+    "堇": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Sumire_Collection.png",
+        "名称": "堇",
+        "星级": 3
+    },
+    "鹤城": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Tsurugi_Collection.png",
+        "名称": "鹤城",
+        "星级": 3
+    },
+    "茜": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Akane_Collection.png",
+        "名称": "茜",
+        "星级": 2
+    },
+    "千世": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Chise_Collection.png",
+        "名称": "千世",
+        "星级": 2
+    },
+    "明里": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Akari_Collection.png",
+        "名称": "明里",
+        "星级": 2
+    },
+    "莲见": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hasumi_Collection.png",
+        "名称": "莲见",
+        "星级": 2
+    },
+    "野宫": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Nonomi_Collection.png",
+        "名称": "野宫",
+        "星级": 2
+    },
+    "佳代子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Kayoko_Collection.png",
+        "名称": "佳代子",
+        "星级": 2
+    },
+    "睦月": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Mutsuki_Collection.png",
+        "名称": "睦月",
+        "星级": 2
+    },
+    "淳子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Zunko_Collection.png",
+        "名称": "淳子",
+        "星级": 2
+    },
+    "芹香": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Serika_Collection.png",
+        "名称": "芹香",
+        "星级": 2
+    },
+    "椿": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Tsubaki_Collection.png",
+        "名称": "椿",
+        "星级": 2
+    },
+    "优香": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Yuuka_Collection.png",
+        "名称": "优香",
+        "星级": 2
+    },
+    "遥香": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Haruka_Collection.png",
+        "名称": "遥香",
+        "星级": 1
+    },
+    "明日奈": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Asuna_Collection.png",
+        "名称": "明日奈",
+        "星级": 1
+    },
+    "柯托莉": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Kotori_Collection.png",
+        "名称": "柯托莉",
+        "星级": 1
+    },
+    "铃美": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Suzumi_Collection.png",
+        "名称": "铃美",
+        "星级": 1
+    },
+    "菲娜": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Pina_Collection.png",
+        "名称": "菲娜",
+        "星级": 1
+    },
+    "响": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hibiki_Collection.png",
+        "名称": "响",
+        "星级": 3
+    },
+    "花凛": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Karin_Collection.png",
+        "名称": "花凛",
+        "星级": 3
+    },
+    "纱绫": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Saya_Collection.png",
+        "名称": "纱绫",
+        "星级": 3
+    },
+    "爱莉": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Airi_Collection.png",
+        "名称": "爱莉",
+        "星级": 2
+    },
+    "枫香": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Fuuka_Collection.png",
+        "名称": "枫香",
+        "星级": 2
+    },
+    "花江": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hanae_Collection.png",
+        "名称": "花江",
+        "星级": 2
+    },
+    "晴": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hare_Collection.png",
+        "名称": "晴",
+        "星级": 2
+    },
+    "歌原": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Utaha_Collection.png",
+        "名称": "歌原",
+        "星级": 2
+    },
+    "绫音": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Ayane_Collection.png",
+        "名称": "绫音",
+        "星级": 2
+    },
+    "千夏": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Chinatsu_Collection.png",
+        "名称": "千夏",
+        "星级": 1
+    },
+    "小玉": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Kotama_Collection.png",
+        "名称": "小玉",
+        "星级": 1
+    },
+    "茱莉": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Juri_Collection.png",
+        "名称": "茱莉",
+        "星级": 1
+    },
+    "芹娜": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Serina_Collection.png",
+        "名称": "芹娜",
+        "星级": 1
+    },
+    "志美子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Shimiko_Collection.png",
+        "名称": "志美子",
+        "星级": 1
+    },
+    "好美": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Yoshimi_Collection.png",
+        "名称": "好美",
+        "星级": 1
+    },
+    "真白": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Mashiro_Collection.png",
+        "名称": "真白",
+        "星级": 3
+    },
+    "泉奈": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Izuna_Collection.png",
+        "名称": "泉奈",
+        "星级": 3
+    },
+    "静子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Shizuko_Collection.png",
+        "名称": "静子",
+        "星级": 2
+    },
+    "爱丽丝": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Aris_Collection.png",
+        "名称": "爱丽丝",
+        "星级": 3
+    },
+    "绿": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Midori_Collection.png",
+        "名称": "绿",
+        "星级": 3
+    },
+    "桃井": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Momoi_Collection.png",
+        "名称": "桃井",
+        "星级": 2
+    },
+    "切里诺": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Cherino_Collection.png",
+        "名称": "切里诺",
+        "星级": 3
+    },
+    "和香": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Nodoka_Collection.png",
+        "名称": "和香",
+        "星级": 1
+    },
+    "柚子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Yuzu_Collection.png",
+        "名称": "柚子",
+        "星级": 3
+    },
+    "梓": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Azusa_Collection.png",
+        "名称": "梓",
+        "星级": 3
+    },
+    "花子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hanako_Collection.png",
+        "名称": "花子",
+        "星级": 2
+    },
+    "小春": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Koharu_Collection.png",
+        "名称": "小春",
+        "星级": 3
+    },
+    "梓(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_azusa_swimsuit_Collection.png",
+        "名称": "梓(泳装)",
+        "星级": 3
+    },
+    "真白(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_mashiro_swimsuit_Collection.png",
+        "名称": "真白(泳装)",
+        "星级": 3
+    },
+    "鹤城(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0060_Collection.png",
+        "名称": "鹤城(泳装)",
+        "星级": 1
+    },
+    "日富美(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0058_Collection.png",
+        "名称": "日富美(泳装)",
+        "星级": 3
+    },
+    "日奈(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0063_Collection.png",
+        "名称": "日奈(泳装)",
+        "星级": 3
+    },
+    "伊织(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0064_Collection.png",
+        "名称": "伊织(泳装)",
+        "星级": 3
+    },
+    "泉(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Izumi_swimsuit_Collection.png",
+        "名称": "泉(泳装)",
+        "星级": 1
+    },
+    "白子(单车)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Shiroko_ridingsuit_Collection.png",
+        "名称": "白子(单车)",
+        "星级": 3
+    },
+    "瞬(幼女)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0066_Collection.png",
+        "名称": "瞬(幼女)",
+        "星级": 3
+    },
+    "桐乃": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Kirino_Collection.png",
+        "名称": "桐乃",
+        "星级": 2
+    },
+    "纱绫(私服)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Saya_Casual_Collection.png",
+        "名称": "纱绫(私服)",
+        "星级": 3
+    },
+    "尼禄(兔女郎)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0101_Collection.png",
+        "名称": "尼禄(兔女郎)",
+        "星级": 3
+    },
+    "花凛(兔女郎)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0100_Collection.png",
+        "名称": "花凛(兔女郎)",
+        "星级": 3
+    },
+    "明日奈(兔女郎)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0098_Collection.png",
+        "名称": "明日奈(兔女郎)",
+        "星级": 3
+    },
+    "夏": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0155_Collection.png",
+        "名称": "夏",
+        "星级": 3
+    },
+    "玛丽": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Mari_Collection.png",
+        "名称": "玛丽",
+        "星级": 2
+    },
+    "初音未来": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH9999_Collection.png",
+        "名称": "初音未来",
+        "星级": 3
+    },
+    "亚子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_ako_Collection.png",
+        "名称": "亚子",
+        "星级": 3
+    },
+    "切里诺(温泉)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0164_Collection.png",
+        "名称": "切里诺(温泉)",
+        "星级": 3
+    },
+    "千夏(温泉)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0163_Collection.png",
+        "名称": "千夏(温泉)",
+        "星级": 3
+    },
+    "智惠": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Tomoe_Collection.png",
+        "名称": "智惠",
+        "星级": 1
+    },
+    "和香(温泉)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0165_Collection.png",
+        "名称": "和香(温泉)",
+        "星级": 3
+    },
+    "阿露(正月)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Aru_newyear_Collection.png",
+        "名称": "阿露(正月)",
+        "星级": 3
+    },
+    "睦月(正月)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Mutsuki_newyear_Collection.png",
+        "名称": "睦月(正月)",
+        "星级": 3
+    },
+    "芹香(正月)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Serika_newyear_Collection.png",
+        "名称": "芹香(正月)",
+        "星级": 3
+    },
+    "若藻": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Wakamo_Collection.png",
+        "名称": "若藻",
+        "星级": 3
+    },
+    "吹雪": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0141_Collection.png",
+        "名称": "吹雪",
+        "星级": 1
+    },
+    "濑名": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Sena_Collection.png",
+        "名称": "濑名",
+        "星级": 3
+    },
+    "千寻": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0160_Collection.png",
+        "名称": "千寻",
+        "星级": 3
+    },
+    "三森": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Mimori_Collection.png",
+        "名称": "三森",
+        "星级": 3
+    },
+    "忧": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0169_Collection.png",
+        "名称": "忧",
+        "星级": 3
+    },
+    "日向": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hinata_Collection.png",
+        "名称": "日向",
+        "星级": 3
+    },
+    "玛利娜": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Marina_Collection.png",
+        "名称": "玛利娜",
+        "星级": 3
+    },
+    "宫子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Miyako_Collection.png",
+        "名称": "宫子",
+        "星级": 3
+    },
+    "咲": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0144_Collection.png",
+        "名称": "咲",
+        "星级": 3
+    },
+    "美游": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0145_Collection.png",
+        "名称": "美游",
+        "星级": 3
+    },
+    "枫": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Kaede_Collection.png",
+        "名称": "枫",
+        "星级": 3
+    },
+    "伊吕波": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0156_Collection.png",
+        "名称": "伊吕波",
+        "星级": 3
+    },
+    "满": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0113_Collection.png",
+        "名称": "满",
+        "星级": 1
+    },
+    "月咏": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0114_Collection.png",
+        "名称": "月咏",
+        "星级": 3
+    },
+    "美咲": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Misaki_Collection.png",
+        "名称": "美咲",
+        "星级": 3
+    },
+    "日和": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hiyori_Collection.png",
+        "名称": "日和",
+        "星级": 3
+    },
+    "亚津子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Atsuko_Collection.png",
+        "名称": "亚津子",
+        "星级": 3
+    },
+    "若藻(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0175_Collection.png",
+        "名称": "若藻(泳装)",
+        "星级": 3
+    },
+    "野宫(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0092_Collection.png",
+        "名称": "野宫(泳装)",
+        "星级": 3
+    },
+    "绫音(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0176_Collection.png",
+        "名称": "绫音(泳装)",
+        "星级": 1
+    },
+    "星野(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Hoshino_Swimsuit_Collection.png",
+        "名称": "星野(泳装)",
+        "星级": 3
+    },
+    "静子(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0180_Collection.png",
+        "名称": "静子(泳装)",
+        "星级": 1
+    },
+    "泉奈(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0179_Collection.png",
+        "名称": "泉奈(泳装)",
+        "星级": 3
+    },
+    "千世(泳装)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0178_Collection.png",
+        "名称": "千世(泳装)",
+        "星级": 3
+    },
+    "纱织": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Saori_Collection.png",
+        "名称": "纱织",
+        "星级": 3
+    },
+    "萌绘": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Moe_Collection.png",
+        "名称": "萌绘",
+        "星级": 3
+    },
+    "和纱": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Kazusa_Collection.png",
+        "名称": "和纱",
+        "星级": 3
+    },
+    "心奈": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0137_Collection.png",
+        "名称": "心奈",
+        "星级": 3
+    },
+    "歌原(应援团)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0182_Collection.png",
+        "名称": "歌原(应援团)",
+        "星级": 3
+    },
+    "诺亚": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0095_Collection.png",
+        "名称": "诺亚",
+        "星级": 3
+    },
+    "响(应援团)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0181_Collection.png",
+        "名称": "响(应援团)",
+        "星级": 1
+    },
+    "茜(兔女郎)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0099_Collection.png",
+        "名称": "茜(兔女郎)",
+        "星级": 3
+    },
+    "优香(运动服)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0184_Collection.png",
+        "名称": "优香(运动服)",
+        "星级": 3
+    },
+    "玛丽(运动服)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0186_Collection.png",
+        "名称": "玛丽(运动服)",
+        "星级": 3
+    },
+    "莲见(运动服)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0190_Collection.png",
+        "名称": "莲见(运动服)",
+        "星级": 1
+    },
+    "日鞠": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0159_Collection.png",
+        "名称": "日鞠",
+        "星级": 3
+    },
+    "时雨": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Shigure_Collection.png",
+        "名称": "时雨",
+        "星级": 3
+    },
+    "芹娜(圣诞)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0194_Collection.png",
+        "名称": "芹娜(圣诞)",
+        "星级": 3
+    },
+    "花江(圣诞)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0195_Collection.png",
+        "名称": "花江(圣诞)",
+        "星级": 3
+    },
+    "晴奈(正月)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0191_Collection.png",
+        "名称": "晴奈(正月)",
+        "星级": 3
+    },
+    "枫香(正月)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0177_Collection.png",
+        "名称": "枫香(正月)",
+        "星级": 3
+    },
+    "淳子(正月)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0192_Collection.png",
+        "名称": "淳子(正月)",
+        "星级": 1
+    },
+    "美弥": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0152_Collection.png",
+        "名称": "美弥",
+        "星级": 3
+    },
+    "未花": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0069_Collection.png",
+        "名称": "未花",
+        "星级": 3
+    },
+    "惠": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0088_Collection.png",
+        "名称": "惠",
+        "星级": 3
+    },
+    "叶渚": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0170_Collection.png",
+        "名称": "叶渚",
+        "星级": 3
+    },
+    "樱子": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Sakurako_Collection.png",
+        "名称": "樱子",
+        "星级": 3
+    },
+    "时": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0187_Collection.png",
+        "名称": "时",
+        "星级": 3
+    },
+    "渚": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_Nagisa_Collection.png",
+        "名称": "渚",
+        "星级": 3
+    },
+    "小雪": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0198_Collection.png",
+        "名称": "小雪",
+        "星级": 3
+    },
+    "佳代子(正月)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0086_Collection.png",
+        "名称": "佳代子(正月)",
+        "星级": 3
+    },
+    "遥香(正月)": {
+        "头像": "https:\/\/github.com\/lonqie\/SchaleDB\/raw\/main\/images\/student\/icon\/Student_Portrait_CH0087_Collection.png",
+        "名称": "遥香(正月)",
+        "星级": 3
+    }
+}
