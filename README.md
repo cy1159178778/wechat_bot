@@ -2,7 +2,7 @@
 
 # wechat_bot
 
-一个娱乐功能为主的微信机器人
+一个娱乐功能为主的微信机器人，基于WeChatFerry和NoneBot2开发，插件式写法，方便插拔
 
 </div>
 
