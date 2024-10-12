@@ -10,7 +10,7 @@
 ![help](https://github.com/user-attachments/assets/8dfaf92a-b422-4005-9511-93955d004e1f)
 
 ## 安装
-* 本项目使用 Python 3.10 开发，所以建议使用3.10
+* 本项目使用 Python 3.10 开发，所以建议使用3.10 (其他版本也问题不大)
 * 配套[微信](https://github.com/lich0821/WeChatFerry/releases/download/v39.2.4/WeChatSetup-3.9.10.27.exe)版本：3.9.10.27
 * 可以自行根据[requirements.txt](https://github.com/cy1159178778/wechat_bot/blob/main/requirements.txt)搭建环境，或者使用[一键包](https://pan.quark.cn/s/b68eb3843ebc)，提取码：6JXg
 
