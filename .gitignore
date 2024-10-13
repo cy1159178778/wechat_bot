@@ -1,2 +1,3 @@
-runtime
 .idea
+__pycache__
+runtime
