@@ -12,7 +12,7 @@
 ## 安装
 * 本项目使用 Python 3.10 开发，所以建议使用 3.10 (其他版本应该也问题不大)
 * 配套[微信](https://github.com/lich0821/WeChatFerry/releases/download/v39.2.4/WeChatSetup-3.9.10.27.exe)版本：3.9.10.27
-* 可以根据 [requirements.txt](https://github.com/cy1159178778/wechat_bot/blob/main/requirements.txt) 搭建环境，或者使用 [整合包](https://pan.quark.cn/s/308e1cffaaef) (不熟悉python的建议使用)，提取码：VyRR
+* 可以根据 [requirements.txt](https://github.com/cy1159178778/wechat_bot/blob/main/requirements.txt) 搭建环境，或者使用 [整合包](https://pan.quark.cn/s/6732b232121c) (不熟悉python的建议使用)，提取码：pzbD
 
 ## 配置
 * [common.py](https://github.com/cy1159178778/wechat_bot/blob/main/wechat_bot/common.py) 中配置 admin(管理员微信id) 和 nick_name(机器人昵称)
