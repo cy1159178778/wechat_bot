@@ -30,7 +30,7 @@ async def get_og_info(msg: str, group_id: str) -> Optional[Dict[str, Any]]:
     url_dict = group_url_dict[group_id]
     t1 = url_dict.get(url)
     t2 = datetime.datetime.now()
-    if t1 and t2 - t2 < datetime.timedelta(minutes=5):
+    if t1 and t2 - t1 < datetime.timedelta(minutes=5):
         return
     url_dict[url] = t2
 
