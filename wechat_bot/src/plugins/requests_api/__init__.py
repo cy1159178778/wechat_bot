@@ -250,7 +250,7 @@ async def send_daily_60s_task():
 
 
 schedule.every().day.at("09:00").do(run_async_task(send_daily_60s_task))
-schedule.every().day.at("11:00").do(run_async_task(send_daily_60s_task))
+# schedule.every().day.at("11:00").do(run_async_task(send_daily_60s_task))
 
 
 @on_regex(r"^每日?(新闻|60秒|60s|60S)$")
@@ -297,11 +297,11 @@ schedule.every().wednesday.at("10:00").do(run_async_task(send_moyuribao_task))
 schedule.every().thursday.at("10:00").do(run_async_task(send_moyuribao_task))
 schedule.every().friday.at("10:00").do(run_async_task(send_moyuribao_task))
 
-schedule.every().monday.at("12:00").do(run_async_task(send_moyuribao_task))
-schedule.every().tuesday.at("12:00").do(run_async_task(send_moyuribao_task))
-schedule.every().wednesday.at("12:00").do(run_async_task(send_moyuribao_task))
-schedule.every().thursday.at("12:00").do(run_async_task(send_moyuribao_task))
-schedule.every().friday.at("12:00").do(run_async_task(send_moyuribao_task))
+# schedule.every().monday.at("12:00").do(run_async_task(send_moyuribao_task))
+# schedule.every().tuesday.at("12:00").do(run_async_task(send_moyuribao_task))
+# schedule.every().wednesday.at("12:00").do(run_async_task(send_moyuribao_task))
+# schedule.every().thursday.at("12:00").do(run_async_task(send_moyuribao_task))
+# schedule.every().friday.at("12:00").do(run_async_task(send_moyuribao_task))
 
 
 @on_regex(r"^摸鱼(日报|日历)?$")

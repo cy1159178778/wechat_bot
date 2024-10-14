@@ -7,7 +7,7 @@ from .utils import get_og_info
 img_path = os.path.join(os.path.dirname(__file__), "img")
 
 
-@on_regex(r'https?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+')
+@on_regex(r'^.*https?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+.*$')
 async def _(**kwargs):
     msg = kwargs.get("msg")
     room_id = kwargs.get("room_id")

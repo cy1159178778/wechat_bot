@@ -142,6 +142,7 @@ websocket-client==1.8.0
 websockets==10.4
 win32-setctime==1.1.0
 yarl==1.9.4
+zhdate==0.1
 zipp==3.18.1
 zope.event==5.0
 zope.interface==6.4.post2
