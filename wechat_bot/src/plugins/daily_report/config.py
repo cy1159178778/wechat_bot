@@ -68,7 +68,7 @@ class WeekDay(BaseModel):
 class AnimeItem(BaseModel):
     name: str
     name_cn: str
-    images: dict
+    images: dict | None
 
     @property
     def image(self) -> str:
