@@ -1,2 +1,2 @@
-runtime\python wechat_bot\bot.py
+python wechat_bot\bot.py
 pause
