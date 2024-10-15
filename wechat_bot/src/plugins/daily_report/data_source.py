@@ -147,5 +147,5 @@ class Report:
         data_list = []
         now = datetime.now()
         anime = Anime(**res.json()[now.weekday()])
-        data_list.extend((data.name_cn or data.name, data.image) for data in anime.items)
+        data_list.extend((data.name_cn or data.name, data.image) for data in anime.items if data.images)
         return data_list[:8] if len(data_list) > 8 else data_list
