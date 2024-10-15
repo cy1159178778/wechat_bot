@@ -83,7 +83,7 @@ async def _(**kwargs):
             music_file = os.path.join(music_path, file_name)
             await asyncio.get_event_loop().run_in_executor(None, handel_music_file, music_file, content)
             await send_text(f"{title}-{singer}", room_id)
-            await send_file(room_id, music_path)
+            await send_file(room_id, music_file)
             return
         except Exception as e:
             print(e)
