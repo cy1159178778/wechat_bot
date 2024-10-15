@@ -12,7 +12,7 @@
 ## 安装
 * 本项目使用 Python 3.10 开发，所以建议使用 3.10 (其他版本应该也问题不大)
 * 配套 [微信](https://github.com/lich0821/WeChatFerry/releases/download/v39.2.4/WeChatSetup-3.9.10.27.exe) 版本：3.9.10.27
-* 可以根据 [requirements.txt](https://github.com/cy1159178778/wechat_bot/blob/main/requirements.txt) 搭建环境，或者使用 [整合包](https://pan.quark.cn/s/bd301ed28fa2) (不熟悉python的建议使用)，提取码：dEKB
+* 可以根据 [requirements.txt](https://github.com/cy1159178778/wechat_bot/blob/main/requirements.txt) 搭建环境，或者使用 [整合包](https://pan.quark.cn/s/d4f916df1472) (不熟悉python的建议使用)，提取码：6xmJ
 
 ## 配置
 * [common.py](https://github.com/cy1159178778/wechat_bot/blob/main/wechat_bot/common.py) 中配置 admin(管理员微信id) 和 nick_name(机器人昵称)
@@ -24,7 +24,6 @@
 * 定时发送每日新闻和摸鱼日报，[requests_api/__ init__.py](https://github.com/cy1159178778/wechat_bot/blob/main/wechat_bot/src/plugins/requests_api/__init__.py) 中的 task_group 配置微信群id
 
 ## 使用
-* 下载了整合包的可以直接使用bat启动，否则需要按你自己的环境更改脚本
 * [start_wx.bat](https://github.com/cy1159178778/wechat_bot/blob/main/start_wx.bat) 启动微信端
 * [start_bot.bat](https://github.com/cy1159178778/wechat_bot/blob/main/start_bot.bat) 启动机器人
 * 在群内发送“开启功能“即可开启所有功能
