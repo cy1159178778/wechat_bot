@@ -123,7 +123,7 @@ class Report:
 
     @classmethod
     async def get_six(cls) -> list[str]:
-        """获取60s看时间数据"""
+        """获取60s看世界数据"""
         res = await AsyncHttpx.get(cls.six_url)
         data = SixData(**res.json())
         return data.data.news[:11] if len(data.data.news) > 11 else data.data.news
