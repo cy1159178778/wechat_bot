@@ -26,7 +26,6 @@ body {
 }
 
 .wrapper {
-  height: 1885px;
   width: 578px;
   background-color: #ffc0cb;
   position: relative;
@@ -34,12 +33,12 @@ body {
 }
 
 .main {
-  height: 1860px;
   width: 555px;
   background-color: #fffbfc;
   position: relative;
   border-radius: 10px;
   padding: 10px;
+  display: inline-block;
 }
 
 .top-border {
@@ -79,7 +78,6 @@ body {
   height: 108px;
   width: 120px;
   margin-top: 30px;
-  /* margin-left: 67px; */
   position: relative;
   box-shadow: 4px 4px 8px rgba(208, 178, 188, 0.7);
 }
@@ -246,7 +244,6 @@ body {
 .three-border {
   border: #e5aabe 3px solid;
   width: 512px;
-  /* height: 300px; */
   border-radius: 10px;
   position: relative;
   float: left;
@@ -260,7 +257,6 @@ body {
 .four-border {
   border: #e5aabe 3px solid;
   width: 512px;
-  /*height: 300px;*/
   border-radius: 10px;
   position: relative;
   float: left;
@@ -283,14 +279,12 @@ body {
   font-size: 19px;
   color: #efacc3;
   font-weight: 600;
-  line-height: 5px;
   background-color: #fffbfc;
 }
 
 .normal-text {
   white-space: nowrap;
   overflow: hidden;
-  /* text-overflow: ellipsis; */
   white-space: normal;
   width: 450px;
 }
