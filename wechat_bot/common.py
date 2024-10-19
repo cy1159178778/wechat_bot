@@ -2,14 +2,23 @@ import re
 import httpx
 import base64
 import asyncio
+import schedule
 from fastapi import FastAPI
 from datetime import datetime
 from pydantic import BaseModel
+from contextlib import asynccontextmanager
 from wcferry.roomdata_pb2 import RoomData
 
 from db import Db
 
-app = FastAPI()
+
+@asynccontextmanager
+async def lifespan(_):
+    asyncio.create_task(schedule_task())
+    yield
+
+
+app = FastAPI(lifespan=lifespan)
 var = {"bot_connect_time": datetime.now().astimezone(), "msg_rec": 0, "msg_sent": 0}
 admin = "wxid_xxx"
 nick_name = "斯卡蒂"
@@ -31,6 +40,15 @@ class Msg(BaseModel):
     thumb: str
     extra: str
     xml: str
+    
+
+async def schedule_task():
+    while 1:
+        try:
+            schedule.run_pending()
+            await asyncio.sleep(1)
+        except Exception as e:
+            print(e)
 
 
 async def get_alias_in_chatroom(room_id, wx_id):
@@ -243,4 +261,4 @@ async def get_url_content(url, key=""):
 
 
 def run_async_task(func):
-    return lambda: asyncio.run(func())
+    return lambda: asyncio.create_task(func())
