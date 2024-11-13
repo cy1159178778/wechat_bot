@@ -183,12 +183,10 @@ create_matchers()
 
 
 async def first_collect():
-    tasks = []
     for game in games:
         if game.flag:
             game.handle.init_data()
-    await asyncio.gather(*tasks)
-    return schedule.CancelJob
+    schedule.cancel_job(job)
 
 
-schedule.every(1).seconds.do(run_async_task(first_collect))
+job = schedule.every(1).seconds.do(run_async_task(first_collect))
