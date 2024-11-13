@@ -189,7 +189,7 @@ async def first_collect():
             if isinstance(x, BaseFirstTimeCollector)
         ),
     )
-    return schedule.CancelJob
+    schedule.cancel_job(job)
 
 
 async def collect_task():
@@ -202,5 +202,5 @@ async def collect_task():
     )
 
 
-schedule.every(1).seconds.do(run_async_task(first_collect))
+job = schedule.every(1).seconds.do(run_async_task(first_collect))
 schedule.every(config.ps_collect_interval).seconds.do(run_async_task(collect_task))
