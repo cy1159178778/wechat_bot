@@ -215,7 +215,7 @@ async def send_xml(receiver, xml, xml_type, path):
 def get_at_list(xml: str):
     res = at_user_compile.search(xml.replace("\n", ""))
     if res:
-        return res.group(1).split(",")
+        return [*filter(str, res.group(1).split(","))]
     return []
 
 
