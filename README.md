@@ -22,6 +22,8 @@
 * 天气功能，使用和风天气，[apikey获取](https://dev.qweather.com/)，配置在 [heweather/heweather.py](https://github.com/cy1159178778/wechat_bot/blob/main/wechat_bot/src/plugins/heweather/heweather.py) 中的 api_key
 * 图片功能、视频功能、签到、运行状态、kfc、舔狗日记、随机小说，目前是用的本地文件(嫌api不稳定)，需下载 [file](https://pan.quark.cn/s/11f1dd388aee)(夸克网盘, 提取码: YwGB) / [file](https://pan.baidu.com/s/1zCEPS4sKqEkav-SJ9qXvdQ?pwd=5tih)(百度网盘, 提取码: 5tih)，各个压缩包解压到当前文件夹，然后放到 [file](https://github.com/cy1159178778/wechat_bot/tree/main/wechat_bot/data/file) 下，也可自行更换api
 * 定时发送每日新闻和摸鱼日报，[requests_api/__ init__.py](https://github.com/cy1159178778/wechat_bot/blob/main/wechat_bot/src/plugins/requests_api/__init__.py) 中的 task_group 配置微信群id
+* 点歌需要安装[ffmpeg](https://blog.csdn.net/imileseo/article/details/141953801)
+* 表情制作功能，如果是自己搭建的环境，需要下载表情资源，控制台输入meme download，整合包则不需要
 
 ## 使用
 * [start_wx.bat](https://github.com/cy1159178778/wechat_bot/blob/main/start_wx.bat) 启动微信端
