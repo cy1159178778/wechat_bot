@@ -1,3 +1,4 @@
+import asyncio
 import xml.etree.ElementTree
 from datetime import datetime
 from datetime import timedelta
@@ -67,13 +68,22 @@ class Report:
         if file.exists():
             return str(file)
         zhdata = ZhDate.from_datetime(now)
+        result = await asyncio.gather(
+            *[
+                cls.get_hitokoto(),
+                cls.get_bili(),
+                cls.get_six(),
+                cls.get_anime(),
+                cls.get_it(),
+            ]
+        )
         data = {
             "data_festival": cls.festival_calculation(),
-            "data_hitokoto": await cls.get_hitokoto(),
-            "data_bili": await cls.get_bili(),
-            "data_six": await cls.get_six(),
-            "data_anime": await cls.get_anime(),
-            "data_it": await cls.get_it(),
+            "data_hitokoto": result[0],
+            "data_bili": result[1],
+            "data_six": result[2],
+            "data_anime": result[3],
+            "data_it": result[4],
             "week": cls.week[now.weekday()],
             "date": now.date(),
             "zh_date": zhdata.chinese().split()[0][5:],
