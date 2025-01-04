@@ -18,9 +18,20 @@ async def lifespan(_):
     yield
 
 
+class Admin:
+    def __init__(self, users):
+        self.users = users or []
+
+    def __eq__(self, other):
+        return other in self.users
+
+    def __ne__(self, other):
+        return other not in self.users
+
+
 app = FastAPI(lifespan=lifespan)
 var = {"bot_connect_time": datetime.now().astimezone(), "msg_rec": 0, "msg_sent": 0}
-admin = "wxid_xxx"
+admin = Admin(["wxid_xxx"])
 nick_name = "斯卡蒂"
 open_groups_obj = Db("open_groups")
 base_url = "http://127.0.0.1:9999/"
