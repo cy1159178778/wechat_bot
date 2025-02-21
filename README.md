@@ -12,85 +12,99 @@
 ## 效果预览
 
 <details>
-  <summary>对话功能</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo1.jpg" alt="demo1" />
+  <summary>常用功能</summary>
+  =========
+  
+  <details>
+    <summary>对话</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo1.jpg" alt="demo1" />
+  </details>
+  
+  <details>
+    <summary>表情制作</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo2-1.jpg" alt="demo2-1" />
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo2-2.png" alt="demo2-2" />
+  </details>
+  
+  <details>
+    <summary>模拟抽卡</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo3-1.jpg" alt="demo3-1" />
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo3-2.png" alt="demo3-2" />
+  </details>
+  
+  <details>
+    <summary>摸鱼日报</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo4-1.jpg" alt="demo4-1" />
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo4-2.png" alt="demo4-2" />
+  </details>
+  
+  <details>
+    <summary>每日新闻</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo5-1.jpg" alt="demo5-1" />
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo5-2.png" alt="demo5-2" />
+  </details>
+  
+  <details>
+    <summary>日报</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo6-1.jpg" alt="demo6-1" />
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo6-2.png" alt="demo6-2" />
+  </details>
+  
+  <details>
+    <summary>签到</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo7-1.jpg" alt="demo7-1" />
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo7-2.png" alt="demo7-2" />
+  </details>
+
 </details>
 
-<details>
-  <summary>表情功能</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo2-1.jpg" alt="demo2-1" />
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo2-2.png" alt="demo2-2" />
-</details>
+<hr>
 
 <details>
-  <summary>抽卡功能</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo3-1.jpg" alt="demo3-1" />
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo3-2.png" alt="demo3-2" />
-</details>
+  <summary>娱乐功能</summary>
+  =========
 
-<details>
-  <summary>摸鱼日报</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo4-1.jpg" alt="demo4-1" />
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo4-2.png" alt="demo4-2" />
-</details>
+  <details>
+    <summary>扫雷</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo8.jpg" alt="demo8" />
+  </details>
+  
+  <details>
+    <summary>象棋</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo9.jpg" alt="demo9" />
+  </details>
+  
+  <details>
+    <summary>国际象棋</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo10.jpg" alt="demo10" />
+  </details>
+  
+  <details>
+    <summary>五子棋</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo11.jpg" alt="demo11" />
+  </details>
+  
+  <details>
+    <summary>围棋</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo12.jpg" alt="demo12" />
+  </details>
+  
+  <details>
+    <summary>黑白棋</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo13.jpg" alt="demo13" />
+  </details>
+  
+  <details>
+    <summary>人生重开</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo14-1.jpg" alt="demo14-1" />
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo14-2.jpg" alt="demo14-2" />
+  </details>
+  
+  <details>
+    <summary>猜色块</summary>
+    <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo15.jpg" alt="demo15" />
+  </details>
 
-<details>
-  <summary>每日新闻</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo5-1.jpg" alt="demo5-1" />
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo5-2.png" alt="demo5-2" />
-</details>
-
-<details>
-  <summary>日报</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo6-1.jpg" alt="demo6-1" />
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo6-2.png" alt="demo6-2" />
-</details>
-
-<details>
-  <summary>签到</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo7-1.jpg" alt="demo7-1" />
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo7-2.png" alt="demo7-2" />
-</details>
-
-<details>
-  <summary>扫雷</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo8.jpg" alt="demo8" />
-</details>
-
-<details>
-  <summary>象棋</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo9.jpg" alt="demo9" />
-</details>
-
-<details>
-  <summary>国际象棋</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo10.jpg" alt="demo10" />
-</details>
-
-<details>
-  <summary>五子棋</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo11.jpg" alt="demo11" />
-</details>
-
-<details>
-  <summary>围棋</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo12.jpg" alt="demo12" />
-</details>
-
-<details>
-  <summary>黑白棋</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo13.jpg" alt="demo13" />
-</details>
-
-<details>
-  <summary>人生重开</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo14-1.jpg" alt="demo14-1" />
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo14-2.jpg" alt="demo14-2" />
-</details>
-
-<details>
-  <summary>猜色块</summary>
-  <img src="https://github.com/cy1159178778/wechat_bot/blob/main/demo_image/demo15.jpg" alt="demo15" />
 </details>
 
 ## 安装指南
