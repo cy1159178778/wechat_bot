@@ -47,7 +47,7 @@ async def _(**kwargs):
                 return
             data = response.json()["data"]
             music_url = data["music_url"]
-            assert not music_url.startswith("error") and not music_url.startswith("?")
+            assert not music_url.startswith("error") and not music_url.startswith("?") and music_url.startswith("http")
             song_name = data["song_name"]
             song_singer = data["song_singer"]
             content = await get_url_content(music_url)
@@ -73,7 +73,7 @@ async def _(**kwargs):
                 await send_text(msg, room_id, sender, sender_name)
                 return
             music_url = data["music_url"]
-            assert not music_url.startswith("error") and not music_url.startswith("?")
+            assert not music_url.startswith("error") and not music_url.startswith("?") and music_url.startswith("http")
             title = data["title"]
             singer = data["singer"]
             content = await get_url_content(music_url)
