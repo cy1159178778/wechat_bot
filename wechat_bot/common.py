@@ -228,6 +228,9 @@ async def send_xml(receiver, xml, xml_type, path):
 
 
 async def save_image(msg_id, extra, save_dir=save_image_path, timeout=30):
+    if not os.path.exists(save_image_path):
+        os.makedirs(save_image_path, exist_ok=True)
+
     data = {
         "id": msg_id,
         "extra": extra,
