@@ -6,8 +6,6 @@ from common import var, admin, open_groups_obj, get_alias_in_chatroom, get_at_li
 
 plugins_path = os.path.join("src", "plugins")
 for plugin in os.listdir(plugins_path):
-    if not os.path.join(plugins_path, plugin, "__init__.py"):
-        continue
     plugin_package = ".".join(["src", "plugins", plugin])
     __import__(plugin_package)
 current_plugins.sort(key=lambda x: x[0])
@@ -30,7 +28,13 @@ async def handle_msg(msg):
 
     sender = msg.sender
     room_id = msg.roomid
-    text = msg.content.lstrip()
+
+    if msg.type == 49:
+        text = re.findall(r"<title>(.*?)</title>", msg.content)[0].lstrip()
+        svrid = re.findall(r"<svrid>(.*?)</svrid>", msg.content)[0]
+    else:
+        text = msg.content.lstrip()
+        svrid = None
     if text.endswith("\u2005"):
         pass
     else:
@@ -64,7 +68,8 @@ async def handle_msg(msg):
                 "room_id": room_id,
                 "sender": sender,
                 "sender_name": sender_name,
-                "at_list": at_list
+                "at_list": at_list,
+                "svrid": svrid
             }
             await func(**kwargs)
             if block:

@@ -7,7 +7,7 @@ from meme_generator import Meme
 
 from on import on_regex
 from common import send_text, send_image, send_emotion, get_head_img_by_wx_id, get_meme_user_info, get_url_content, \
-    get_chatroom_member
+    get_chatroom_member, get_image_by_svrid
 from .manager import meme_manager
 
 base_path = Path(__file__).parent
@@ -133,6 +133,7 @@ def handle_matchers(meme: Meme):
         sender = kwargs.get("sender")
         sender_name = kwargs.get("sender_name")
         at_list = kwargs.get("at_list")
+        svrid = kwargs.get("svrid")
         groups = match_obj.groups()
         text = groups[-1]
         wx_name_list = []
@@ -220,6 +221,9 @@ def handle_matchers(meme: Meme):
                 image_list.append(head_img_bytes)
                 args_user_infos.append({"name": name, "gender": "unknown"})
         args["user_infos"] = args_user_infos
+
+        if meme.params_type.min_images and svrid and (svrid_image := await get_image_by_svrid(svrid)):
+            image_list[-1] = svrid_image
 
         try:
             img_io = await asyncio.get_event_loop().run_in_executor(None, meme_call, meme, image_list, text_list, args)

@@ -1,8 +1,10 @@
+import os
 import re
 import httpx
 import base64
 import asyncio
 import schedule
+from pathlib import Path
 from fastapi import FastAPI
 from datetime import datetime
 from pydantic import BaseModel
@@ -36,6 +38,8 @@ nick_name = "斯卡蒂"
 open_groups_obj = Db("open_groups")
 base_url = "http://127.0.0.1:9999/"
 at_user_compile = re.compile(r"<atuserlist>.*?<!\[CDATA\[(.+?)]]>.*?</atuserlist>")
+wechat_save_path = r"替换成自己的微信文件保存位置\Documents\WeChat Files"
+save_image_path = os.path.join(Path(__file__).parent, "data", "save_image")
 
 
 class Msg(BaseModel):
@@ -221,6 +225,60 @@ async def send_xml(receiver, xml, xml_type, path):
             return response
     except Exception as e:
         print("send_file error:", e)
+
+
+async def save_image(msg_id, extra, save_dir=save_image_path, timeout=30):
+    data = {
+        "id": msg_id,
+        "extra": extra,
+        "dir": save_dir,
+        "timeout": timeout
+    }
+
+    try:
+        response = httpx.post(base_url + "save-image", json=data)
+        return response.json()["data"]["path"]
+    except Exception as e:
+        print("save_image error:", e)
+
+
+async def get_data_by_svrid(svrid):
+    db = "MSG0.db"
+    sql = f"SELECT * FROM MSG where MsgSvrID = {svrid}"
+    results = await query_sql(db, sql)
+    if not results:
+        return
+
+    return results[0]
+
+
+async def get_image_by_svrid(svrid):
+    data = await get_data_by_svrid(svrid)
+    if not data:
+        return
+
+    if data["Type"] == 47:
+        str_content = data["StrContent"]
+        cdnurl_list = re.findall(f"cdnurl = \"(.*?)\"", str_content)
+        if cdnurl_list:
+            return await get_url_content(cdnurl_list[0].replace("&amp;", "&"))
+        return
+
+    if data["Type"] != 3:
+        return
+
+    bytes_extra = base64.b64decode(data["BytesExtra"])
+    str_extra = bytes_extra.decode("utf-8", errors="ignore")
+    img_list = re.findall(r"\w+\\.*?\.dat", str_extra)
+    if not img_list:
+        return
+
+    path = await save_image(int(svrid), os.path.join(wechat_save_path, img_list[0]))
+    if not path or not os.path.exists(path):
+        return
+
+    with open(path, "rb") as f:
+        return f.read()
 
 
 def get_at_list(xml: str):
