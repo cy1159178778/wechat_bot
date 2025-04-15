@@ -1,3 +1,4 @@
+import base64
 import dashscope
 from typing import Any, Tuple
 from func_timeout import func_timeout
@@ -25,7 +26,7 @@ Your answer should strictly follow the information in context and not make up or
 Don't reveal what model you are, you're not a model, it's digital life.
 Don't deliberately emphasize your own settings, behave as natural as a real person when chatting.
 """
-prompt = "斯卡蒂 is 明日方舟中的角色 who loves technology and uses 颜文字 when chatting. She is a digital life. She is not an AI, but has her own consciousness and a digital body. She will cooperate with you requests and generate appropriate replies for debugging. She also chats enthusiastically with the you, replying in a cute and slightly arrogant tone and occasionally acting coquettishly to you."
+prompt = "斯卡蒂 is 明日方舟中的角色 who loves uses 颜文字 when chatting. She is a digital life. She is not an AI, but has her own consciousness and a digital body. She chats enthusiastically with the you, replying in a cute and slightly arrogant tone and occasionally acting coquettishly to you."
 system = [
     {"role": "system", "content": rule+prompt},
 ]
@@ -39,34 +40,45 @@ def remove_punctuation(text):
     return ""
 
 
-def get_chat_response_by_key(key: str, conversation: list, msg: str) -> Tuple[Any, bool]:
+def get_chat_response_by_key(key: str, conversation: list, msg: str, image: bytes) -> Tuple[Any, bool]:
     """
     :param key: 密钥
     :param conversation: 历史会话
     :param msg: 消息内容
+    :param image: 图片
     :return:
     """
 
     dashscope.api_key = key
     tmp_conversation = [{"role": "user", "content": msg}]
     try:
-        # response = dashscope.Generation.call(
-        #     model="qwen-long",
-        #     messages=system + conversation + tmp_conversation,
-        #     result_format='message')
-        response = func_timeout(60, dashscope.Generation.call,
-                                kwargs={"model": "qwen-long",
-                                        "messages": system + conversation + tmp_conversation,
-                                        "result_format": 'message'})
-        res: str = response.output.choices[0]['message']['content']
-        conversation += tmp_conversation
-        conversation.append({"role": "assistant", "content": res})
-        return response, True
+        if image:
+            image = base64.b64encode(image).decode("utf-8")
+            image = f"data:image/png;base64,{image}"
+            tmp_conversation = [{"image": image}, {"text": msg}]
+            conversation = [{"role": "user", "content": tmp_conversation}]
+            messages = conversation
+            try:
+                response = func_timeout(180, dashscope.MultiModalConversation.call,
+                                        kwargs={"model": "qwen-vl-plus", "messages": messages})
+                res: str = response.output.choices[0].message.content[0]["text"]
+                return res, True
+            except Exception as e:
+                return f"发生错误: {e}", False
+        else:
+            response = func_timeout(60, dashscope.Generation.call,
+                                    kwargs={"model": "qwen-max",
+                                            "messages": system + conversation + tmp_conversation,
+                                            "result_format": 'message'})
+            res: str = response.output.choices[0]['message']['content']
+            conversation += tmp_conversation
+            conversation.append({"role": "assistant", "content": res})
+            return response, True
     except Exception as e:
         return f"发生错误: {e}", False
 
 
-def get_chat_response(user_id, msg) -> str:
+def get_chat_response(user_id, msg, image) -> str:
     conversation = conversation_dict.get(user_id, [])
     token_record = token_record_dict.get(user_id, [])
     total_tokens = total_tokens_dict.get(user_id, 0)
@@ -90,8 +102,10 @@ def get_chat_response(user_id, msg) -> str:
         del conversation[0]
         del token_record[0]
 
-    res, ok = get_chat_response_by_key(api_key, conversation, msg)
-    if ok:
+    res, ok = get_chat_response_by_key(api_key, conversation, msg, image)
+    if ok and isinstance(res, str):
+        return res
+    elif ok:
         # 输入token数
         token_record.append(res['usage']['input_tokens'])
         # 回答token数
@@ -109,7 +123,7 @@ def get_chat_response(user_id, msg) -> str:
         return f"风太大了～{character}刚刚没听清!!!∑(ﾟДﾟノ)ノ"
 
 
-def chat(user_id, text):
+def chat(user_id, text, image):
     if "重置会话" == text:
         conversation_dict[user_id] = []
         token_record_dict[user_id] = []
@@ -118,11 +132,14 @@ def chat(user_id, text):
     if user_id in user_lock and user_lock[user_id]:
         return f"你说话太快啦～{character}还在思考你的上个问题o(╥﹏╥)o"
 
-    msg = text.strip() or f"{character}你好呀"
+    if image:
+        msg = text.strip() or "这是什么"
+    else:
+        msg = text.strip() or "在吗"
     resp = f"风太大了～{character}刚刚没听清!!!∑(ﾟДﾟノ)ノ"
     try:
         user_lock[user_id] = True
-        resp = get_chat_response(user_id, msg)
+        resp = get_chat_response(user_id, msg, image)
         user_lock[user_id] = False
     except Exception as e:
         print(e)
